@@ -1,0 +1,2069 @@
+hotel_id,hotel,negative_review_count,phrase
+13,Americas Best Value Inn,16,non smoking
+27,Arizona Inn of Prescott Valley,1,non smoking
+38,Baymont Inn and Suites Enid,1,non smoking
+48,Best Western Hospitality Hotel and Suites,1,non smoking
+59,Best Western Plus Waterville Grand Hotel,1,non smoking
+109,Comfort Inn,2,non smoking
+115,Comfort Inn Huntingdon,1,non smoking
+131,Country Inn and Suites By Carlson Charlotte University Place,1,non smoking
+144,Crossland Economy Studios - Lake Charles - Sulphur,3,non smoking
+148,Days Inn & Suites Castle Rock,5,non smoking
+152,Days Inn Bowling Green,1,non smoking
+156,Days Inn Fort Wayne,2,non smoking
+158,Days Inn Kuttawa,2,non smoking
+159,Days Inn Lanham Washington Dc,3,non smoking
+160,Days Inn Lincolnton,1,non smoking
+162,Days Inn North Columbia Ft. Jackson,1,non smoking
+163,Days Inn Ruther Glen Kings Dominion Area,5,non smoking
+164,Days Inn Warren,2,non smoking
+165,Days Inn West Memphis,1,non smoking
+166,Days Inn and Suites Albany,4,non smoking
+170,Discovery Inn,2,non smoking
+182,Econo Lodge Bellmawr,2,non smoking
+185,Economy Inn,1,non smoking
+198,Extended Stay America - Chicago - Westmont - Oak Brook,3,non smoking
+199,Extended Stay America - Columbia - Northwest Harbison,1,non smoking
+200,Extended Stay America - Fort Lauderdale - Davie,1,non smoking
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,3,non smoking
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,3,non smoking
+203,Extended Stay America - Rockford - I-90,1,non smoking
+206,Fairbridge Inn,1,non smoking
+207,Fairfield Inn & Suites Atlanta Perimeter Center,1,non smoking
+219,Fiesta Inn and Suites,11,non smoking
+230,Gardena Terrace Inn,4,non smoking
+232,Good Nite Inn Rohnert Park,5,non smoking
+240,Haltom Inn,2,non smoking
+247,Hampton Inn Dublin,1,non smoking
+249,Hampton Inn Ft Chiswell,1,non smoking
+259,Harrah's Laughlin Hotel and Casino,2,non smoking
+281,Holiday Inn Express & Suites West Monroe,1,non smoking
+289,Holiday Inn Express Hotel & Suites Emporia,1,non smoking
+297,Holiday Inn Express Hotel and Suites Raleigh-wakefield,1,non smoking
+312,Hotel Adler Cavalieri,1,non smoking
+323,Hotel Lavonia,2,non smoking
+339,Howard Johnson Inn - Newburgh,7,non smoking
+340,Howard Johnson Inn Columbia,1,non smoking
+357,Intown Suites El Paso,1,non smoking
+360,Ip Casino Resort Spa,10,non smoking
+361,Jacksonville Plaza Hotel and Suites,2,non smoking
+364,Jvd Hotels,1,non smoking
+368,Knights Inn Aiken,1,non smoking
+369,Knights Inn Amarillo Airport,1,non smoking
+370,Knights Inn Carmel Hill,1,non smoking
+379,La Quinta Inn Auburn Worcester,1,non smoking
+383,La Quinta Inn and Suites Miami Cutler Bay,3,non smoking
+384,La Quinta Inn and Suites Nashville Franklin,2,non smoking
+385,La Quinta Inn and Suites Sunrise,2,non smoking
+386,La Quinta Inn and Suites Tucson - Reid Park,2,non smoking
+393,Lewis River Inn,1,non smoking
+415,Microtel Inn By Wyndham Knoxville,1,non smoking
+417,Microtel Inn Suites By Wyndham San Antonio By Seaworld,1,non smoking
+453,Plaza Hotel and Casino - Las Vegas,6,non smoking
+460,Quality Inn,3,non smoking
+463,Quality Inn Gulfport,2,non smoking
+468,Quality Inn and Suites,4,non smoking
+470,Quality Inn and Suites Eugene-springfield,2,non smoking
+481,Rapid City Days Inn,1,non smoking
+486,Red Rest Inn,3,non smoking
+488,Red Roof Inn Cedar Rapids,2,non smoking
+489,Red Roof Inn Erie,1,non smoking
+518,Sleep Inn At Harbour View,1,non smoking
+520,Solstice,2,non smoking
+526,Sportsmen's Lodge,1,non smoking
+534,Suburban Extended Stay Warner Robins,1,non smoking
+538,Sunset Inn,1,non smoking
+539,Super 8,1,non smoking
+541,Super 8 - Upland,5,non smoking
+543,Super 8 Batesville Ar,9,non smoking
+545,Super 8 Big Cabin Vinita Ok,1,non smoking
+546,Super 8 Blackwell Ok,1,non smoking
+547,Super 8 Bradenton Sarasota Area,1,non smoking
+553,Super 8 Dallas South,3,non smoking
+558,Super 8 Ithaca,2,non smoking
+559,Super 8 Kansas City Airport,2,non smoking
+560,Super 8 Kingston,1,non smoking
+563,Super 8 Manhattan Ks,1,non smoking
+564,Super 8 Metropolis,2,non smoking
+567,Super 8 Pittsburgh/monroeville,6,non smoking
+568,Super 8 Schenect/albany Area,3,non smoking
+569,Super 8 Worthington Minnesota,2,non smoking
+595,Town Country Motel,2,non smoking
+3,40 Berkeley Hostel,4,not clean
+4,A Bed & Breakfast In Cambridge,2,not clean
+10,Ambassadors Inn and Suites,1,not clean
+13,Americas Best Value Inn,5,not clean
+15,Americas Best Value Inn and Suites,1,not clean
+16,Americinn Coralville,1,not clean
+22,Anaheim Marriott Suites,1,not clean
+27,Arizona Inn of Prescott Valley,1,not clean
+32,Atlantic House,1,not clean
+37,Baymont Inn and Suites Boone,1,not clean
+38,Baymont Inn and Suites Enid,1,not clean
+49,Best Western Hotel De Neuville,1,not clean
+59,Best Western Plus Waterville Grand Hotel,6,not clean
+64,Best Western of Long Beach,3,not clean
+97,Cherry Orchard Inn,1,not clean
+102,Cliff's Motor Inn,1,not clean
+111,Comfort Inn - Springfield,1,not clean
+116,Comfort Inn Livermore,1,not clean
+117,Comfort Inn Montgomery,1,not clean
+120,Comfort Inn and Suites O'fallon,2,not clean
+132,Country Inn and Suites By Carlson Corbin,1,not clean
+144,Crossland Economy Studios - Lake Charles - Sulphur,2,not clean
+155,Days Inn El Reno Ok,2,not clean
+156,Days Inn Fort Wayne,3,not clean
+165,Days Inn West Memphis,1,not clean
+166,Days Inn and Suites Albany,1,not clean
+171,Dockers Inn,1,not clean
+175,Doubletree By Hilton West Palm Beach Airport,1,not clean
+178,Durango Travelodge,2,not clean
+183,Econo Lodge Miles City,1,not clean
+185,Economy Inn,1,not clean
+186,Eden Park Guest House,1,not clean
+189,Elba Sara Beach & Golf Resort,1,not clean
+190,Eldorado Inn,1,not clean
+198,Extended Stay America - Chicago - Westmont - Oak Brook,2,not clean
+199,Extended Stay America - Columbia - Northwest Harbison,1,not clean
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,1,not clean
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,2,not clean
+205,Extended Stay America San Diego - Carlsbad Village By The Sea,1,not clean
+206,Fairbridge Inn,1,not clean
+207,Fairfield Inn & Suites Atlanta Perimeter Center,1,not clean
+219,Fiesta Inn and Suites,17,not clean
+230,Gardena Terrace Inn,3,not clean
+239,Greenstay Hotel and Suites,1,not clean
+240,Haltom Inn,1,not clean
+254,Hampton Inn Sarasota - I-75 Bee Ridge,4,not clean
+257,Hampton Inn Virginia Beach Oceanfront North,1,not clean
+258,Hampton Inn and Suites Annapolis,3,not clean
+259,Harrah's Laughlin Hotel and Casino,1,not clean
+261,Hawthorn Suites Dayton North,3,not clean
+267,Hilton Garden Inn Kauai Wailua Bay,1,not clean
+281,Holiday Inn Express & Suites West Monroe,1,not clean
+285,Holiday Inn Express Colton-riverside North,1,not clean
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,1,not clean
+306,Holiday Inn Victorville,1,not clean
+312,Hotel Adler Cavalieri,1,not clean
+320,Hotel Deca - A Noble House Hotel,2,not clean
+339,Howard Johnson Inn - Newburgh,10,not clean
+348,Hyatt Regency Kathmandu,1,not clean
+360,Ip Casino Resort Spa,1,not clean
+361,Jacksonville Plaza Hotel and Suites,1,not clean
+364,Jvd Hotels,1,not clean
+369,Knights Inn Amarillo Airport,1,not clean
+370,Knights Inn Carmel Hill,1,not clean
+371,Knights Inn Eau Claire,2,not clean
+379,La Quinta Inn Auburn Worcester,1,not clean
+382,La Quinta Inn and Suites Meridian,5,not clean
+384,La Quinta Inn and Suites Nashville Franklin,1,not clean
+385,La Quinta Inn and Suites Sunrise,2,not clean
+386,La Quinta Inn and Suites Tucson - Reid Park,2,not clean
+390,Lakeway Resort & Spa,1,not clean
+415,Microtel Inn By Wyndham Knoxville,1,not clean
+418,Microtel Inn and Suites By Wyndham Burlington,3,not clean
+420,Miramar Boutique Hotel,1,not clean
+423,Monterey Beach Dunes Inn,4,not clean
+425,Motel 6 Fort Bragg,1,not clean
+434,Norwood Inn and Suites,1,not clean
+440,Palm Suites,2,not clean
+453,Plaza Hotel and Casino - Las Vegas,4,not clean
+460,Quality Inn,3,not clean
+463,Quality Inn Gulfport,1,not clean
+464,Quality Inn Johnson City,1,not clean
+465,Quality Inn Long Beach Airport,2,not clean
+468,Quality Inn and Suites,1,not clean
+469,Quality Inn and Suites Big Rapids,2,not clean
+471,Quality Inn and Suites Irvine Spectrum,1,not clean
+486,Red Rest Inn,1,not clean
+488,Red Roof Inn Cedar Rapids,2,not clean
+490,Red Roof Inn St Louis - Troy,2,not clean
+493,Residence Inn By Marriott Deptford,2,not clean
+526,Sportsmen's Lodge,1,not clean
+538,Sunset Inn,1,not clean
+541,Super 8 - Upland,1,not clean
+544,Super 8 Belle Fourche,2,not clean
+545,Super 8 Big Cabin Vinita Ok,1,not clean
+557,Super 8 Indianapolis,1,not clean
+558,Super 8 Ithaca,1,not clean
+559,Super 8 Kansas City Airport,1,not clean
+560,Super 8 Kingston,1,not clean
+561,Super 8 Longmont / Del Camino,1,not clean
+564,Super 8 Metropolis,1,not clean
+571,The Abbey Resort,1,not clean
+582,The Inn At Bella Vista,1,not clean
+584,The Jayakarta Bali,1,not clean
+592,The Westin Europa and Regina,1,not clean
+596,Towneplace Suites Albany University Area,1,not clean
+598,Travelodge Anaheim Convention Center,3,not clean
+599,Travelodge Ruther Glen,2,not clean
+604,Turf Motel,1,not clean
+3,40 Berkeley Hostel,1,not work
+10,Ambassadors Inn and Suites,1,not work
+13,Americas Best Value Inn,5,not work
+15,Americas Best Value Inn and Suites,1,not work
+17,Americinn Lodge & Suites Appleton,2,not work
+23,Anglers Inn,1,not work
+27,Arizona Inn of Prescott Valley,1,not work
+36,Baymont Inn & Suites Griffin,1,not work
+37,Baymont Inn and Suites Boone,1,not work
+45,Best Western Eufaula Inn,1,not work
+48,Best Western Hospitality Hotel and Suites,2,not work
+52,Best Western Owasso Inn & Suites,1,not work
+59,Best Western Plus Waterville Grand Hotel,1,not work
+76,Budget Host Inn,1,not work
+83,Campus Inn & Suites Eugene Downtown,1,not work
+90,Candlewood Suites West Springfield,1,not work
+96,Cherokee Lodge Bed and Breakfast,2,not work
+109,Comfort Inn,2,not work
+111,Comfort Inn - Springfield,1,not work
+115,Comfort Inn Huntingdon,1,not work
+116,Comfort Inn Livermore,1,not work
+118,Comfort Inn and Suites,1,not work
+120,Comfort Inn and Suites O'fallon,1,not work
+121,Comfort Suites,2,not work
+127,Country Inn & Suites By Carlson,1,not work
+131,Country Inn and Suites By Carlson Charlotte University Place,1,not work
+138,Courtyard By Marriott Downtown Boise,1,not work
+143,Crestview Condominiums,1,not work
+144,Crossland Economy Studios - Lake Charles - Sulphur,2,not work
+154,Days Inn Brookings,1,not work
+162,Days Inn North Columbia Ft. Jackson,1,not work
+163,Days Inn Ruther Glen Kings Dominion Area,3,not work
+166,Days Inn and Suites Albany,1,not work
+170,Discovery Inn,1,not work
+171,Dockers Inn,1,not work
+178,Durango Travelodge,1,not work
+184,Econo Lodge St Robert,1,not work
+185,Economy Inn,2,not work
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,1,not work
+219,Fiesta Inn and Suites,16,not work
+230,Gardena Terrace Inn,2,not work
+237,Great American Inn Suites,1,not work
+250,Hampton Inn Grand Junction Downtown/historic Main Street,1,not work
+254,Hampton Inn Sarasota - I-75 Bee Ridge,1,not work
+256,Hampton Inn Tucson-airport,1,not work
+258,Hampton Inn and Suites Annapolis,1,not work
+260,Hawthorn Suites By Wyndham Livermore Wine Country,2,not work
+265,Hilton Garden Inn Austin Nw - Arboretum,1,not work
+271,Hilton Santo Domingo,1,not work
+279,Holiday Inn Express & Suites Phoenix Downtown - Ballpark,1,not work
+281,Holiday Inn Express & Suites West Monroe,2,not work
+285,Holiday Inn Express Colton-riverside North,2,not work
+286,Holiday Inn Express Dahlonega,2,not work
+314,Hotel Aura Sfo,1,not work
+320,Hotel Deca - A Noble House Hotel,1,not work
+323,Hotel Lavonia,1,not work
+329,Hotel Portaventura,1,not work
+334,Hotel Silken Siete Coronas,1,not work
+339,Howard Johnson Inn - Newburgh,12,not work
+343,Hyatt House Colorado Springs,1,not work
+344,Hyatt Place Atlanta/alpharetta/north Point Mall,2,not work
+354,Innisbrook,1,not work
+360,Ip Casino Resort Spa,1,not work
+364,Jvd Hotels,2,not work
+371,Knights Inn Eau Claire,1,not work
+376,La Quinta Inn & Suites Auburn,1,not work
+384,La Quinta Inn and Suites Nashville Franklin,1,not work
+386,La Quinta Inn and Suites Tucson - Reid Park,1,not work
+391,Lamothe House,1,not work
+421,Monarch Inn,1,not work
+423,Monterey Beach Dunes Inn,1,not work
+434,Norwood Inn and Suites,7,not work
+453,Plaza Hotel and Casino - Las Vegas,2,not work
+460,Quality Inn,2,not work
+463,Quality Inn Gulfport,1,not work
+465,Quality Inn Long Beach Airport,1,not work
+468,Quality Inn and Suites,2,not work
+486,Red Rest Inn,1,not work
+488,Red Roof Inn Cedar Rapids,5,not work
+490,Red Roof Inn St Louis - Troy,1,not work
+499,Rodeway Inn,1,not work
+520,Solstice,5,not work
+521,Sombrero Resort and Marina,1,not work
+526,Sportsmen's Lodge,1,not work
+535,Suburban Extended Stay of Memphis Bartlett,6,not work
+539,Super 8,2,not work
+541,Super 8 - Upland,4,not work
+546,Super 8 Blackwell Ok,1,not work
+547,Super 8 Bradenton Sarasota Area,2,not work
+554,Super 8 Elko Nv,1,not work
+557,Super 8 Indianapolis,1,not work
+558,Super 8 Ithaca,1,not work
+559,Super 8 Kansas City Airport,2,not work
+561,Super 8 Longmont / Del Camino,1,not work
+563,Super 8 Manhattan Ks,1,not work
+564,Super 8 Metropolis,2,not work
+566,Super 8 Opelousas,1,not work
+569,Super 8 Worthington Minnesota,2,not work
+572,"The Alexandrian, Autograph Collection",1,not work
+598,Travelodge Anaheim Convention Center,1,not work
+615,Vista Hotel On Lake Tarpon,2,not work
+618,Western Inn-glacier Park,1,not work
+3,40 Berkeley Hostel,1,not recommend
+10,Ambassadors Inn and Suites,3,not recommend
+12,American Star Inn and Suites Atlantic City,4,not recommend
+13,Americas Best Value Inn,10,not recommend
+15,Americas Best Value Inn and Suites,1,not recommend
+36,Baymont Inn & Suites Griffin,1,not recommend
+37,Baymont Inn and Suites Boone,1,not recommend
+39,Bayside Resort Hotel,1,not recommend
+49,Best Western Hotel De Neuville,1,not recommend
+57,Best Western Plus Kelly Inn,1,not recommend
+61,Best Western Saint-etienne Aeroport,1,not recommend
+64,Best Western of Long Beach,2,not recommend
+83,Campus Inn & Suites Eugene Downtown,1,not recommend
+93,Castle Kona Reef,2,not recommend
+109,Comfort Inn,1,not recommend
+111,Comfort Inn - Springfield,1,not recommend
+121,Comfort Suites,1,not recommend
+125,Comfort Suites Southport,1,not recommend
+130,Country Inn and Suites By Carlson,1,not recommend
+136,Courtyard Burlington Harbor,1,not recommend
+148,Days Inn & Suites Castle Rock,2,not recommend
+152,Days Inn Bowling Green,1,not recommend
+162,Days Inn North Columbia Ft. Jackson,1,not recommend
+163,Days Inn Ruther Glen Kings Dominion Area,1,not recommend
+170,Discovery Inn,1,not recommend
+175,Doubletree By Hilton West Palm Beach Airport,1,not recommend
+178,Durango Travelodge,1,not recommend
+182,Econo Lodge Bellmawr,1,not recommend
+185,Economy Inn,1,not recommend
+192,Elk Springs Resort,1,not recommend
+198,Extended Stay America - Chicago - Westmont - Oak Brook,1,not recommend
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,1,not recommend
+203,Extended Stay America - Rockford - I-90,2,not recommend
+206,Fairbridge Inn,4,not recommend
+219,Fiesta Inn and Suites,23,not recommend
+230,Gardena Terrace Inn,1,not recommend
+254,Hampton Inn Sarasota - I-75 Bee Ridge,2,not recommend
+260,Hawthorn Suites By Wyndham Livermore Wine Country,1,not recommend
+265,Hilton Garden Inn Austin Nw - Arboretum,1,not recommend
+286,Holiday Inn Express Dahlonega,1,not recommend
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,1,not recommend
+293,Holiday Inn Express Hotel and Suites Cambridge,2,not recommend
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,2,not recommend
+306,Holiday Inn Victorville,1,not recommend
+326,Hotel Millersburg,1,not recommend
+339,Howard Johnson Inn - Newburgh,11,not recommend
+340,Howard Johnson Inn Columbia,1,not recommend
+346,Hyatt Place San Antonio Airport - Quarry Market,1,not recommend
+361,Jacksonville Plaza Hotel and Suites,1,not recommend
+364,Jvd Hotels,1,not recommend
+368,Knights Inn Aiken,3,not recommend
+375,La Quinta,1,not recommend
+379,La Quinta Inn Auburn Worcester,2,not recommend
+380,La Quinta Inn Calhoun,1,not recommend
+383,La Quinta Inn and Suites Miami Cutler Bay,1,not recommend
+384,La Quinta Inn and Suites Nashville Franklin,1,not recommend
+408,Mccamly Plaza Hotel,1,not recommend
+410,Melia Paris Champs-elys��es,1,not recommend
+415,Microtel Inn By Wyndham Knoxville,1,not recommend
+418,Microtel Inn and Suites By Wyndham Burlington,1,not recommend
+423,Monterey Beach Dunes Inn,1,not recommend
+440,Palm Suites,1,not recommend
+453,Plaza Hotel and Casino - Las Vegas,3,not recommend
+460,Quality Inn,1,not recommend
+461,Quality Inn & Suites,1,not recommend
+463,Quality Inn Gulfport,1,not recommend
+465,Quality Inn Long Beach Airport,2,not recommend
+466,Quality Inn Near Six Flags,1,not recommend
+468,Quality Inn and Suites,1,not recommend
+469,Quality Inn and Suites Big Rapids,1,not recommend
+471,Quality Inn and Suites Irvine Spectrum,1,not recommend
+486,Red Rest Inn,3,not recommend
+488,Red Roof Inn Cedar Rapids,1,not recommend
+496,Residence Inn By Marriott Irvine John Wayne Airport,1,not recommend
+526,Sportsmen's Lodge,1,not recommend
+527,Springhill Suites By Marriott Sarasota Bradenton,1,not recommend
+535,Suburban Extended Stay of Memphis Bartlett,3,not recommend
+541,Super 8 - Upland,2,not recommend
+543,Super 8 Batesville Ar,1,not recommend
+544,Super 8 Belle Fourche,2,not recommend
+547,Super 8 Bradenton Sarasota Area,1,not recommend
+558,Super 8 Ithaca,1,not recommend
+559,Super 8 Kansas City Airport,1,not recommend
+568,Super 8 Schenect/albany Area,1,not recommend
+569,Super 8 Worthington Minnesota,1,not recommend
+572,"The Alexandrian, Autograph Collection",5,not recommend
+584,The Jayakarta Bali,1,not recommend
+594,Tidewater Inn,3,not recommend
+615,Vista Hotel On Lake Tarpon,1,not recommend
+622,Wine Valley Lodge,1,not recommend
+623,Wingate By Wyndham Chantilly / Dulles Airport,1,not recommend
+628,Wyndham Vacation Resorts Towers On The Grove,1,not recommend
+12,American Star Inn and Suites Atlantic City,1,didn't work
+13,Americas Best Value Inn,11,didn't work
+15,Americas Best Value Inn and Suites,2,didn't work
+16,Americinn Coralville,5,didn't work
+23,Anglers Inn,2,didn't work
+25,Arcola Inn,1,didn't work
+27,Arizona Inn of Prescott Valley,2,didn't work
+37,Baymont Inn and Suites Boone,2,didn't work
+48,Best Western Hospitality Hotel and Suites,1,didn't work
+50,Best Western Knoxville Suites,1,didn't work
+58,Best Western Plus San Marcos Inn,1,didn't work
+59,Best Western Plus Waterville Grand Hotel,2,didn't work
+64,Best Western of Long Beach,2,didn't work
+76,Budget Host Inn,1,didn't work
+93,Castle Kona Reef,1,didn't work
+101,Clatskanie River Inn,1,didn't work
+111,Comfort Inn - Springfield,1,didn't work
+112,Comfort Inn Birmingham - Irondale,1,didn't work
+116,Comfort Inn Livermore,1,didn't work
+121,Comfort Suites,2,didn't work
+127,Country Inn & Suites By Carlson,1,didn't work
+130,Country Inn and Suites By Carlson,2,didn't work
+131,Country Inn and Suites By Carlson Charlotte University Place,1,didn't work
+132,Country Inn and Suites By Carlson Corbin,1,didn't work
+139,Courtyard By Marriott Rockaway Mount Arlington,1,didn't work
+144,Crossland Economy Studios - Lake Charles - Sulphur,1,didn't work
+148,Days Inn & Suites Castle Rock,3,didn't work
+149,Days Inn Bangor Airport,1,didn't work
+156,Days Inn Fort Wayne,1,didn't work
+158,Days Inn Kuttawa,1,didn't work
+160,Days Inn Lincolnton,1,didn't work
+162,Days Inn North Columbia Ft. Jackson,1,didn't work
+165,Days Inn West Memphis,1,didn't work
+166,Days Inn and Suites Albany,4,didn't work
+170,Discovery Inn,1,didn't work
+174,Doubletree By Hilton Hotel Bay City - Riverfront,1,didn't work
+175,Doubletree By Hilton West Palm Beach Airport,1,didn't work
+198,Extended Stay America - Chicago - Westmont - Oak Brook,1,didn't work
+200,Extended Stay America - Fort Lauderdale - Davie,1,didn't work
+203,Extended Stay America - Rockford - I-90,2,didn't work
+206,Fairbridge Inn,3,didn't work
+207,Fairfield Inn & Suites Atlanta Perimeter Center,1,didn't work
+218,Fiesta Inn Centro Historico,1,didn't work
+219,Fiesta Inn and Suites,14,didn't work
+230,Gardena Terrace Inn,2,didn't work
+239,Greenstay Hotel and Suites,1,didn't work
+240,Haltom Inn,1,didn't work
+245,Hampton Inn Abilene,1,didn't work
+259,Harrah's Laughlin Hotel and Casino,1,didn't work
+265,Hilton Garden Inn Austin Nw - Arboretum,1,didn't work
+270,Hilton San Diego Airport/harbor Island,1,didn't work
+281,Holiday Inn Express & Suites West Monroe,2,didn't work
+289,Holiday Inn Express Hotel & Suites Emporia,2,didn't work
+297,Holiday Inn Express Hotel and Suites Raleigh-wakefield,1,didn't work
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,2,didn't work
+310,Homewood Suites By Hilton Indpls Airport / Plainfield In,1,didn't work
+314,Hotel Aura Sfo,2,didn't work
+316,Hotel Casena Dei Colli,1,didn't work
+320,Hotel Deca - A Noble House Hotel,1,didn't work
+323,Hotel Lavonia,1,didn't work
+333,Hotel Russo Palace,1,didn't work
+339,Howard Johnson Inn - Newburgh,1,didn't work
+340,Howard Johnson Inn Columbia,1,didn't work
+346,Hyatt Place San Antonio Airport - Quarry Market,1,didn't work
+364,Jvd Hotels,2,didn't work
+369,Knights Inn Amarillo Airport,3,didn't work
+370,Knights Inn Carmel Hill,1,didn't work
+382,La Quinta Inn and Suites Meridian,2,didn't work
+421,Monarch Inn,2,didn't work
+423,Monterey Beach Dunes Inn,1,didn't work
+434,Norwood Inn and Suites,2,didn't work
+440,Palm Suites,1,didn't work
+453,Plaza Hotel and Casino - Las Vegas,3,didn't work
+462,Quality Inn & Suites Hanes Mall,1,didn't work
+463,Quality Inn Gulfport,1,didn't work
+464,Quality Inn Johnson City,1,didn't work
+466,Quality Inn Near Six Flags,1,didn't work
+468,Quality Inn and Suites,2,didn't work
+470,Quality Inn and Suites Eugene-springfield,1,didn't work
+471,Quality Inn and Suites Irvine Spectrum,1,didn't work
+477,Ramada,1,didn't work
+485,Red Lion Anaheim Maingate Hotel,1,didn't work
+486,Red Rest Inn,1,didn't work
+490,Red Roof Inn St Louis - Troy,1,didn't work
+513,Sheraton Offenbach Hotel,1,didn't work
+520,Solstice,3,didn't work
+526,Sportsmen's Lodge,1,didn't work
+531,Staybridge Suites Chicago - Glenview,1,didn't work
+535,Suburban Extended Stay of Memphis Bartlett,1,didn't work
+541,Super 8 - Upland,1,didn't work
+543,Super 8 Batesville Ar,1,didn't work
+545,Super 8 Big Cabin Vinita Ok,1,didn't work
+547,Super 8 Bradenton Sarasota Area,1,didn't work
+563,Super 8 Manhattan Ks,1,didn't work
+566,Super 8 Opelousas,1,didn't work
+569,Super 8 Worthington Minnesota,3,didn't work
+572,"The Alexandrian, Autograph Collection",2,didn't work
+584,The Jayakarta Bali,1,didn't work
+598,Travelodge Anaheim Convention Center,1,didn't work
+604,Turf Motel,1,didn't work
+616,Warwick Denver,1,didn't work
+9,Ambassador Inn Albuquerque,1,parking lot
+12,American Star Inn and Suites Atlantic City,2,parking lot
+13,Americas Best Value Inn,14,parking lot
+15,Americas Best Value Inn and Suites,1,parking lot
+16,Americinn Coralville,1,parking lot
+22,Anaheim Marriott Suites,1,parking lot
+23,Anglers Inn,1,parking lot
+27,Arizona Inn of Prescott Valley,2,parking lot
+45,Best Western Eufaula Inn,1,parking lot
+59,Best Western Plus Waterville Grand Hotel,2,parking lot
+64,Best Western of Long Beach,1,parking lot
+93,Castle Kona Reef,1,parking lot
+97,Cherry Orchard Inn,1,parking lot
+101,Clatskanie River Inn,1,parking lot
+114,Comfort Inn Humboldt Bay,1,parking lot
+116,Comfort Inn Livermore,1,parking lot
+121,Comfort Suites,2,parking lot
+125,Comfort Suites Southport,1,parking lot
+131,Country Inn and Suites By Carlson Charlotte University Place,1,parking lot
+148,Days Inn & Suites Castle Rock,1,parking lot
+156,Days Inn Fort Wayne,1,parking lot
+162,Days Inn North Columbia Ft. Jackson,3,parking lot
+170,Discovery Inn,5,parking lot
+178,Durango Travelodge,2,parking lot
+181,Econo Lodge,1,parking lot
+206,Fairbridge Inn,1,parking lot
+207,Fairfield Inn & Suites Atlanta Perimeter Center,1,parking lot
+219,Fiesta Inn and Suites,10,parking lot
+232,Good Nite Inn Rohnert Park,2,parking lot
+235,Grand Hotel Cadenabbia,1,parking lot
+237,Great American Inn Suites,1,parking lot
+248,Hampton Inn Fayetteville Fort Bragg,2,parking lot
+250,Hampton Inn Grand Junction Downtown/historic Main Street,1,parking lot
+254,Hampton Inn Sarasota - I-75 Bee Ridge,1,parking lot
+258,Hampton Inn and Suites Annapolis,1,parking lot
+260,Hawthorn Suites By Wyndham Livermore Wine Country,1,parking lot
+261,Hawthorn Suites Dayton North,2,parking lot
+265,Hilton Garden Inn Austin Nw - Arboretum,1,parking lot
+274,Holiday Inn Canyon De Chelly,1,parking lot
+283,Holiday Inn Express - Harrisburg East,1,parking lot
+285,Holiday Inn Express Colton-riverside North,1,parking lot
+289,Holiday Inn Express Hotel & Suites Emporia,1,parking lot
+293,Holiday Inn Express Hotel and Suites Cambridge,1,parking lot
+308,Homewood Suites - Mall of America,1,parking lot
+320,Hotel Deca - A Noble House Hotel,1,parking lot
+339,Howard Johnson Inn - Newburgh,11,parking lot
+344,Hyatt Place Atlanta/alpharetta/north Point Mall,1,parking lot
+353,Inn At Queen Anne,1,parking lot
+361,Jacksonville Plaza Hotel and Suites,1,parking lot
+364,Jvd Hotels,1,parking lot
+369,Knights Inn Amarillo Airport,1,parking lot
+371,Knights Inn Eau Claire,2,parking lot
+375,La Quinta,1,parking lot
+385,La Quinta Inn and Suites Sunrise,1,parking lot
+390,Lakeway Resort & Spa,1,parking lot
+418,Microtel Inn and Suites By Wyndham Burlington,1,parking lot
+434,Norwood Inn and Suites,1,parking lot
+452,Plantation Inn,1,parking lot
+453,Plaza Hotel and Casino - Las Vegas,4,parking lot
+463,Quality Inn Gulfport,1,parking lot
+465,Quality Inn Long Beach Airport,2,parking lot
+468,Quality Inn and Suites,1,parking lot
+469,Quality Inn and Suites Big Rapids,1,parking lot
+477,Ramada,1,parking lot
+478,Ramada Inn,1,parking lot
+486,Red Rest Inn,1,parking lot
+488,Red Roof Inn Cedar Rapids,2,parking lot
+493,Residence Inn By Marriott Deptford,1,parking lot
+494,Residence Inn By Marriott Fort Lauderdale Weston,1,parking lot
+520,Solstice,2,parking lot
+521,Sombrero Resort and Marina,1,parking lot
+523,Southside Motel,1,parking lot
+526,Sportsmen's Lodge,3,parking lot
+530,Stay Inn,1,parking lot
+538,Sunset Inn,1,parking lot
+539,Super 8,1,parking lot
+540,Super 8 - Effingham,2,parking lot
+541,Super 8 - Upland,2,parking lot
+544,Super 8 Belle Fourche,1,parking lot
+547,Super 8 Bradenton Sarasota Area,1,parking lot
+550,Super 8 Columbia Dwntwn Sc,2,parking lot
+554,Super 8 Elko Nv,1,parking lot
+556,Super 8 Gretna,1,parking lot
+557,Super 8 Indianapolis,1,parking lot
+558,Super 8 Ithaca,1,parking lot
+559,Super 8 Kansas City Airport,2,parking lot
+569,Super 8 Worthington Minnesota,1,parking lot
+577,The Concorde Inn,1,parking lot
+580,The Houstonian Hotel,1,parking lot
+582,The Inn At Bella Vista,1,parking lot
+594,Tidewater Inn,3,parking lot
+598,Travelodge Anaheim Convention Center,2,parking lot
+13,Americas Best Value Inn,8,hotels com
+16,Americinn Coralville,3,hotels com
+22,Anaheim Marriott Suites,1,hotels com
+37,Baymont Inn and Suites Boone,1,hotels com
+45,Best Western Eufaula Inn,1,hotels com
+48,Best Western Hospitality Hotel and Suites,1,hotels com
+57,Best Western Plus Kelly Inn,1,hotels com
+59,Best Western Plus Waterville Grand Hotel,3,hotels com
+64,Best Western of Long Beach,1,hotels com
+93,Castle Kona Reef,1,hotels com
+97,Cherry Orchard Inn,1,hotels com
+112,Comfort Inn Birmingham - Irondale,2,hotels com
+121,Comfort Suites,1,hotels com
+131,Country Inn and Suites By Carlson Charlotte University Place,1,hotels com
+133,Country Inn and Suites By Carlson Galena,1,hotels com
+144,Crossland Economy Studios - Lake Charles - Sulphur,1,hotels com
+148,Days Inn & Suites Castle Rock,1,hotels com
+153,Days Inn Branson / Near The Strip,1,hotels com
+162,Days Inn North Columbia Ft. Jackson,1,hotels com
+164,Days Inn Warren,1,hotels com
+185,Economy Inn,1,hotels com
+198,Extended Stay America - Chicago - Westmont - Oak Brook,2,hotels com
+199,Extended Stay America - Columbia - Northwest Harbison,2,hotels com
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,1,hotels com
+206,Fairbridge Inn,1,hotels com
+207,Fairfield Inn & Suites Atlanta Perimeter Center,1,hotels com
+214,Fairfield Inn and Suites By Marriott Plainville,2,hotels com
+219,Fiesta Inn and Suites,5,hotels com
+220,Fireside Inn Santa Cruz,1,hotels com
+230,Gardena Terrace Inn,1,hotels com
+245,Hampton Inn Abilene,2,hotels com
+246,Hampton Inn Bloomington West,1,hotels com
+247,Hampton Inn Dublin,1,hotels com
+248,Hampton Inn Fayetteville Fort Bragg,2,hotels com
+250,Hampton Inn Grand Junction Downtown/historic Main Street,1,hotels com
+251,Hampton Inn New Orleans - Downtown,1,hotels com
+252,Hampton Inn Roanoke/salem,2,hotels com
+259,Harrah's Laughlin Hotel and Casino,2,hotels com
+267,Hilton Garden Inn Kauai Wailua Bay,1,hotels com
+270,Hilton San Diego Airport/harbor Island,2,hotels com
+274,Holiday Inn Canyon De Chelly,1,hotels com
+277,Holiday Inn Express & Suites Crossville,1,hotels com
+281,Holiday Inn Express & Suites West Monroe,3,hotels com
+284,Holiday Inn Express - Hillsboro,1,hotels com
+285,Holiday Inn Express Colton-riverside North,1,hotels com
+286,Holiday Inn Express Dahlonega,2,hotels com
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,1,hotels com
+300,Holiday Inn Express San Clemente,1,hotels com
+302,Holiday Inn Express and Suites Gahanna/columbus Airport E,1,hotels com
+303,Holiday Inn Fond Du Lac,1,hotels com
+329,Hotel Portaventura,1,hotels com
+331,Hotel Roc Flamingo,1,hotels com
+335,Hotel Valencia Santana Row,1,hotels com
+339,Howard Johnson Inn - Newburgh,6,hotels com
+346,Hyatt Place San Antonio Airport - Quarry Market,1,hotels com
+360,Ip Casino Resort Spa,1,hotels com
+361,Jacksonville Plaza Hotel and Suites,2,hotels com
+368,Knights Inn Aiken,1,hotels com
+369,Knights Inn Amarillo Airport,1,hotels com
+382,La Quinta Inn and Suites Meridian,1,hotels com
+408,Mccamly Plaza Hotel,1,hotels com
+415,Microtel Inn By Wyndham Knoxville,2,hotels com
+423,Monterey Beach Dunes Inn,1,hotels com
+427,Mountain Lodge At Telluride - A Noble House Resort,1,hotels com
+434,Norwood Inn and Suites,4,hotels com
+443,Parkside Inn At Incline,2,hotels com
+453,Plaza Hotel and Casino - Las Vegas,5,hotels com
+461,Quality Inn & Suites,1,hotels com
+463,Quality Inn Gulfport,1,hotels com
+468,Quality Inn and Suites,1,hotels com
+474,Radisson Blu Conference and Airport Hotel,1,hotels com
+479,Ramada Vandalia,1,hotels com
+486,Red Rest Inn,1,hotels com
+488,Red Roof Inn Cedar Rapids,1,hotels com
+493,Residence Inn By Marriott Deptford,1,hotels com
+494,Residence Inn By Marriott Fort Lauderdale Weston,1,hotels com
+499,Rodeway Inn,1,hotels com
+518,Sleep Inn At Harbour View,1,hotels com
+526,Sportsmen's Lodge,1,hotels com
+535,Suburban Extended Stay of Memphis Bartlett,1,hotels com
+541,Super 8 - Upland,5,hotels com
+550,Super 8 Columbia Dwntwn Sc,1,hotels com
+553,Super 8 Dallas South,1,hotels com
+557,Super 8 Indianapolis,1,hotels com
+558,Super 8 Ithaca,1,hotels com
+559,Super 8 Kansas City Airport,1,hotels com
+560,Super 8 Kingston,1,hotels com
+562,Super 8 Madison,1,hotels com
+564,Super 8 Metropolis,1,hotels com
+567,Super 8 Pittsburgh/monroeville,2,hotels com
+569,Super 8 Worthington Minnesota,1,hotels com
+572,"The Alexandrian, Autograph Collection",1,hotels com
+584,The Jayakarta Bali,1,hotels com
+585,The Kinney - Venice Beach,1,hotels com
+592,The Westin Europa and Regina,1,hotels com
+596,Towneplace Suites Albany University Area,1,hotels com
+600,Travelodge Shakopee,1,hotels com
+626,Wisconsin-aire Motel,1,hotels com
+10,Ambassadors Inn and Suites,2,not good
+13,Americas Best Value Inn,6,not good
+15,Americas Best Value Inn and Suites,1,not good
+16,Americinn Coralville,1,not good
+22,Anaheim Marriott Suites,1,not good
+36,Baymont Inn & Suites Griffin,1,not good
+39,Bayside Resort Hotel,1,not good
+51,Best Western Luxury Inn,1,not good
+59,Best Western Plus Waterville Grand Hotel,1,not good
+64,Best Western of Long Beach,3,not good
+93,Castle Kona Reef,1,not good
+112,Comfort Inn Birmingham - Irondale,2,not good
+129,Country Inn Walker,2,not good
+144,Crossland Economy Studios - Lake Charles - Sulphur,1,not good
+148,Days Inn & Suites Castle Rock,1,not good
+156,Days Inn Fort Wayne,1,not good
+170,Discovery Inn,1,not good
+171,Dockers Inn,2,not good
+173,Double Eagle Hotel and Casino,1,not good
+178,Durango Travelodge,1,not good
+189,Elba Sara Beach & Golf Resort,1,not good
+198,Extended Stay America - Chicago - Westmont - Oak Brook,3,not good
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,1,not good
+212,Fairfield Inn Suites Spearfish,1,not good
+219,Fiesta Inn and Suites,6,not good
+220,Fireside Inn Santa Cruz,2,not good
+258,Hampton Inn and Suites Annapolis,1,not good
+259,Harrah's Laughlin Hotel and Casino,1,not good
+261,Hawthorn Suites Dayton North,2,not good
+279,Holiday Inn Express & Suites Phoenix Downtown - Ballpark,1,not good
+281,Holiday Inn Express & Suites West Monroe,1,not good
+283,Holiday Inn Express - Harrisburg East,1,not good
+284,Holiday Inn Express - Hillsboro,1,not good
+285,Holiday Inn Express Colton-riverside North,1,not good
+293,Holiday Inn Express Hotel and Suites Cambridge,1,not good
+303,Holiday Inn Fond Du Lac,1,not good
+310,Homewood Suites By Hilton Indpls Airport / Plainfield In,1,not good
+323,Hotel Lavonia,2,not good
+330,Hotel Relais De Margaux Golf and Spa,1,not good
+339,Howard Johnson Inn - Newburgh,5,not good
+340,Howard Johnson Inn Columbia,1,not good
+353,Inn At Queen Anne,1,not good
+359,Inturotel Esmeralda Park,1,not good
+360,Ip Casino Resort Spa,2,not good
+379,La Quinta Inn Auburn Worcester,2,not good
+382,La Quinta Inn and Suites Meridian,1,not good
+383,La Quinta Inn and Suites Miami Cutler Bay,1,not good
+384,La Quinta Inn and Suites Nashville Franklin,1,not good
+385,La Quinta Inn and Suites Sunrise,1,not good
+386,La Quinta Inn and Suites Tucson - Reid Park,1,not good
+390,Lakeway Resort & Spa,1,not good
+415,Microtel Inn By Wyndham Knoxville,2,not good
+418,Microtel Inn and Suites By Wyndham Burlington,1,not good
+421,Monarch Inn,1,not good
+423,Monterey Beach Dunes Inn,2,not good
+443,Parkside Inn At Incline,1,not good
+446,Patriots Inn,1,not good
+453,Plaza Hotel and Casino - Las Vegas,5,not good
+465,Quality Inn Long Beach Airport,1,not good
+468,Quality Inn and Suites,1,not good
+471,Quality Inn and Suites Irvine Spectrum,1,not good
+472,Quality Suites Intercontinental Airport West,1,not good
+474,Radisson Blu Conference and Airport Hotel,1,not good
+490,Red Roof Inn St Louis - Troy,1,not good
+497,Residence Inn By Marriott Springdale,2,not good
+499,Rodeway Inn,1,not good
+520,Solstice,2,not good
+521,Sombrero Resort and Marina,1,not good
+534,Suburban Extended Stay Warner Robins,1,not good
+535,Suburban Extended Stay of Memphis Bartlett,2,not good
+538,Sunset Inn,1,not good
+543,Super 8 Batesville Ar,1,not good
+547,Super 8 Bradenton Sarasota Area,1,not good
+552,Super 8 Crete Ne,1,not good
+553,Super 8 Dallas South,1,not good
+554,Super 8 Elko Nv,1,not good
+563,Super 8 Manhattan Ks,1,not good
+568,Super 8 Schenect/albany Area,2,not good
+569,Super 8 Worthington Minnesota,1,not good
+596,Towneplace Suites Albany University Area,1,not good
+598,Travelodge Anaheim Convention Center,2,not good
+605,Twelve Hotels & Residences,1,not good
+610,Uptown Motel,1,not good
+625,Wingate By Wyndham Pueblo,1,not good
+5,Acorn Motor Inn,1,staff friendly
+10,Ambassadors Inn and Suites,1,staff friendly
+13,Americas Best Value Inn,1,staff friendly
+15,Americas Best Value Inn and Suites,2,staff friendly
+22,Anaheim Marriott Suites,1,staff friendly
+32,Atlantic House,1,staff friendly
+36,Baymont Inn & Suites Griffin,1,staff friendly
+38,Baymont Inn and Suites Enid,2,staff friendly
+58,Best Western Plus San Marcos Inn,1,staff friendly
+63,Best Western University Inn & Suites,1,staff friendly
+85,Candlewood Suites Huntersville,1,staff friendly
+87,Candlewood Suites Lexington,1,staff friendly
+92,Casa Del Mar Inn Bandb,1,staff friendly
+99,Clarion Inn,1,staff friendly
+112,Comfort Inn Birmingham - Irondale,1,staff friendly
+117,Comfort Inn Montgomery,1,staff friendly
+121,Comfort Suites,2,staff friendly
+127,Country Inn & Suites By Carlson,1,staff friendly
+128,"Country Inn & Suites By Carlson, Rocky Mount, Nc",1,staff friendly
+130,Country Inn and Suites By Carlson,1,staff friendly
+132,Country Inn and Suites By Carlson Corbin,1,staff friendly
+145,Crossroads Hotel,1,staff friendly
+148,Days Inn & Suites Castle Rock,1,staff friendly
+160,Days Inn Lincolnton,1,staff friendly
+162,Days Inn North Columbia Ft. Jackson,1,staff friendly
+163,Days Inn Ruther Glen Kings Dominion Area,1,staff friendly
+166,Days Inn and Suites Albany,1,staff friendly
+170,Discovery Inn,3,staff friendly
+175,Doubletree By Hilton West Palm Beach Airport,2,staff friendly
+199,Extended Stay America - Columbia - Northwest Harbison,2,staff friendly
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,2,staff friendly
+207,Fairfield Inn & Suites Atlanta Perimeter Center,1,staff friendly
+219,Fiesta Inn and Suites,6,staff friendly
+220,Fireside Inn Santa Cruz,1,staff friendly
+225,Four Points By Sheraton Memphis Southwind,1,staff friendly
+230,Gardena Terrace Inn,1,staff friendly
+235,Grand Hotel Cadenabbia,1,staff friendly
+245,Hampton Inn Abilene,1,staff friendly
+249,Hampton Inn Ft Chiswell,1,staff friendly
+256,Hampton Inn Tucson-airport,1,staff friendly
+257,Hampton Inn Virginia Beach Oceanfront North,2,staff friendly
+258,Hampton Inn and Suites Annapolis,2,staff friendly
+260,Hawthorn Suites By Wyndham Livermore Wine Country,1,staff friendly
+261,Hawthorn Suites Dayton North,1,staff friendly
+281,Holiday Inn Express & Suites West Monroe,3,staff friendly
+284,Holiday Inn Express - Hillsboro,1,staff friendly
+286,Holiday Inn Express Dahlonega,1,staff friendly
+312,Hotel Adler Cavalieri,1,staff friendly
+320,Hotel Deca - A Noble House Hotel,1,staff friendly
+325,Hotel Metropole,1,staff friendly
+339,Howard Johnson Inn - Newburgh,5,staff friendly
+340,Howard Johnson Inn Columbia,1,staff friendly
+347,Hyatt Place Utica,1,staff friendly
+353,Inn At Queen Anne,2,staff friendly
+361,Jacksonville Plaza Hotel and Suites,1,staff friendly
+368,Knights Inn Aiken,2,staff friendly
+379,La Quinta Inn Auburn Worcester,1,staff friendly
+382,La Quinta Inn and Suites Meridian,1,staff friendly
+385,La Quinta Inn and Suites Sunrise,2,staff friendly
+386,La Quinta Inn and Suites Tucson - Reid Park,1,staff friendly
+408,Mccamly Plaza Hotel,1,staff friendly
+421,Monarch Inn,1,staff friendly
+423,Monterey Beach Dunes Inn,1,staff friendly
+427,Mountain Lodge At Telluride - A Noble House Resort,1,staff friendly
+440,Palm Suites,1,staff friendly
+460,Quality Inn,3,staff friendly
+463,Quality Inn Gulfport,1,staff friendly
+465,Quality Inn Long Beach Airport,3,staff friendly
+468,Quality Inn and Suites,1,staff friendly
+477,Ramada,1,staff friendly
+486,Red Rest Inn,3,staff friendly
+488,Red Roof Inn Cedar Rapids,3,staff friendly
+519,Sleep Inn Slidell,1,staff friendly
+520,Solstice,3,staff friendly
+526,Sportsmen's Lodge,1,staff friendly
+540,Super 8 - Effingham,1,staff friendly
+541,Super 8 - Upland,1,staff friendly
+543,Super 8 Batesville Ar,2,staff friendly
+545,Super 8 Big Cabin Vinita Ok,1,staff friendly
+554,Super 8 Elko Nv,1,staff friendly
+558,Super 8 Ithaca,1,staff friendly
+563,Super 8 Manhattan Ks,1,staff friendly
+564,Super 8 Metropolis,1,staff friendly
+569,Super 8 Worthington Minnesota,1,staff friendly
+580,The Houstonian Hotel,1,staff friendly
+615,Vista Hotel On Lake Tarpon,2,staff friendly
+5,Acorn Motor Inn,1,desk clerk
+13,Americas Best Value Inn,5,desk clerk
+27,Arizona Inn of Prescott Valley,2,desk clerk
+36,Baymont Inn & Suites Griffin,1,desk clerk
+37,Baymont Inn and Suites Boone,1,desk clerk
+46,Best Western Hartford Hotel & Suites,1,desk clerk
+53,Best Western Plus Arlington North Hotel and Suites,1,desk clerk
+93,Castle Kona Reef,1,desk clerk
+97,Cherry Orchard Inn,1,desk clerk
+109,Comfort Inn,1,desk clerk
+111,Comfort Inn - Springfield,1,desk clerk
+119,Comfort Inn and Suites Bend,1,desk clerk
+120,Comfort Inn and Suites O'fallon,1,desk clerk
+121,Comfort Suites,2,desk clerk
+148,Days Inn & Suites Castle Rock,3,desk clerk
+154,Days Inn Brookings,1,desk clerk
+158,Days Inn Kuttawa,1,desk clerk
+160,Days Inn Lincolnton,1,desk clerk
+162,Days Inn North Columbia Ft. Jackson,1,desk clerk
+166,Days Inn and Suites Albany,1,desk clerk
+181,Econo Lodge,1,desk clerk
+198,Extended Stay America - Chicago - Westmont - Oak Brook,3,desk clerk
+199,Extended Stay America - Columbia - Northwest Harbison,1,desk clerk
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,1,desk clerk
+205,Extended Stay America San Diego - Carlsbad Village By The Sea,1,desk clerk
+206,Fairbridge Inn,1,desk clerk
+207,Fairfield Inn & Suites Atlanta Perimeter Center,1,desk clerk
+208,Fairfield Inn & Suites Peoria East,1,desk clerk
+212,Fairfield Inn Suites Spearfish,1,desk clerk
+214,Fairfield Inn and Suites By Marriott Plainville,1,desk clerk
+219,Fiesta Inn and Suites,3,desk clerk
+220,Fireside Inn Santa Cruz,1,desk clerk
+247,Hampton Inn Dublin,1,desk clerk
+248,Hampton Inn Fayetteville Fort Bragg,1,desk clerk
+252,Hampton Inn Roanoke/salem,1,desk clerk
+258,Hampton Inn and Suites Annapolis,1,desk clerk
+260,Hawthorn Suites By Wyndham Livermore Wine Country,1,desk clerk
+261,Hawthorn Suites Dayton North,1,desk clerk
+280,Holiday Inn Express & Suites Portland,1,desk clerk
+283,Holiday Inn Express - Harrisburg East,1,desk clerk
+285,Holiday Inn Express Colton-riverside North,1,desk clerk
+286,Holiday Inn Express Dahlonega,1,desk clerk
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,1,desk clerk
+300,Holiday Inn Express San Clemente,1,desk clerk
+314,Hotel Aura Sfo,1,desk clerk
+323,Hotel Lavonia,1,desk clerk
+339,Howard Johnson Inn - Newburgh,3,desk clerk
+340,Howard Johnson Inn Columbia,1,desk clerk
+360,Ip Casino Resort Spa,1,desk clerk
+364,Jvd Hotels,2,desk clerk
+379,La Quinta Inn Auburn Worcester,1,desk clerk
+386,La Quinta Inn and Suites Tucson - Reid Park,1,desk clerk
+418,Microtel Inn and Suites By Wyndham Burlington,1,desk clerk
+434,Norwood Inn and Suites,1,desk clerk
+453,Plaza Hotel and Casino - Las Vegas,1,desk clerk
+460,Quality Inn,1,desk clerk
+461,Quality Inn & Suites,1,desk clerk
+465,Quality Inn Long Beach Airport,1,desk clerk
+466,Quality Inn Near Six Flags,2,desk clerk
+468,Quality Inn and Suites,1,desk clerk
+471,Quality Inn and Suites Irvine Spectrum,1,desk clerk
+472,Quality Suites Intercontinental Airport West,1,desk clerk
+477,Ramada,1,desk clerk
+479,Ramada Vandalia,1,desk clerk
+484,Red Carpet Inn,1,desk clerk
+489,Red Roof Inn Erie,1,desk clerk
+519,Sleep Inn Slidell,1,desk clerk
+521,Sombrero Resort and Marina,2,desk clerk
+540,Super 8 - Effingham,1,desk clerk
+543,Super 8 Batesville Ar,2,desk clerk
+544,Super 8 Belle Fourche,2,desk clerk
+545,Super 8 Big Cabin Vinita Ok,1,desk clerk
+553,Super 8 Dallas South,1,desk clerk
+554,Super 8 Elko Nv,2,desk clerk
+555,Super 8 Fort Collins,1,desk clerk
+556,Super 8 Gretna,1,desk clerk
+560,Super 8 Kingston,1,desk clerk
+562,Super 8 Madison,1,desk clerk
+564,Super 8 Metropolis,3,desk clerk
+569,Super 8 Worthington Minnesota,2,desk clerk
+572,"The Alexandrian, Autograph Collection",1,desk clerk
+598,Travelodge Anaheim Convention Center,3,desk clerk
+604,Turf Motel,1,desk clerk
+623,Wingate By Wyndham Chantilly / Dulles Airport,1,desk clerk
+10,Ambassadors Inn and Suites,1,continental breakfast
+13,Americas Best Value Inn,4,continental breakfast
+14,Americas Best Value Inn - Medical Center/airport,1,continental breakfast
+27,Arizona Inn of Prescott Valley,1,continental breakfast
+59,Best Western Plus Waterville Grand Hotel,1,continental breakfast
+87,Candlewood Suites Lexington,1,continental breakfast
+148,Days Inn & Suites Castle Rock,1,continental breakfast
+152,Days Inn Bowling Green,1,continental breakfast
+162,Days Inn North Columbia Ft. Jackson,2,continental breakfast
+164,Days Inn Warren,1,continental breakfast
+166,Days Inn and Suites Albany,3,continental breakfast
+170,Discovery Inn,1,continental breakfast
+178,Durango Travelodge,1,continental breakfast
+181,Econo Lodge,1,continental breakfast
+184,Econo Lodge St Robert,1,continental breakfast
+185,Economy Inn,1,continental breakfast
+198,Extended Stay America - Chicago - Westmont - Oak Brook,1,continental breakfast
+199,Extended Stay America - Columbia - Northwest Harbison,1,continental breakfast
+200,Extended Stay America - Fort Lauderdale - Davie,1,continental breakfast
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,1,continental breakfast
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,1,continental breakfast
+219,Fiesta Inn and Suites,8,continental breakfast
+230,Gardena Terrace Inn,1,continental breakfast
+232,Good Nite Inn Rohnert Park,1,continental breakfast
+251,Hampton Inn New Orleans - Downtown,1,continental breakfast
+260,Hawthorn Suites By Wyndham Livermore Wine Country,1,continental breakfast
+261,Hawthorn Suites Dayton North,1,continental breakfast
+307,Hometown Inn,1,continental breakfast
+314,Hotel Aura Sfo,1,continental breakfast
+323,Hotel Lavonia,2,continental breakfast
+339,Howard Johnson Inn - Newburgh,18,continental breakfast
+340,Howard Johnson Inn Columbia,1,continental breakfast
+353,Inn At Queen Anne,1,continental breakfast
+364,Jvd Hotels,1,continental breakfast
+368,Knights Inn Aiken,3,continental breakfast
+370,Knights Inn Carmel Hill,2,continental breakfast
+379,La Quinta Inn Auburn Worcester,1,continental breakfast
+383,La Quinta Inn and Suites Miami Cutler Bay,1,continental breakfast
+384,La Quinta Inn and Suites Nashville Franklin,1,continental breakfast
+385,La Quinta Inn and Suites Sunrise,1,continental breakfast
+408,Mccamly Plaza Hotel,1,continental breakfast
+415,Microtel Inn By Wyndham Knoxville,1,continental breakfast
+421,Monarch Inn,2,continental breakfast
+443,Parkside Inn At Incline,1,continental breakfast
+460,Quality Inn,1,continental breakfast
+465,Quality Inn Long Beach Airport,1,continental breakfast
+473,Quinta Real Acapulco,1,continental breakfast
+486,Red Rest Inn,1,continental breakfast
+488,Red Roof Inn Cedar Rapids,2,continental breakfast
+520,Solstice,4,continental breakfast
+539,Super 8,1,continental breakfast
+543,Super 8 Batesville Ar,2,continental breakfast
+547,Super 8 Bradenton Sarasota Area,1,continental breakfast
+555,Super 8 Fort Collins,1,continental breakfast
+556,Super 8 Gretna,1,continental breakfast
+559,Super 8 Kansas City Airport,1,continental breakfast
+562,Super 8 Madison,2,continental breakfast
+564,Super 8 Metropolis,1,continental breakfast
+565,Super 8 Motel Fairmont,1,continental breakfast
+567,Super 8 Pittsburgh/monroeville,1,continental breakfast
+572,"The Alexandrian, Autograph Collection",2,continental breakfast
+598,Travelodge Anaheim Convention Center,2,continental breakfast
+615,Vista Hotel On Lake Tarpon,2,continental breakfast
+622,Wine Valley Lodge,1,continental breakfast
+3,40 Berkeley Hostel,1,not worth
+10,Ambassadors Inn and Suites,2,not worth
+13,Americas Best Value Inn,5,not worth
+37,Baymont Inn and Suites Boone,1,not worth
+59,Best Western Plus Waterville Grand Hotel,1,not worth
+78,Budget Inn South,2,not worth
+81,Camelback Resort Aquatopia Indoor Waterpark,1,not worth
+96,Cherokee Lodge Bed and Breakfast,1,not worth
+97,Cherry Orchard Inn,2,not worth
+121,Comfort Suites,1,not worth
+127,Country Inn & Suites By Carlson,1,not worth
+148,Days Inn & Suites Castle Rock,1,not worth
+162,Days Inn North Columbia Ft. Jackson,1,not worth
+164,Days Inn Warren,1,not worth
+166,Days Inn and Suites Albany,2,not worth
+170,Discovery Inn,1,not worth
+174,Doubletree By Hilton Hotel Bay City - Riverfront,2,not worth
+175,Doubletree By Hilton West Palm Beach Airport,1,not worth
+178,Durango Travelodge,1,not worth
+185,Economy Inn,1,not worth
+200,Extended Stay America - Fort Lauderdale - Davie,1,not worth
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,1,not worth
+206,Fairbridge Inn,3,not worth
+214,Fairfield Inn and Suites By Marriott Plainville,1,not worth
+219,Fiesta Inn and Suites,5,not worth
+254,Hampton Inn Sarasota - I-75 Bee Ridge,1,not worth
+281,Holiday Inn Express & Suites West Monroe,1,not worth
+283,Holiday Inn Express - Harrisburg East,1,not worth
+285,Holiday Inn Express Colton-riverside North,1,not worth
+303,Holiday Inn Fond Du Lac,3,not worth
+311,Homewood Suites Dallas-market Center,1,not worth
+320,Hotel Deca - A Noble House Hotel,1,not worth
+339,Howard Johnson Inn - Newburgh,10,not worth
+345,Hyatt Place Pittsburgh Cranberry,1,not worth
+353,Inn At Queen Anne,2,not worth
+364,Jvd Hotels,3,not worth
+368,Knights Inn Aiken,2,not worth
+370,Knights Inn Carmel Hill,2,not worth
+371,Knights Inn Eau Claire,2,not worth
+372,Knights Inn New Castle/wilmington,1,not worth
+379,La Quinta Inn Auburn Worcester,1,not worth
+382,La Quinta Inn and Suites Meridian,1,not worth
+384,La Quinta Inn and Suites Nashville Franklin,1,not worth
+385,La Quinta Inn and Suites Sunrise,1,not worth
+421,Monarch Inn,2,not worth
+434,Norwood Inn and Suites,2,not worth
+439,Outside Inn,1,not worth
+460,Quality Inn,1,not worth
+461,Quality Inn & Suites,1,not worth
+468,Quality Inn and Suites,2,not worth
+478,Ramada Inn,1,not worth
+481,Rapid City Days Inn,1,not worth
+507,Sands Central Inn Hot Springs,1,not worth
+520,Solstice,1,not worth
+521,Sombrero Resort and Marina,1,not worth
+526,Sportsmen's Lodge,1,not worth
+541,Super 8 - Upland,1,not worth
+544,Super 8 Belle Fourche,2,not worth
+554,Super 8 Elko Nv,1,not worth
+555,Super 8 Fort Collins,1,not worth
+558,Super 8 Ithaca,1,not worth
+596,Towneplace Suites Albany University Area,1,not worth
+598,Travelodge Anaheim Convention Center,1,not worth
+604,Turf Motel,1,not worth
+618,Western Inn-glacier Park,1,not worth
+13,Americas Best Value Inn,5,air conditioner
+14,Americas Best Value Inn - Medical Center/airport,1,air conditioner
+16,Americinn Coralville,4,air conditioner
+31,Astro Motel,1,air conditioner
+37,Baymont Inn and Suites Boone,1,air conditioner
+38,Baymont Inn and Suites Enid,1,air conditioner
+58,Best Western Plus San Marcos Inn,1,air conditioner
+64,Best Western of Long Beach,1,air conditioner
+93,Castle Kona Reef,1,air conditioner
+96,Cherokee Lodge Bed and Breakfast,1,air conditioner
+117,Comfort Inn Montgomery,1,air conditioner
+131,Country Inn and Suites By Carlson Charlotte University Place,1,air conditioner
+140,Courtyard Columbus Worthington,1,air conditioner
+144,Crossland Economy Studios - Lake Charles - Sulphur,1,air conditioner
+154,Days Inn Brookings,1,air conditioner
+156,Days Inn Fort Wayne,2,air conditioner
+162,Days Inn North Columbia Ft. Jackson,2,air conditioner
+164,Days Inn Warren,1,air conditioner
+166,Days Inn and Suites Albany,2,air conditioner
+170,Discovery Inn,1,air conditioner
+171,Dockers Inn,1,air conditioner
+175,Doubletree By Hilton West Palm Beach Airport,1,air conditioner
+178,Durango Travelodge,1,air conditioner
+213,Fairfield Inn and Suites By Marriott Idaho Falls,3,air conditioner
+219,Fiesta Inn and Suites,3,air conditioner
+237,Great American Inn Suites,1,air conditioner
+254,Hampton Inn Sarasota - I-75 Bee Ridge,1,air conditioner
+260,Hawthorn Suites By Wyndham Livermore Wine Country,1,air conditioner
+320,Hotel Deca - A Noble House Hotel,1,air conditioner
+323,Hotel Lavonia,1,air conditioner
+339,Howard Johnson Inn - Newburgh,1,air conditioner
+346,Hyatt Place San Antonio Airport - Quarry Market,1,air conditioner
+353,Inn At Queen Anne,1,air conditioner
+354,Innisbrook,1,air conditioner
+364,Jvd Hotels,1,air conditioner
+369,Knights Inn Amarillo Airport,2,air conditioner
+384,La Quinta Inn and Suites Nashville Franklin,2,air conditioner
+405,Martin Mason Hotel,1,air conditioner
+434,Norwood Inn and Suites,2,air conditioner
+440,Palm Suites,2,air conditioner
+443,Parkside Inn At Incline,1,air conditioner
+453,Plaza Hotel and Casino - Las Vegas,2,air conditioner
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,1,air conditioner
+463,Quality Inn Gulfport,2,air conditioner
+465,Quality Inn Long Beach Airport,1,air conditioner
+499,Rodeway Inn,1,air conditioner
+520,Solstice,1,air conditioner
+521,Sombrero Resort and Marina,4,air conditioner
+535,Suburban Extended Stay of Memphis Bartlett,2,air conditioner
+541,Super 8 - Upland,2,air conditioner
+544,Super 8 Belle Fourche,4,air conditioner
+550,Super 8 Columbia Dwntwn Sc,1,air conditioner
+553,Super 8 Dallas South,4,air conditioner
+554,Super 8 Elko Nv,1,air conditioner
+555,Super 8 Fort Collins,1,air conditioner
+556,Super 8 Gretna,1,air conditioner
+557,Super 8 Indianapolis,1,air conditioner
+560,Super 8 Kingston,1,air conditioner
+562,Super 8 Madison,1,air conditioner
+564,Super 8 Metropolis,1,air conditioner
+567,Super 8 Pittsburgh/monroeville,1,air conditioner
+569,Super 8 Worthington Minnesota,1,air conditioner
+582,The Inn At Bella Vista,1,air conditioner
+599,Travelodge Ruther Glen,1,air conditioner
+600,Travelodge Shakopee,1,air conditioner
+607,Twin Pines Motel,1,air conditioner
+618,Western Inn-glacier Park,1,air conditioner
+622,Wine Valley Lodge,1,air conditioner
+13,Americas Best Value Inn,3,called desk
+14,Americas Best Value Inn - Medical Center/airport,1,called desk
+16,Americinn Coralville,1,called desk
+39,Bayside Resort Hotel,1,called desk
+40,Beach Cove 411 Tower A Sierra's 1 Bedroom Condo By Prista Management,1,called desk
+48,Best Western Hospitality Hotel and Suites,2,called desk
+53,Best Western Plus Arlington North Hotel and Suites,1,called desk
+57,Best Western Plus Kelly Inn,1,called desk
+87,Candlewood Suites Lexington,1,called desk
+109,Comfort Inn,1,called desk
+111,Comfort Inn - Springfield,1,called desk
+112,Comfort Inn Birmingham - Irondale,1,called desk
+121,Comfort Suites,1,called desk
+127,Country Inn & Suites By Carlson,1,called desk
+139,Courtyard By Marriott Rockaway Mount Arlington,1,called desk
+148,Days Inn & Suites Castle Rock,1,called desk
+164,Days Inn Warren,1,called desk
+166,Days Inn and Suites Albany,5,called desk
+197,Extended Stay America,1,called desk
+200,Extended Stay America - Fort Lauderdale - Davie,1,called desk
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,3,called desk
+214,Fairfield Inn and Suites By Marriott Plainville,1,called desk
+219,Fiesta Inn and Suites,3,called desk
+225,Four Points By Sheraton Memphis Southwind,1,called desk
+232,Good Nite Inn Rohnert Park,1,called desk
+256,Hampton Inn Tucson-airport,1,called desk
+258,Hampton Inn and Suites Annapolis,2,called desk
+259,Harrah's Laughlin Hotel and Casino,1,called desk
+281,Holiday Inn Express & Suites West Monroe,1,called desk
+286,Holiday Inn Express Dahlonega,1,called desk
+294,Holiday Inn Express Hotel and Suites Hesperia,1,called desk
+295,Holiday Inn Express Hotel and Suites Meadowlands Area,1,called desk
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,1,called desk
+300,Holiday Inn Express San Clemente,2,called desk
+303,Holiday Inn Fond Du Lac,1,called desk
+320,Hotel Deca - A Noble House Hotel,3,called desk
+339,Howard Johnson Inn - Newburgh,2,called desk
+340,Howard Johnson Inn Columbia,1,called desk
+360,Ip Casino Resort Spa,3,called desk
+364,Jvd Hotels,1,called desk
+371,Knights Inn Eau Claire,1,called desk
+379,La Quinta Inn Auburn Worcester,1,called desk
+381,La Quinta Inn and Suites Hopkinsville,2,called desk
+385,La Quinta Inn and Suites Sunrise,1,called desk
+386,La Quinta Inn and Suites Tucson - Reid Park,1,called desk
+408,Mccamly Plaza Hotel,3,called desk
+421,Monarch Inn,1,called desk
+453,Plaza Hotel and Casino - Las Vegas,2,called desk
+461,Quality Inn & Suites,3,called desk
+462,Quality Inn & Suites Hanes Mall,2,called desk
+464,Quality Inn Johnson City,1,called desk
+465,Quality Inn Long Beach Airport,1,called desk
+469,Quality Inn and Suites Big Rapids,1,called desk
+488,Red Roof Inn Cedar Rapids,1,called desk
+518,Sleep Inn At Harbour View,1,called desk
+526,Sportsmen's Lodge,3,called desk
+549,Super 8 Cloquet,1,called desk
+552,Super 8 Crete Ne,1,called desk
+558,Super 8 Ithaca,2,called desk
+559,Super 8 Kansas City Airport,1,called desk
+564,Super 8 Metropolis,1,called desk
+568,Super 8 Schenect/albany Area,1,called desk
+572,"The Alexandrian, Autograph Collection",4,called desk
+577,The Concorde Inn,1,called desk
+592,The Westin Europa and Regina,1,called desk
+596,Towneplace Suites Albany University Area,1,called desk
+599,Travelodge Ruther Glen,1,called desk
+616,Warwick Denver,1,called desk
+12,American Star Inn and Suites Atlantic City,2,customer service
+13,Americas Best Value Inn,3,customer service
+27,Arizona Inn of Prescott Valley,1,customer service
+37,Baymont Inn and Suites Boone,1,customer service
+48,Best Western Hospitality Hotel and Suites,2,customer service
+50,Best Western Knoxville Suites,1,customer service
+58,Best Western Plus San Marcos Inn,1,customer service
+63,Best Western University Inn & Suites,1,customer service
+69,Boardroom Motel,1,customer service
+70,Boiling Springs Resort Canoe Rental,1,customer service
+87,Candlewood Suites Lexington,1,customer service
+88,Candlewood Suites Oklahoma City-moore,1,customer service
+95,Chelsea Inn,1,customer service
+118,Comfort Inn and Suites,1,customer service
+129,Country Inn Walker,1,customer service
+132,Country Inn and Suites By Carlson Corbin,1,customer service
+148,Days Inn & Suites Castle Rock,1,customer service
+159,Days Inn Lanham Washington Dc,1,customer service
+163,Days Inn Ruther Glen Kings Dominion Area,2,customer service
+166,Days Inn and Suites Albany,2,customer service
+177,Drury Inn and Suites Columbus Convention Center,1,customer service
+192,Elk Springs Resort,2,customer service
+198,Extended Stay America - Chicago - Westmont - Oak Brook,2,customer service
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,1,customer service
+206,Fairbridge Inn,1,customer service
+219,Fiesta Inn and Suites,4,customer service
+230,Gardena Terrace Inn,1,customer service
+232,Good Nite Inn Rohnert Park,1,customer service
+234,Gran Melia Victoria,1,customer service
+243,Hampton Inn & Suites Syracuse/carrier Circle,1,customer service
+258,Hampton Inn and Suites Annapolis,2,customer service
+259,Harrah's Laughlin Hotel and Casino,2,customer service
+271,Hilton Santo Domingo,1,customer service
+274,Holiday Inn Canyon De Chelly,1,customer service
+281,Holiday Inn Express & Suites West Monroe,1,customer service
+308,Homewood Suites - Mall of America,1,customer service
+323,Hotel Lavonia,1,customer service
+339,Howard Johnson Inn - Newburgh,6,customer service
+354,Innisbrook,1,customer service
+361,Jacksonville Plaza Hotel and Suites,1,customer service
+379,La Quinta Inn Auburn Worcester,1,customer service
+381,La Quinta Inn and Suites Hopkinsville,1,customer service
+385,La Quinta Inn and Suites Sunrise,1,customer service
+390,Lakeway Resort & Spa,1,customer service
+391,Lamothe House,1,customer service
+404,Marriott's Mountainside At Park City,1,customer service
+415,Microtel Inn By Wyndham Knoxville,1,customer service
+418,Microtel Inn and Suites By Wyndham Burlington,2,customer service
+421,Monarch Inn,2,customer service
+434,Norwood Inn and Suites,1,customer service
+453,Plaza Hotel and Casino - Las Vegas,3,customer service
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,2,customer service
+460,Quality Inn,1,customer service
+465,Quality Inn Long Beach Airport,1,customer service
+479,Ramada Vandalia,1,customer service
+499,Rodeway Inn,1,customer service
+520,Solstice,1,customer service
+521,Sombrero Resort and Marina,1,customer service
+526,Sportsmen's Lodge,1,customer service
+541,Super 8 - Upland,2,customer service
+542,Super 8 Alamosa,1,customer service
+543,Super 8 Batesville Ar,1,customer service
+544,Super 8 Belle Fourche,1,customer service
+547,Super 8 Bradenton Sarasota Area,1,customer service
+549,Super 8 Cloquet,1,customer service
+558,Super 8 Ithaca,1,customer service
+569,Super 8 Worthington Minnesota,1,customer service
+571,The Abbey Resort,2,customer service
+572,"The Alexandrian, Autograph Collection",1,customer service
+577,The Concorde Inn,1,customer service
+578,The Governor Hotel,1,customer service
+592,The Westin Europa and Regina,1,customer service
+598,Travelodge Anaheim Convention Center,1,customer service
+623,Wingate By Wyndham Chantilly / Dulles Airport,1,customer service
+12,American Star Inn and Suites Atlantic City,1,not working
+13,Americas Best Value Inn,5,not working
+15,Americas Best Value Inn and Suites,1,not working
+16,Americinn Coralville,1,not working
+22,Anaheim Marriott Suites,2,not working
+37,Baymont Inn and Suites Boone,2,not working
+48,Best Western Hospitality Hotel and Suites,2,not working
+52,Best Western Owasso Inn & Suites,1,not working
+57,Best Western Plus Kelly Inn,1,not working
+76,Budget Host Inn,1,not working
+97,Cherry Orchard Inn,1,not working
+109,Comfort Inn,2,not working
+116,Comfort Inn Livermore,2,not working
+127,Country Inn & Suites By Carlson,1,not working
+132,Country Inn and Suites By Carlson Corbin,1,not working
+136,Courtyard Burlington Harbor,1,not working
+144,Crossland Economy Studios - Lake Charles - Sulphur,1,not working
+148,Days Inn & Suites Castle Rock,1,not working
+162,Days Inn North Columbia Ft. Jackson,1,not working
+166,Days Inn and Suites Albany,2,not working
+170,Discovery Inn,1,not working
+178,Durango Travelodge,1,not working
+182,Econo Lodge Bellmawr,1,not working
+198,Extended Stay America - Chicago - Westmont - Oak Brook,3,not working
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,1,not working
+219,Fiesta Inn and Suites,7,not working
+245,Hampton Inn Abilene,1,not working
+256,Hampton Inn Tucson-airport,1,not working
+259,Harrah's Laughlin Hotel and Casino,1,not working
+261,Hawthorn Suites Dayton North,1,not working
+267,Hilton Garden Inn Kauai Wailua Bay,1,not working
+276,Holiday Inn Express & Suites Bay City,1,not working
+278,Holiday Inn Express & Suites Lenoir City (knoxville Area),1,not working
+281,Holiday Inn Express & Suites West Monroe,1,not working
+283,Holiday Inn Express - Harrisburg East,1,not working
+308,Homewood Suites - Mall of America,1,not working
+339,Howard Johnson Inn - Newburgh,5,not working
+340,Howard Johnson Inn Columbia,1,not working
+344,Hyatt Place Atlanta/alpharetta/north Point Mall,1,not working
+353,Inn At Queen Anne,1,not working
+364,Jvd Hotels,1,not working
+370,Knights Inn Carmel Hill,1,not working
+371,Knights Inn Eau Claire,1,not working
+381,La Quinta Inn and Suites Hopkinsville,1,not working
+382,La Quinta Inn and Suites Meridian,1,not working
+384,La Quinta Inn and Suites Nashville Franklin,1,not working
+420,Miramar Boutique Hotel,1,not working
+423,Monterey Beach Dunes Inn,1,not working
+434,Norwood Inn and Suites,1,not working
+445,Patalya Thermal Resort,1,not working
+453,Plaza Hotel and Casino - Las Vegas,1,not working
+460,Quality Inn,1,not working
+468,Quality Inn and Suites,1,not working
+471,Quality Inn and Suites Irvine Spectrum,2,not working
+474,Radisson Blu Conference and Airport Hotel,1,not working
+485,Red Lion Anaheim Maingate Hotel,1,not working
+486,Red Rest Inn,1,not working
+518,Sleep Inn At Harbour View,1,not working
+519,Sleep Inn Slidell,1,not working
+541,Super 8 - Upland,2,not working
+547,Super 8 Bradenton Sarasota Area,2,not working
+564,Super 8 Metropolis,1,not working
+567,Super 8 Pittsburgh/monroeville,1,not working
+568,Super 8 Schenect/albany Area,1,not working
+569,Super 8 Worthington Minnesota,1,not working
+598,Travelodge Anaheim Convention Center,4,not working
+600,Travelodge Shakopee,1,not working
+622,Wine Valley Lodge,1,not working
+12,American Star Inn and Suites Atlantic City,1,hot water
+13,Americas Best Value Inn,4,hot water
+15,Americas Best Value Inn and Suites,1,hot water
+18,Americinn Lodge Suites Austin,1,hot water
+38,Baymont Inn and Suites Enid,1,hot water
+48,Best Western Hospitality Hotel and Suites,1,hot water
+55,Best Western Plus French Quarter Landmark Hotel,1,hot water
+59,Best Western Plus Waterville Grand Hotel,1,hot water
+109,Comfort Inn,1,hot water
+116,Comfort Inn Livermore,1,hot water
+122,Comfort Suites Fort Pierce,1,hot water
+130,Country Inn and Suites By Carlson,1,hot water
+143,Crestview Condominiums,1,hot water
+165,Days Inn West Memphis,1,hot water
+166,Days Inn and Suites Albany,5,hot water
+167,Deluxe Inn Merrillville,1,hot water
+170,Discovery Inn,1,hot water
+198,Extended Stay America - Chicago - Westmont - Oak Brook,1,hot water
+200,Extended Stay America - Fort Lauderdale - Davie,1,hot water
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,1,hot water
+203,Extended Stay America - Rockford - I-90,1,hot water
+216,Falls Motel,1,hot water
+219,Fiesta Inn and Suites,2,hot water
+232,Good Nite Inn Rohnert Park,1,hot water
+240,Haltom Inn,1,hot water
+244,Hampton Inn & Suites-downtown-tutwiler,1,hot water
+254,Hampton Inn Sarasota - I-75 Bee Ridge,3,hot water
+256,Hampton Inn Tucson-airport,1,hot water
+260,Hawthorn Suites By Wyndham Livermore Wine Country,1,hot water
+261,Hawthorn Suites Dayton North,1,hot water
+281,Holiday Inn Express & Suites West Monroe,1,hot water
+285,Holiday Inn Express Colton-riverside North,2,hot water
+316,Hotel Casena Dei Colli,1,hot water
+331,Hotel Roc Flamingo,1,hot water
+339,Howard Johnson Inn - Newburgh,7,hot water
+343,Hyatt House Colorado Springs,1,hot water
+353,Inn At Queen Anne,3,hot water
+360,Ip Casino Resort Spa,1,hot water
+390,Lakeway Resort & Spa,1,hot water
+408,Mccamly Plaza Hotel,1,hot water
+418,Microtel Inn and Suites By Wyndham Burlington,1,hot water
+423,Monterey Beach Dunes Inn,1,hot water
+434,Norwood Inn and Suites,2,hot water
+445,Patalya Thermal Resort,1,hot water
+453,Plaza Hotel and Casino - Las Vegas,1,hot water
+460,Quality Inn,2,hot water
+464,Quality Inn Johnson City,1,hot water
+465,Quality Inn Long Beach Airport,1,hot water
+468,Quality Inn and Suites,1,hot water
+471,Quality Inn and Suites Irvine Spectrum,1,hot water
+472,Quality Suites Intercontinental Airport West,1,hot water
+482,Raton Pass Inn,1,hot water
+486,Red Rest Inn,1,hot water
+493,Residence Inn By Marriott Deptford,1,hot water
+519,Sleep Inn Slidell,2,hot water
+520,Solstice,1,hot water
+521,Sombrero Resort and Marina,1,hot water
+541,Super 8 - Upland,1,hot water
+555,Super 8 Fort Collins,2,hot water
+559,Super 8 Kansas City Airport,2,hot water
+572,"The Alexandrian, Autograph Collection",3,hot water
+592,The Westin Europa and Regina,1,hot water
+598,Travelodge Anaheim Convention Center,1,hot water
+613,Village Lodge,1,hot water
+618,Western Inn-glacier Park,2,hot water
+11,America's Best Value Inn,1,credit card
+12,American Star Inn and Suites Atlantic City,1,credit card
+13,Americas Best Value Inn,3,credit card
+16,Americinn Coralville,2,credit card
+22,Anaheim Marriott Suites,1,credit card
+36,Baymont Inn & Suites Griffin,1,credit card
+48,Best Western Hospitality Hotel and Suites,1,credit card
+59,Best Western Plus Waterville Grand Hotel,2,credit card
+72,Breakers Hotel,1,credit card
+74,Bridgetown Mill House Restaurant Inn,1,credit card
+88,Candlewood Suites Oklahoma City-moore,1,credit card
+90,Candlewood Suites West Springfield,1,credit card
+97,Cherry Orchard Inn,1,credit card
+133,Country Inn and Suites By Carlson Galena,2,credit card
+144,Crossland Economy Studios - Lake Charles - Sulphur,1,credit card
+163,Days Inn Ruther Glen Kings Dominion Area,1,credit card
+165,Days Inn West Memphis,1,credit card
+166,Days Inn and Suites Albany,1,credit card
+182,Econo Lodge Bellmawr,1,credit card
+185,Economy Inn,1,credit card
+192,Elk Springs Resort,1,credit card
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,1,credit card
+219,Fiesta Inn and Suites,1,credit card
+220,Fireside Inn Santa Cruz,1,credit card
+230,Gardena Terrace Inn,1,credit card
+250,Hampton Inn Grand Junction Downtown/historic Main Street,1,credit card
+254,Hampton Inn Sarasota - I-75 Bee Ridge,1,credit card
+259,Harrah's Laughlin Hotel and Casino,2,credit card
+260,Hawthorn Suites By Wyndham Livermore Wine Country,1,credit card
+267,Hilton Garden Inn Kauai Wailua Bay,1,credit card
+270,Hilton San Diego Airport/harbor Island,1,credit card
+274,Holiday Inn Canyon De Chelly,2,credit card
+281,Holiday Inn Express & Suites West Monroe,1,credit card
+285,Holiday Inn Express Colton-riverside North,1,credit card
+286,Holiday Inn Express Dahlonega,2,credit card
+300,Holiday Inn Express San Clemente,1,credit card
+320,Hotel Deca - A Noble House Hotel,1,credit card
+339,Howard Johnson Inn - Newburgh,3,credit card
+361,Jacksonville Plaza Hotel and Suites,1,credit card
+364,Jvd Hotels,1,credit card
+378,La Quinta Inn & Suites Dublin,1,credit card
+379,La Quinta Inn Auburn Worcester,2,credit card
+434,Norwood Inn and Suites,1,credit card
+453,Plaza Hotel and Casino - Las Vegas,1,credit card
+461,Quality Inn & Suites,1,credit card
+471,Quality Inn and Suites Irvine Spectrum,1,credit card
+472,Quality Suites Intercontinental Airport West,1,credit card
+478,Ramada Inn,1,credit card
+479,Ramada Vandalia,1,credit card
+486,Red Rest Inn,1,credit card
+496,Residence Inn By Marriott Irvine John Wayne Airport,1,credit card
+515,Simpson House Inn,1,credit card
+520,Solstice,1,credit card
+526,Sportsmen's Lodge,1,credit card
+543,Super 8 Batesville Ar,1,credit card
+553,Super 8 Dallas South,1,credit card
+554,Super 8 Elko Nv,1,credit card
+555,Super 8 Fort Collins,2,credit card
+565,Super 8 Motel Fairmont,1,credit card
+569,Super 8 Worthington Minnesota,1,credit card
+578,The Governor Hotel,2,credit card
+585,The Kinney - Venice Beach,1,credit card
+594,Tidewater Inn,1,credit card
+598,Travelodge Anaheim Convention Center,1,credit card
+600,Travelodge Shakopee,1,credit card
+610,Uptown Motel,1,credit card
+615,Vista Hotel On Lake Tarpon,1,credit card
+616,Warwick Denver,1,credit card
+623,Wingate By Wyndham Chantilly / Dulles Airport,1,credit card
+625,Wingate By Wyndham Pueblo,1,credit card
+3,40 Berkeley Hostel,2,desk staff
+13,Americas Best Value Inn,1,desk staff
+16,Americinn Coralville,1,desk staff
+18,Americinn Lodge Suites Austin,1,desk staff
+36,Baymont Inn & Suites Griffin,1,desk staff
+48,Best Western Hospitality Hotel and Suites,2,desk staff
+58,Best Western Plus San Marcos Inn,1,desk staff
+59,Best Western Plus Waterville Grand Hotel,1,desk staff
+87,Candlewood Suites Lexington,2,desk staff
+90,Candlewood Suites West Springfield,1,desk staff
+99,Clarion Inn,1,desk staff
+111,Comfort Inn - Springfield,1,desk staff
+112,Comfort Inn Birmingham - Irondale,2,desk staff
+130,Country Inn and Suites By Carlson,1,desk staff
+148,Days Inn & Suites Castle Rock,1,desk staff
+163,Days Inn Ruther Glen Kings Dominion Area,1,desk staff
+164,Days Inn Warren,1,desk staff
+175,Doubletree By Hilton West Palm Beach Airport,2,desk staff
+198,Extended Stay America - Chicago - Westmont - Oak Brook,1,desk staff
+199,Extended Stay America - Columbia - Northwest Harbison,1,desk staff
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,1,desk staff
+206,Fairbridge Inn,1,desk staff
+219,Fiesta Inn and Suites,3,desk staff
+230,Gardena Terrace Inn,1,desk staff
+232,Good Nite Inn Rohnert Park,3,desk staff
+244,Hampton Inn & Suites-downtown-tutwiler,1,desk staff
+248,Hampton Inn Fayetteville Fort Bragg,1,desk staff
+254,Hampton Inn Sarasota - I-75 Bee Ridge,4,desk staff
+261,Hawthorn Suites Dayton North,2,desk staff
+284,Holiday Inn Express - Hillsboro,1,desk staff
+285,Holiday Inn Express Colton-riverside North,1,desk staff
+299,Holiday Inn Express Lubbock South,1,desk staff
+312,Hotel Adler Cavalieri,1,desk staff
+320,Hotel Deca - A Noble House Hotel,2,desk staff
+335,Hotel Valencia Santana Row,1,desk staff
+339,Howard Johnson Inn - Newburgh,3,desk staff
+344,Hyatt Place Atlanta/alpharetta/north Point Mall,1,desk staff
+353,Inn At Queen Anne,1,desk staff
+354,Innisbrook,1,desk staff
+368,Knights Inn Aiken,3,desk staff
+374,"La Posada Lodge & Casitas, An Ascend Hotel Collection Member",1,desk staff
+379,La Quinta Inn Auburn Worcester,1,desk staff
+381,La Quinta Inn and Suites Hopkinsville,1,desk staff
+385,La Quinta Inn and Suites Sunrise,1,desk staff
+390,Lakeway Resort & Spa,1,desk staff
+404,Marriott's Mountainside At Park City,1,desk staff
+408,Mccamly Plaza Hotel,1,desk staff
+415,Microtel Inn By Wyndham Knoxville,2,desk staff
+453,Plaza Hotel and Casino - Las Vegas,1,desk staff
+460,Quality Inn,1,desk staff
+468,Quality Inn and Suites,1,desk staff
+471,Quality Inn and Suites Irvine Spectrum,1,desk staff
+472,Quality Suites Intercontinental Airport West,2,desk staff
+488,Red Roof Inn Cedar Rapids,1,desk staff
+499,Rodeway Inn,1,desk staff
+520,Solstice,1,desk staff
+521,Sombrero Resort and Marina,2,desk staff
+528,Springhill Suites Columbia,1,desk staff
+553,Super 8 Dallas South,1,desk staff
+572,"The Alexandrian, Autograph Collection",2,desk staff
+3,40 Berkeley Hostel,1,not cleaned
+4,A Bed & Breakfast In Cambridge,2,not cleaned
+13,Americas Best Value Inn,4,not cleaned
+27,Arizona Inn of Prescott Valley,1,not cleaned
+36,Baymont Inn & Suites Griffin,1,not cleaned
+37,Baymont Inn and Suites Boone,2,not cleaned
+39,Bayside Resort Hotel,1,not cleaned
+48,Best Western Hospitality Hotel and Suites,1,not cleaned
+57,Best Western Plus Kelly Inn,1,not cleaned
+59,Best Western Plus Waterville Grand Hotel,2,not cleaned
+111,Comfort Inn - Springfield,1,not cleaned
+138,Courtyard By Marriott Downtown Boise,1,not cleaned
+144,Crossland Economy Studios - Lake Charles - Sulphur,1,not cleaned
+148,Days Inn & Suites Castle Rock,4,not cleaned
+151,Days Inn Bloomington,1,not cleaned
+163,Days Inn Ruther Glen Kings Dominion Area,1,not cleaned
+171,Dockers Inn,1,not cleaned
+178,Durango Travelodge,1,not cleaned
+181,Econo Lodge,1,not cleaned
+182,Econo Lodge Bellmawr,1,not cleaned
+192,Elk Springs Resort,1,not cleaned
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,1,not cleaned
+206,Fairbridge Inn,1,not cleaned
+219,Fiesta Inn and Suites,2,not cleaned
+245,Hampton Inn Abilene,1,not cleaned
+248,Hampton Inn Fayetteville Fort Bragg,1,not cleaned
+249,Hampton Inn Ft Chiswell,1,not cleaned
+257,Hampton Inn Virginia Beach Oceanfront North,2,not cleaned
+261,Hawthorn Suites Dayton North,1,not cleaned
+270,Hilton San Diego Airport/harbor Island,1,not cleaned
+281,Holiday Inn Express & Suites West Monroe,1,not cleaned
+283,Holiday Inn Express - Harrisburg East,1,not cleaned
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,1,not cleaned
+303,Holiday Inn Fond Du Lac,1,not cleaned
+323,Hotel Lavonia,1,not cleaned
+339,Howard Johnson Inn - Newburgh,3,not cleaned
+361,Jacksonville Plaza Hotel and Suites,2,not cleaned
+364,Jvd Hotels,1,not cleaned
+369,Knights Inn Amarillo Airport,2,not cleaned
+382,La Quinta Inn and Suites Meridian,1,not cleaned
+385,La Quinta Inn and Suites Sunrise,1,not cleaned
+391,Lamothe House,1,not cleaned
+423,Monterey Beach Dunes Inn,1,not cleaned
+434,Norwood Inn and Suites,2,not cleaned
+453,Plaza Hotel and Casino - Las Vegas,1,not cleaned
+465,Quality Inn Long Beach Airport,2,not cleaned
+468,Quality Inn and Suites,1,not cleaned
+469,Quality Inn and Suites Big Rapids,1,not cleaned
+472,Quality Suites Intercontinental Airport West,1,not cleaned
+488,Red Roof Inn Cedar Rapids,2,not cleaned
+494,Residence Inn By Marriott Fort Lauderdale Weston,1,not cleaned
+521,Sombrero Resort and Marina,1,not cleaned
+541,Super 8 - Upland,1,not cleaned
+544,Super 8 Belle Fourche,1,not cleaned
+558,Super 8 Ithaca,2,not cleaned
+559,Super 8 Kansas City Airport,1,not cleaned
+567,Super 8 Pittsburgh/monroeville,1,not cleaned
+568,Super 8 Schenect/albany Area,1,not cleaned
+572,"The Alexandrian, Autograph Collection",1,not cleaned
+577,The Concorde Inn,1,not cleaned
+582,The Inn At Bella Vista,1,not cleaned
+584,The Jayakarta Bali,1,not cleaned
+615,Vista Hotel On Lake Tarpon,1,not cleaned
+3,40 Berkeley Hostel,3,air conditioning
+4,A Bed & Breakfast In Cambridge,2,air conditioning
+16,Americinn Coralville,1,air conditioning
+22,Anaheim Marriott Suites,1,air conditioning
+48,Best Western Hospitality Hotel and Suites,1,air conditioning
+55,Best Western Plus French Quarter Landmark Hotel,1,air conditioning
+58,Best Western Plus San Marcos Inn,7,air conditioning
+63,Best Western University Inn & Suites,1,air conditioning
+121,Comfort Suites,1,air conditioning
+122,Comfort Suites Fort Pierce,1,air conditioning
+132,Country Inn and Suites By Carlson Corbin,1,air conditioning
+148,Days Inn & Suites Castle Rock,1,air conditioning
+154,Days Inn Brookings,1,air conditioning
+156,Days Inn Fort Wayne,1,air conditioning
+192,Elk Springs Resort,2,air conditioning
+196,Excellence Riviera Cancun - Adults Only - All Inclusive,1,air conditioning
+200,Extended Stay America - Fort Lauderdale - Davie,1,air conditioning
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,1,air conditioning
+203,Extended Stay America - Rockford - I-90,1,air conditioning
+219,Fiesta Inn and Suites,3,air conditioning
+220,Fireside Inn Santa Cruz,1,air conditioning
+239,Greenstay Hotel and Suites,1,air conditioning
+261,Hawthorn Suites Dayton North,1,air conditioning
+269,Hilton Princess San Pedro Sula,1,air conditioning
+273,Holiday Inn,1,air conditioning
+276,Holiday Inn Express & Suites Bay City,1,air conditioning
+289,Holiday Inn Express Hotel & Suites Emporia,1,air conditioning
+293,Holiday Inn Express Hotel and Suites Cambridge,1,air conditioning
+314,Hotel Aura Sfo,1,air conditioning
+320,Hotel Deca - A Noble House Hotel,1,air conditioning
+323,Hotel Lavonia,1,air conditioning
+329,Hotel Portaventura,1,air conditioning
+339,Howard Johnson Inn - Newburgh,4,air conditioning
+353,Inn At Queen Anne,1,air conditioning
+358,Intown Suites Nashville North,1,air conditioning
+375,La Quinta,1,air conditioning
+385,La Quinta Inn and Suites Sunrise,3,air conditioning
+386,La Quinta Inn and Suites Tucson - Reid Park,1,air conditioning
+407,Masters Inn,2,air conditioning
+408,Mccamly Plaza Hotel,1,air conditioning
+443,Parkside Inn At Incline,1,air conditioning
+453,Plaza Hotel and Casino - Las Vegas,1,air conditioning
+460,Quality Inn,1,air conditioning
+471,Quality Inn and Suites Irvine Spectrum,1,air conditioning
+505,Sand Dunes Motel,1,air conditioning
+507,Sands Central Inn Hot Springs,1,air conditioning
+513,Sheraton Offenbach Hotel,1,air conditioning
+520,Solstice,2,air conditioning
+526,Sportsmen's Lodge,2,air conditioning
+541,Super 8 - Upland,2,air conditioning
+547,Super 8 Bradenton Sarasota Area,1,air conditioning
+553,Super 8 Dallas South,1,air conditioning
+554,Super 8 Elko Nv,1,air conditioning
+568,Super 8 Schenect/albany Area,2,air conditioning
+569,Super 8 Worthington Minnesota,1,air conditioning
+572,"The Alexandrian, Autograph Collection",3,air conditioning
+577,The Concorde Inn,1,air conditioning
+618,Western Inn-glacier Park,1,air conditioning
+12,American Star Inn and Suites Atlantic City,2,hot tub
+13,Americas Best Value Inn,3,hot tub
+15,Americas Best Value Inn and Suites,2,hot tub
+16,Americinn Coralville,4,hot tub
+18,Americinn Lodge Suites Austin,1,hot tub
+37,Baymont Inn and Suites Boone,6,hot tub
+39,Bayside Resort Hotel,1,hot tub
+48,Best Western Hospitality Hotel and Suites,3,hot tub
+58,Best Western Plus San Marcos Inn,1,hot tub
+59,Best Western Plus Waterville Grand Hotel,4,hot tub
+83,Campus Inn & Suites Eugene Downtown,2,hot tub
+90,Candlewood Suites West Springfield,1,hot tub
+97,Cherry Orchard Inn,1,hot tub
+118,Comfort Inn and Suites,2,hot tub
+121,Comfort Suites,2,hot tub
+131,Country Inn and Suites By Carlson Charlotte University Place,2,hot tub
+133,Country Inn and Suites By Carlson Galena,1,hot tub
+148,Days Inn & Suites Castle Rock,1,hot tub
+166,Days Inn and Suites Albany,3,hot tub
+192,Elk Springs Resort,2,hot tub
+214,Fairfield Inn and Suites By Marriott Plainville,2,hot tub
+245,Hampton Inn Abilene,4,hot tub
+277,Holiday Inn Express & Suites Crossville,1,hot tub
+289,Holiday Inn Express Hotel & Suites Emporia,1,hot tub
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,1,hot tub
+308,Homewood Suites - Mall of America,1,hot tub
+343,Hyatt House Colorado Springs,1,hot tub
+384,La Quinta Inn and Suites Nashville Franklin,1,hot tub
+408,Mccamly Plaza Hotel,1,hot tub
+461,Quality Inn & Suites,2,hot tub
+471,Quality Inn and Suites Irvine Spectrum,1,hot tub
+499,Rodeway Inn,1,hot tub
+518,Sleep Inn At Harbour View,1,hot tub
+520,Solstice,1,hot tub
+526,Sportsmen's Lodge,1,hot tub
+555,Super 8 Fort Collins,2,hot tub
+556,Super 8 Gretna,1,hot tub
+564,Super 8 Metropolis,3,hot tub
+571,The Abbey Resort,1,hot tub
+594,Tidewater Inn,2,hot tub
+598,Travelodge Anaheim Convention Center,1,hot tub
+10,Ambassadors Inn and Suites,1,bed bugs
+13,Americas Best Value Inn,3,bed bugs
+15,Americas Best Value Inn and Suites,1,bed bugs
+16,Americinn Coralville,1,bed bugs
+77,Budget Inn,1,bed bugs
+85,Candlewood Suites Huntersville,1,bed bugs
+97,Cherry Orchard Inn,2,bed bugs
+109,Comfort Inn,1,bed bugs
+131,Country Inn and Suites By Carlson Charlotte University Place,2,bed bugs
+163,Days Inn Ruther Glen Kings Dominion Area,1,bed bugs
+166,Days Inn and Suites Albany,1,bed bugs
+169,Desert Sands Motel,2,bed bugs
+175,Doubletree By Hilton West Palm Beach Airport,1,bed bugs
+183,Econo Lodge Miles City,2,bed bugs
+200,Extended Stay America - Fort Lauderdale - Davie,1,bed bugs
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,1,bed bugs
+206,Fairbridge Inn,1,bed bugs
+219,Fiesta Inn and Suites,7,bed bugs
+245,Hampton Inn Abilene,1,bed bugs
+259,Harrah's Laughlin Hotel and Casino,1,bed bugs
+261,Hawthorn Suites Dayton North,1,bed bugs
+308,Homewood Suites - Mall of America,1,bed bugs
+339,Howard Johnson Inn - Newburgh,3,bed bugs
+346,Hyatt Place San Antonio Airport - Quarry Market,1,bed bugs
+361,Jacksonville Plaza Hotel and Suites,3,bed bugs
+368,Knights Inn Aiken,3,bed bugs
+415,Microtel Inn By Wyndham Knoxville,2,bed bugs
+434,Norwood Inn and Suites,3,bed bugs
+453,Plaza Hotel and Casino - Las Vegas,1,bed bugs
+460,Quality Inn,2,bed bugs
+468,Quality Inn and Suites,1,bed bugs
+486,Red Rest Inn,2,bed bugs
+507,Sands Central Inn Hot Springs,1,bed bugs
+520,Solstice,1,bed bugs
+521,Sombrero Resort and Marina,2,bed bugs
+537,Sumner Motor Inn,1,bed bugs
+541,Super 8 - Upland,1,bed bugs
+543,Super 8 Batesville Ar,2,bed bugs
+560,Super 8 Kingston,2,bed bugs
+584,The Jayakarta Bali,1,bed bugs
+600,Travelodge Shakopee,1,bed bugs
+12,American Star Inn and Suites Atlantic City,2,toilet paper
+13,Americas Best Value Inn,1,toilet paper
+58,Best Western Plus San Marcos Inn,1,toilet paper
+72,Breakers Hotel,1,toilet paper
+93,Castle Kona Reef,1,toilet paper
+129,Country Inn Walker,1,toilet paper
+131,Country Inn and Suites By Carlson Charlotte University Place,1,toilet paper
+148,Days Inn & Suites Castle Rock,4,toilet paper
+152,Days Inn Bowling Green,1,toilet paper
+158,Days Inn Kuttawa,1,toilet paper
+166,Days Inn and Suites Albany,2,toilet paper
+170,Discovery Inn,1,toilet paper
+185,Economy Inn,1,toilet paper
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,2,toilet paper
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,3,toilet paper
+203,Extended Stay America - Rockford - I-90,1,toilet paper
+219,Fiesta Inn and Suites,15,toilet paper
+232,Good Nite Inn Rohnert Park,2,toilet paper
+240,Haltom Inn,1,toilet paper
+268,Hilton Garden Inn Oconomowoc,1,toilet paper
+319,Hotel De La Ville,1,toilet paper
+361,Jacksonville Plaza Hotel and Suites,1,toilet paper
+368,Knights Inn Aiken,1,toilet paper
+369,Knights Inn Amarillo Airport,1,toilet paper
+382,La Quinta Inn and Suites Meridian,1,toilet paper
+434,Norwood Inn and Suites,3,toilet paper
+453,Plaza Hotel and Casino - Las Vegas,1,toilet paper
+479,Ramada Vandalia,1,toilet paper
+496,Residence Inn By Marriott Irvine John Wayne Airport,1,toilet paper
+519,Sleep Inn Slidell,1,toilet paper
+521,Sombrero Resort and Marina,1,toilet paper
+541,Super 8 - Upland,1,toilet paper
+545,Super 8 Big Cabin Vinita Ok,1,toilet paper
+563,Super 8 Manhattan Ks,1,toilet paper
+577,The Concorde Inn,1,toilet paper
+598,Travelodge Anaheim Convention Center,1,toilet paper
+599,Travelodge Ruther Glen,1,toilet paper
+600,Travelodge Shakopee,1,toilet paper
+618,Western Inn-glacier Park,1,toilet paper
+621,Wilshire Inn Motel,1,toilet paper
+10,Ambassadors Inn and Suites,1,smelled smoke
+13,Americas Best Value Inn,2,smelled smoke
+48,Best Western Hospitality Hotel and Suites,1,smelled smoke
+59,Best Western Plus Waterville Grand Hotel,1,smelled smoke
+97,Cherry Orchard Inn,1,smelled smoke
+115,Comfort Inn Huntingdon,1,smelled smoke
+128,"Country Inn & Suites By Carlson, Rocky Mount, Nc",1,smelled smoke
+129,Country Inn Walker,1,smelled smoke
+144,Crossland Economy Studios - Lake Charles - Sulphur,1,smelled smoke
+148,Days Inn & Suites Castle Rock,3,smelled smoke
+151,Days Inn Bloomington,1,smelled smoke
+159,Days Inn Lanham Washington Dc,2,smelled smoke
+160,Days Inn Lincolnton,1,smelled smoke
+162,Days Inn North Columbia Ft. Jackson,2,smelled smoke
+166,Days Inn and Suites Albany,1,smelled smoke
+198,Extended Stay America - Chicago - Westmont - Oak Brook,1,smelled smoke
+200,Extended Stay America - Fort Lauderdale - Davie,1,smelled smoke
+203,Extended Stay America - Rockford - I-90,1,smelled smoke
+206,Fairbridge Inn,1,smelled smoke
+207,Fairfield Inn & Suites Atlanta Perimeter Center,1,smelled smoke
+219,Fiesta Inn and Suites,1,smelled smoke
+230,Gardena Terrace Inn,3,smelled smoke
+247,Hampton Inn Dublin,1,smelled smoke
+254,Hampton Inn Sarasota - I-75 Bee Ridge,1,smelled smoke
+259,Harrah's Laughlin Hotel and Casino,1,smelled smoke
+270,Hilton San Diego Airport/harbor Island,1,smelled smoke
+297,Holiday Inn Express Hotel and Suites Raleigh-wakefield,1,smelled smoke
+339,Howard Johnson Inn - Newburgh,2,smelled smoke
+357,Intown Suites El Paso,1,smelled smoke
+360,Ip Casino Resort Spa,1,smelled smoke
+361,Jacksonville Plaza Hotel and Suites,1,smelled smoke
+379,La Quinta Inn Auburn Worcester,1,smelled smoke
+383,La Quinta Inn and Suites Miami Cutler Bay,1,smelled smoke
+386,La Quinta Inn and Suites Tucson - Reid Park,2,smelled smoke
+397,Magnuson Hotel Summerton,1,smelled smoke
+415,Microtel Inn By Wyndham Knoxville,1,smelled smoke
+460,Quality Inn,1,smelled smoke
+461,Quality Inn & Suites,1,smelled smoke
+470,Quality Inn and Suites Eugene-springfield,1,smelled smoke
+472,Quality Suites Intercontinental Airport West,1,smelled smoke
+486,Red Rest Inn,1,smelled smoke
+539,Super 8,1,smelled smoke
+541,Super 8 - Upland,2,smelled smoke
+543,Super 8 Batesville Ar,3,smelled smoke
+544,Super 8 Belle Fourche,1,smelled smoke
+546,Super 8 Blackwell Ok,1,smelled smoke
+547,Super 8 Bradenton Sarasota Area,1,smelled smoke
+559,Super 8 Kansas City Airport,1,smelled smoke
+561,Super 8 Longmont / Del Camino,1,smelled smoke
+564,Super 8 Metropolis,1,smelled smoke
+567,Super 8 Pittsburgh/monroeville,1,smelled smoke
+568,Super 8 Schenect/albany Area,1,smelled smoke
+13,Americas Best Value Inn,4,not sure
+17,Americinn Lodge & Suites Appleton,1,not sure
+22,Anaheim Marriott Suites,1,not sure
+57,Best Western Plus Kelly Inn,1,not sure
+58,Best Western Plus San Marcos Inn,1,not sure
+116,Comfort Inn Livermore,1,not sure
+117,Comfort Inn Montgomery,1,not sure
+131,Country Inn and Suites By Carlson Charlotte University Place,1,not sure
+149,Days Inn Bangor Airport,1,not sure
+153,Days Inn Branson / Near The Strip,1,not sure
+175,Doubletree By Hilton West Palm Beach Airport,1,not sure
+192,Elk Springs Resort,2,not sure
+199,Extended Stay America - Columbia - Northwest Harbison,1,not sure
+200,Extended Stay America - Fort Lauderdale - Davie,1,not sure
+203,Extended Stay America - Rockford - I-90,1,not sure
+216,Falls Motel,1,not sure
+219,Fiesta Inn and Suites,1,not sure
+220,Fireside Inn Santa Cruz,1,not sure
+248,Hampton Inn Fayetteville Fort Bragg,1,not sure
+258,Hampton Inn and Suites Annapolis,2,not sure
+261,Hawthorn Suites Dayton North,1,not sure
+278,Holiday Inn Express & Suites Lenoir City (knoxville Area),1,not sure
+289,Holiday Inn Express Hotel & Suites Emporia,1,not sure
+302,Holiday Inn Express and Suites Gahanna/columbus Airport E,1,not sure
+309,Homewood Suites By Hilton Albuquerque - Journal Center,1,not sure
+335,Hotel Valencia Santana Row,1,not sure
+339,Howard Johnson Inn - Newburgh,2,not sure
+340,Howard Johnson Inn Columbia,1,not sure
+347,Hyatt Place Utica,1,not sure
+364,Jvd Hotels,1,not sure
+371,Knights Inn Eau Claire,1,not sure
+379,La Quinta Inn Auburn Worcester,1,not sure
+383,La Quinta Inn and Suites Miami Cutler Bay,1,not sure
+384,La Quinta Inn and Suites Nashville Franklin,1,not sure
+415,Microtel Inn By Wyndham Knoxville,1,not sure
+423,Monterey Beach Dunes Inn,1,not sure
+434,Norwood Inn and Suites,3,not sure
+463,Quality Inn Gulfport,1,not sure
+465,Quality Inn Long Beach Airport,1,not sure
+519,Sleep Inn Slidell,1,not sure
+523,Southside Motel,1,not sure
+526,Sportsmen's Lodge,1,not sure
+539,Super 8,1,not sure
+541,Super 8 - Upland,1,not sure
+544,Super 8 Belle Fourche,2,not sure
+547,Super 8 Bradenton Sarasota Area,1,not sure
+550,Super 8 Columbia Dwntwn Sc,1,not sure
+558,Super 8 Ithaca,1,not sure
+559,Super 8 Kansas City Airport,1,not sure
+572,"The Alexandrian, Autograph Collection",2,not sure
+585,The Kinney - Venice Beach,1,not sure
+16,Americinn Coralville,1,staff not
+22,Anaheim Marriott Suites,1,staff not
+45,Best Western Eufaula Inn,1,staff not
+59,Best Western Plus Waterville Grand Hotel,3,staff not
+64,Best Western of Long Beach,1,staff not
+93,Castle Kona Reef,2,staff not
+109,Comfort Inn,1,staff not
+140,Courtyard Columbus Worthington,1,staff not
+159,Days Inn Lanham Washington Dc,1,staff not
+163,Days Inn Ruther Glen Kings Dominion Area,1,staff not
+164,Days Inn Warren,1,staff not
+166,Days Inn and Suites Albany,1,staff not
+170,Discovery Inn,1,staff not
+175,Doubletree By Hilton West Palm Beach Airport,2,staff not
+184,Econo Lodge St Robert,1,staff not
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,1,staff not
+205,Extended Stay America San Diego - Carlsbad Village By The Sea,1,staff not
+219,Fiesta Inn and Suites,2,staff not
+235,Grand Hotel Cadenabbia,1,staff not
+254,Hampton Inn Sarasota - I-75 Bee Ridge,2,staff not
+261,Hawthorn Suites Dayton North,1,staff not
+265,Hilton Garden Inn Austin Nw - Arboretum,1,staff not
+283,Holiday Inn Express - Harrisburg East,2,staff not
+284,Holiday Inn Express - Hillsboro,1,staff not
+286,Holiday Inn Express Dahlonega,1,staff not
+294,Holiday Inn Express Hotel and Suites Hesperia,1,staff not
+295,Holiday Inn Express Hotel and Suites Meadowlands Area,1,staff not
+321,Hotel Eug��ne En Ville,2,staff not
+323,Hotel Lavonia,1,staff not
+335,Hotel Valencia Santana Row,1,staff not
+369,Knights Inn Amarillo Airport,2,staff not
+379,La Quinta Inn Auburn Worcester,1,staff not
+415,Microtel Inn By Wyndham Knoxville,1,staff not
+453,Plaza Hotel and Casino - Las Vegas,1,staff not
+461,Quality Inn & Suites,1,staff not
+471,Quality Inn and Suites Irvine Spectrum,2,staff not
+473,Quinta Real Acapulco,1,staff not
+488,Red Roof Inn Cedar Rapids,1,staff not
+493,Residence Inn By Marriott Deptford,1,staff not
+499,Rodeway Inn,1,staff not
+520,Solstice,1,staff not
+540,Super 8 - Effingham,1,staff not
+553,Super 8 Dallas South,1,staff not
+560,Super 8 Kingston,1,staff not
+572,"The Alexandrian, Autograph Collection",2,staff not
+592,The Westin Europa and Regina,2,staff not
+598,Travelodge Anaheim Convention Center,3,staff not
+3,40 Berkeley Hostel,2,good thing
+12,American Star Inn and Suites Atlantic City,1,good thing
+13,Americas Best Value Inn,4,good thing
+22,Anaheim Marriott Suites,1,good thing
+38,Baymont Inn and Suites Enid,1,good thing
+49,Best Western Hotel De Neuville,1,good thing
+69,Boardroom Motel,1,good thing
+83,Campus Inn & Suites Eugene Downtown,1,good thing
+121,Comfort Suites,1,good thing
+156,Days Inn Fort Wayne,1,good thing
+163,Days Inn Ruther Glen Kings Dominion Area,1,good thing
+166,Days Inn and Suites Albany,2,good thing
+167,Deluxe Inn Merrillville,1,good thing
+173,Double Eagle Hotel and Casino,1,good thing
+181,Econo Lodge,1,good thing
+182,Econo Lodge Bellmawr,1,good thing
+183,Econo Lodge Miles City,2,good thing
+185,Economy Inn,1,good thing
+219,Fiesta Inn and Suites,3,good thing
+220,Fireside Inn Santa Cruz,1,good thing
+230,Gardena Terrace Inn,1,good thing
+232,Good Nite Inn Rohnert Park,2,good thing
+259,Harrah's Laughlin Hotel and Casino,1,good thing
+261,Hawthorn Suites Dayton North,1,good thing
+270,Hilton San Diego Airport/harbor Island,1,good thing
+323,Hotel Lavonia,1,good thing
+339,Howard Johnson Inn - Newburgh,1,good thing
+358,Intown Suites Nashville North,1,good thing
+368,Knights Inn Aiken,2,good thing
+370,Knights Inn Carmel Hill,1,good thing
+382,La Quinta Inn and Suites Meridian,1,good thing
+408,Mccamly Plaza Hotel,1,good thing
+421,Monarch Inn,1,good thing
+427,Mountain Lodge At Telluride - A Noble House Resort,1,good thing
+443,Parkside Inn At Incline,1,good thing
+453,Plaza Hotel and Casino - Las Vegas,1,good thing
+460,Quality Inn,2,good thing
+465,Quality Inn Long Beach Airport,2,good thing
+486,Red Rest Inn,1,good thing
+518,Sleep Inn At Harbour View,1,good thing
+520,Solstice,1,good thing
+526,Sportsmen's Lodge,2,good thing
+541,Super 8 - Upland,1,good thing
+543,Super 8 Batesville Ar,1,good thing
+547,Super 8 Bradenton Sarasota Area,1,good thing
+557,Super 8 Indianapolis,1,good thing
+577,The Concorde Inn,1,good thing
+584,The Jayakarta Bali,1,good thing
+12,American Star Inn and Suites Atlantic City,2,shower curtain
+13,Americas Best Value Inn,3,shower curtain
+27,Arizona Inn of Prescott Valley,1,shower curtain
+37,Baymont Inn and Suites Boone,2,shower curtain
+38,Baymont Inn and Suites Enid,1,shower curtain
+58,Best Western Plus San Marcos Inn,1,shower curtain
+59,Best Western Plus Waterville Grand Hotel,1,shower curtain
+83,Campus Inn & Suites Eugene Downtown,1,shower curtain
+97,Cherry Orchard Inn,1,shower curtain
+117,Comfort Inn Montgomery,1,shower curtain
+120,Comfort Inn and Suites O'fallon,2,shower curtain
+131,Country Inn and Suites By Carlson Charlotte University Place,1,shower curtain
+148,Days Inn & Suites Castle Rock,1,shower curtain
+153,Days Inn Branson / Near The Strip,1,shower curtain
+163,Days Inn Ruther Glen Kings Dominion Area,1,shower curtain
+165,Days Inn West Memphis,1,shower curtain
+166,Days Inn and Suites Albany,3,shower curtain
+178,Durango Travelodge,1,shower curtain
+185,Economy Inn,1,shower curtain
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,2,shower curtain
+206,Fairbridge Inn,2,shower curtain
+219,Fiesta Inn and Suites,3,shower curtain
+237,Great American Inn Suites,1,shower curtain
+247,Hampton Inn Dublin,1,shower curtain
+258,Hampton Inn and Suites Annapolis,1,shower curtain
+259,Harrah's Laughlin Hotel and Casino,1,shower curtain
+279,Holiday Inn Express & Suites Phoenix Downtown - Ballpark,1,shower curtain
+296,Holiday Inn Express Hotel and Suites Memphis Southwind,1,shower curtain
+308,Homewood Suites - Mall of America,1,shower curtain
+325,Hotel Metropole,1,shower curtain
+339,Howard Johnson Inn - Newburgh,4,shower curtain
+340,Howard Johnson Inn Columbia,1,shower curtain
+357,Intown Suites El Paso,1,shower curtain
+364,Jvd Hotels,1,shower curtain
+386,La Quinta Inn and Suites Tucson - Reid Park,1,shower curtain
+423,Monterey Beach Dunes Inn,2,shower curtain
+434,Norwood Inn and Suites,2,shower curtain
+453,Plaza Hotel and Casino - Las Vegas,1,shower curtain
+461,Quality Inn & Suites,1,shower curtain
+550,Super 8 Columbia Dwntwn Sc,1,shower curtain
+563,Super 8 Manhattan Ks,1,shower curtain
+572,"The Alexandrian, Autograph Collection",2,shower curtain
+598,Travelodge Anaheim Convention Center,1,shower curtain
+3,40 Berkeley Hostel,2,bathroom floor
+13,Americas Best Value Inn,3,bathroom floor
+15,Americas Best Value Inn and Suites,1,bathroom floor
+16,Americinn Coralville,1,bathroom floor
+97,Cherry Orchard Inn,1,bathroom floor
+116,Comfort Inn Livermore,1,bathroom floor
+120,Comfort Inn and Suites O'fallon,3,bathroom floor
+121,Comfort Suites,1,bathroom floor
+156,Days Inn Fort Wayne,1,bathroom floor
+166,Days Inn and Suites Albany,1,bathroom floor
+170,Discovery Inn,1,bathroom floor
+185,Economy Inn,2,bathroom floor
+186,Eden Park Guest House,1,bathroom floor
+219,Fiesta Inn and Suites,2,bathroom floor
+248,Hampton Inn Fayetteville Fort Bragg,1,bathroom floor
+258,Hampton Inn and Suites Annapolis,1,bathroom floor
+259,Harrah's Laughlin Hotel and Casino,1,bathroom floor
+268,Hilton Garden Inn Oconomowoc,1,bathroom floor
+277,Holiday Inn Express & Suites Crossville,1,bathroom floor
+281,Holiday Inn Express & Suites West Monroe,1,bathroom floor
+296,Holiday Inn Express Hotel and Suites Memphis Southwind,1,bathroom floor
+320,Hotel Deca - A Noble House Hotel,1,bathroom floor
+339,Howard Johnson Inn - Newburgh,7,bathroom floor
+361,Jacksonville Plaza Hotel and Suites,1,bathroom floor
+364,Jvd Hotels,2,bathroom floor
+404,Marriott's Mountainside At Park City,1,bathroom floor
+418,Microtel Inn and Suites By Wyndham Burlington,1,bathroom floor
+431,New York Marriott Marquis,1,bathroom floor
+434,Norwood Inn and Suites,2,bathroom floor
+453,Plaza Hotel and Casino - Las Vegas,1,bathroom floor
+460,Quality Inn,1,bathroom floor
+463,Quality Inn Gulfport,1,bathroom floor
+469,Quality Inn and Suites Big Rapids,1,bathroom floor
+471,Quality Inn and Suites Irvine Spectrum,1,bathroom floor
+499,Rodeway Inn,1,bathroom floor
+518,Sleep Inn At Harbour View,1,bathroom floor
+544,Super 8 Belle Fourche,1,bathroom floor
+545,Super 8 Big Cabin Vinita Ok,2,bathroom floor
+547,Super 8 Bradenton Sarasota Area,1,bathroom floor
+555,Super 8 Fort Collins,1,bathroom floor
+558,Super 8 Ithaca,1,bathroom floor
+563,Super 8 Manhattan Ks,1,bathroom floor
+610,Uptown Motel,1,bathroom floor
+616,Warwick Denver,1,bathroom floor
