@@ -1,0 +1,49 @@
+// ================= Measures table: create an empty Table named _Measures =================
+// Required relationships (one-to-many, single direction):
+// dim_hotels[hotel_id] -> fact_reviews, fact_hotel_sentiment_summary, fact_hotel_complaint_summary,
+//                         fact_hotel_negative_phrases, dim_hotel_scorecard, fact_hotel_category_counts, fact_complaint_evidence
+// fact_reviews[review_id] -> fact_review_complaint_categories[review_id]
+// Note: relate on hotel_id, not on the hotel name.
+
+Total Reviews = COUNTROWS(fact_reviews)
+Positive Reviews = CALCULATE([Total Reviews], fact_reviews[predicted_sentiment] = "positive")
+Neutral Reviews  = CALCULATE([Total Reviews], fact_reviews[predicted_sentiment] = "neutral")
+Negative Reviews = CALCULATE([Total Reviews], fact_reviews[predicted_sentiment] = "negative")
+
+Positive % = DIVIDE([Positive Reviews], [Total Reviews])      // Format: Percentage 0.0%
+Negative % = DIVIDE([Negative Reviews], [Total Reviews])      // Format: Percentage 0.0%
+Neutral %  = DIVIDE([Neutral Reviews],  [Total Reviews])
+
+// Correct average rating (average at the review level, not an average of averages)
+Avg Rating = AVERAGE(fact_reviews[rating])                    // Format: 0.00
+
+Hotels Count = DISTINCTCOUNT(fact_reviews[hotel_id])
+
+// ---- Complaints ----
+Complaint Reviews = DISTINCTCOUNT(fact_review_complaint_categories[review_id])
+Negative Without Category = [Negative Reviews] - [Complaint Reviews]
+Category Coverage % = DIVIDE([Complaint Reviews], [Negative Reviews])
+
+Complaint Share % =                                           // Share of each category out of all complaints
+DIVIDE(
+    COUNTROWS(fact_review_complaint_categories),
+    CALCULATE(COUNTROWS(fact_review_complaint_categories), ALL(fact_review_complaint_categories[complaint_category]))
+)
+
+// ---- Sample reliability: prevents a hotel with 3 reviews from topping the "worst" list ----
+Reliable Hotel Flag = IF([Total Reviews] >= 30, 1, 0)
+Negative % (Reliable Only) = IF([Total Reviews] >= 30, [Negative %], BLANK())
+
+// ---- Weighted measure: combines the percentage and the volume ----
+Negative Impact Score = [Negative Reviews] * [Negative %]
+
+// ---- Link visuals to a dynamic Top N ----
+Worst Hotel Rank =
+IF([Total Reviews] >= 30,
+   RANKX(FILTER(ALL(dim_hotels[hotel]), [Total Reviews] >= 30), [Negative %], , DESC, Dense))
+
+// ---- Conditional color for the negative percentage (Conditional formatting > Field value) ----
+Neg Color = SWITCH(TRUE(), [Negative %] >= 0.5, "#C62828", [Negative %] >= 0.3, "#EF6C00", [Negative %] >= 0.15, "#F9A825", "#2E7D32")
+
+// ---- Dynamic title ----
+Page2 Title = "Hotel Performance - " & FORMAT([Hotels Count], "#,0") & " hotels | " & FORMAT([Total Reviews], "#,0") & " reviews"
