@@ -1,0 +1,6 @@
+metric,value
+total_reviews,31825
+unique_hotels,629
+predicted_negative_reviews,6333
+negative_reviews_with_complaint_category,5226
+negative_reviews_without_complaint_category,1107

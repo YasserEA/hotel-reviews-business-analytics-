@@ -1,0 +1,630 @@
+hotel_id,hotel
+1,1785 Inn
+2,1900 House
+3,40 Berkeley Hostel
+4,A Bed & Breakfast In Cambridge
+5,Acorn Motor Inn
+6,Advance Motel
+7,Agate Beach Motel
+8,Alpine Motel
+9,Ambassador Inn Albuquerque
+10,Ambassadors Inn and Suites
+11,America's Best Value Inn
+12,American Star Inn and Suites Atlantic City
+13,Americas Best Value Inn
+14,Americas Best Value Inn - Medical Center/airport
+15,Americas Best Value Inn and Suites
+16,Americinn Coralville
+17,Americinn Lodge & Suites Appleton
+18,Americinn Lodge Suites Austin
+19,Americinn Lodge Suites Oscoda - Ausable River
+20,Americinn Lodge Suites Princeton
+21,Amisos Hotel
+22,Anaheim Marriott Suites
+23,Anglers Inn
+24,Antlers Inn
+25,Arcola Inn
+26,Arion
+27,Arizona Inn of Prescott Valley
+28,Arrowhead Motel and Rv Park
+29,Aspen Alps
+30,Aspen Haus Bed and Breakfast
+31,Astro Motel
+32,Atlantic House
+33,Azul Beach Hotel By Karisma Gourmet Inclusive
+34,Bailey House Bed & Breakfast
+35,Bay Shores Yachttennisclub 514 2 Br Condo By Redawning
+36,Baymont Inn & Suites Griffin
+37,Baymont Inn and Suites Boone
+38,Baymont Inn and Suites Enid
+39,Bayside Resort Hotel
+40,Beach Cove 411 Tower A Sierra's 1 Bedroom Condo By Prista Management
+41,Bear Cove Inn
+42,Bent Elbow
+43,Berkshire By The Sea A Vri Resort
+44,Berney Fly Bed and Breakfast
+45,Best Western Eufaula Inn
+46,Best Western Hartford Hotel & Suites
+47,Best Western Holiday Hills
+48,Best Western Hospitality Hotel and Suites
+49,Best Western Hotel De Neuville
+50,Best Western Knoxville Suites
+51,Best Western Luxury Inn
+52,Best Western Owasso Inn & Suites
+53,Best Western Plus Arlington North Hotel and Suites
+54,Best Western Plus Circle Inn
+55,Best Western Plus French Quarter Landmark Hotel
+56,Best Western Plus Humboldt House Inn
+57,Best Western Plus Kelly Inn
+58,Best Western Plus San Marcos Inn
+59,Best Western Plus Waterville Grand Hotel
+60,Best Western Plus-seaport Inn
+61,Best Western Saint-etienne Aeroport
+62,Best Western Silicon Valley Inn
+63,Best Western University Inn & Suites
+64,Best Western of Long Beach
+65,Big Mountain Lodge
+66,Blue Boar Inn
+67,Blue Jay Motel
+68,Blue Top Inn
+69,Boardroom Motel
+70,Boiling Springs Resort Canoe Rental
+71,Bosselmans Pump Pantry Motel
+72,Breakers Hotel
+73,Briarcliff
+74,Bridgetown Mill House Restaurant Inn
+75,Brightwood Inn Country Inn
+76,Budget Host Inn
+77,Budget Inn
+78,Budget Inn South
+79,Cadillac Motel
+80,Cambria Hotel & Suites
+81,Camelback Resort Aquatopia Indoor Waterpark
+82,Campanile Lyon Ecully
+83,Campus Inn & Suites Eugene Downtown
+84,Candlewood Suites Eugene Springfield
+85,Candlewood Suites Huntersville
+86,Candlewood Suites Indianapolis Northwest
+87,Candlewood Suites Lexington
+88,Candlewood Suites Oklahoma City-moore
+89,Candlewood Suites Olathe
+90,Candlewood Suites West Springfield
+91,Canyon Gate Motel
+92,Casa Del Mar Inn Bandb
+93,Castle Kona Reef
+94,Centennial Bed and Breakfast
+95,Chelsea Inn
+96,Cherokee Lodge Bed and Breakfast
+97,Cherry Orchard Inn
+98,City Express Irapuato
+99,Clarion Inn
+100,Clarion Suites Philadelphia
+101,Clatskanie River Inn
+102,Cliff's Motor Inn
+103,Cliffrose Lodge Gardens
+104,Cliffs 7305 By Redawning
+105,"Club Quarters, Rockefeller Center"
+106,Colonial Inns of Ontario
+107,Comfort Hotel Bernau
+108,Comfort Hotel Nation Pere Lachaise Paris 11
+109,Comfort Inn
+110,Comfort Inn & Suites
+111,Comfort Inn - Springfield
+112,Comfort Inn Birmingham - Irondale
+113,Comfort Inn Deland - Near University
+114,Comfort Inn Humboldt Bay
+115,Comfort Inn Huntingdon
+116,Comfort Inn Livermore
+117,Comfort Inn Montgomery
+118,Comfort Inn and Suites
+119,Comfort Inn and Suites Bend
+120,Comfort Inn and Suites O'fallon
+121,Comfort Suites
+122,Comfort Suites Fort Pierce
+123,Comfort Suites Mount Vernon
+124,Comfort Suites Shreveport
+125,Comfort Suites Southport
+126,Cougar Crest Lodge
+127,Country Inn & Suites By Carlson
+128,"Country Inn & Suites By Carlson, Rocky Mount, Nc"
+129,Country Inn Walker
+130,Country Inn and Suites By Carlson
+131,Country Inn and Suites By Carlson Charlotte University Place
+132,Country Inn and Suites By Carlson Corbin
+133,Country Inn and Suites By Carlson Galena
+134,Country Inns Suites
+135,Country Lodge Motel
+136,Courtyard Burlington Harbor
+137,Courtyard By Marriott
+138,Courtyard By Marriott Downtown Boise
+139,Courtyard By Marriott Rockaway Mount Arlington
+140,Courtyard Columbus Worthington
+141,Courtyard Hattiesburg
+142,Courtyard San Marcos
+143,Crestview Condominiums
+144,Crossland Economy Studios - Lake Charles - Sulphur
+145,Crossroads Hotel
+146,Dallas/fort Worth Marriott Solana
+147,Days Inn
+148,Days Inn & Suites Castle Rock
+149,Days Inn Bangor Airport
+150,Days Inn Barstow
+151,Days Inn Bloomington
+152,Days Inn Bowling Green
+153,Days Inn Branson / Near The Strip
+154,Days Inn Brookings
+155,Days Inn El Reno Ok
+156,Days Inn Fort Wayne
+157,Days Inn Geneva
+158,Days Inn Kuttawa
+159,Days Inn Lanham Washington Dc
+160,Days Inn Lincolnton
+161,Days Inn Marion
+162,Days Inn North Columbia Ft. Jackson
+163,Days Inn Ruther Glen Kings Dominion Area
+164,Days Inn Warren
+165,Days Inn West Memphis
+166,Days Inn and Suites Albany
+167,Deluxe Inn Merrillville
+168,Desert Motel Restaurant
+169,Desert Sands Motel
+170,Discovery Inn
+171,Dockers Inn
+172,Dor-shada Resort By The Sea
+173,Double Eagle Hotel and Casino
+174,Doubletree By Hilton Hotel Bay City - Riverfront
+175,Doubletree By Hilton West Palm Beach Airport
+176,Drury Inn & Suites Sikeston
+177,Drury Inn and Suites Columbus Convention Center
+178,Durango Travelodge
+179,Eaglecrest Ski Area
+180,East Side Motel Cabins
+181,Econo Lodge
+182,Econo Lodge Bellmawr
+183,Econo Lodge Miles City
+184,Econo Lodge St Robert
+185,Economy Inn
+186,Eden Park Guest House
+187,El Cortez
+188,El Dorado Seaside Suites By Karisma - All Inclusive
+189,Elba Sara Beach & Golf Resort
+190,Eldorado Inn
+191,Eldorado Suites Hotel
+192,Elk Springs Resort
+193,Embassy Suites By Hilton Houston Downtown
+194,Enchanted Castle Hotel
+195,Equestrian Estates Horse Farm Bed and Breakfast
+196,Excellence Riviera Cancun - Adults Only - All Inclusive
+197,Extended Stay America
+198,Extended Stay America - Chicago - Westmont - Oak Brook
+199,Extended Stay America - Columbia - Northwest Harbison
+200,Extended Stay America - Fort Lauderdale - Davie
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S
+203,Extended Stay America - Rockford - I-90
+204,Extended Stay America Princeton - West Windsor
+205,Extended Stay America San Diego - Carlsbad Village By The Sea
+206,Fairbridge Inn
+207,Fairfield Inn & Suites Atlanta Perimeter Center
+208,Fairfield Inn & Suites Peoria East
+209,Fairfield Inn By Marriott Binghamton
+210,Fairfield Inn Saginaw
+211,Fairfield Inn Suites Chattanooga South/east Ridge
+212,Fairfield Inn Suites Spearfish
+213,Fairfield Inn and Suites By Marriott Idaho Falls
+214,Fairfield Inn and Suites By Marriott Plainville
+215,Fairfield Inn/suites-marriott
+216,Falls Motel
+217,Fh Hotel Villa Fiesole
+218,Fiesta Inn Centro Historico
+219,Fiesta Inn and Suites
+220,Fireside Inn Santa Cruz
+221,Five Seasuns Bed & Breakfast Inn
+222,Forest Hill Inn
+223,Fort Conde Inn
+224,Fort's Cedar View
+225,Four Points By Sheraton Memphis Southwind
+226,Four Seasons Country Inn
+227,Four Seasons Hotel St. Louis
+228,Garden Bed and Breakfast
+229,Garden of The Gods Club & Resort
+230,Gardena Terrace Inn
+231,Glendale Gaslight Inn
+232,Good Nite Inn Rohnert Park
+233,Gooding Hotel Bed Breakfast
+234,Gran Melia Victoria
+235,Grand Hotel Cadenabbia
+236,Grandison Bed Breakfast
+237,Great American Inn Suites
+238,Great Basin Inn
+239,Greenstay Hotel and Suites
+240,Haltom Inn
+241,Hampton Inn
+242,Hampton Inn & Suites Fort Worth-west-i-30
+243,Hampton Inn & Suites Syracuse/carrier Circle
+244,Hampton Inn & Suites-downtown-tutwiler
+245,Hampton Inn Abilene
+246,Hampton Inn Bloomington West
+247,Hampton Inn Dublin
+248,Hampton Inn Fayetteville Fort Bragg
+249,Hampton Inn Ft Chiswell
+250,Hampton Inn Grand Junction Downtown/historic Main Street
+251,Hampton Inn New Orleans - Downtown
+252,Hampton Inn Roanoke/salem
+253,Hampton Inn Rockford
+254,Hampton Inn Sarasota - I-75 Bee Ridge
+255,Hampton Inn Suites Columbus
+256,Hampton Inn Tucson-airport
+257,Hampton Inn Virginia Beach Oceanfront North
+258,Hampton Inn and Suites Annapolis
+259,Harrah's Laughlin Hotel and Casino
+260,Hawthorn Suites By Wyndham Livermore Wine Country
+261,Hawthorn Suites Dayton North
+262,Helios Resort
+263,High Desert Motel
+264,Hilton Americas-houston
+265,Hilton Garden Inn Austin Nw - Arboretum
+266,Hilton Garden Inn Burlington Downtown
+267,Hilton Garden Inn Kauai Wailua Bay
+268,Hilton Garden Inn Oconomowoc
+269,Hilton Princess San Pedro Sula
+270,Hilton San Diego Airport/harbor Island
+271,Hilton Santo Domingo
+272,Hitching Horse Inn
+273,Holiday Inn
+274,Holiday Inn Canyon De Chelly
+275,Holiday Inn Express
+276,Holiday Inn Express & Suites Bay City
+277,Holiday Inn Express & Suites Crossville
+278,Holiday Inn Express & Suites Lenoir City (knoxville Area)
+279,Holiday Inn Express & Suites Phoenix Downtown - Ballpark
+280,Holiday Inn Express & Suites Portland
+281,Holiday Inn Express & Suites West Monroe
+282,Holiday Inn Express & Suites Willows
+283,Holiday Inn Express - Harrisburg East
+284,Holiday Inn Express - Hillsboro
+285,Holiday Inn Express Colton-riverside North
+286,Holiday Inn Express Dahlonega
+287,Holiday Inn Express Grove City (outlet Center)
+288,Holiday Inn Express Hotel & Suites Chicago-deerfield/lincolnshire
+289,Holiday Inn Express Hotel & Suites Emporia
+290,Holiday Inn Express Hotel Suites Cookeville
+291,Holiday Inn Express Hotel Suites Sedalia
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island
+293,Holiday Inn Express Hotel and Suites Cambridge
+294,Holiday Inn Express Hotel and Suites Hesperia
+295,Holiday Inn Express Hotel and Suites Meadowlands Area
+296,Holiday Inn Express Hotel and Suites Memphis Southwind
+297,Holiday Inn Express Hotel and Suites Raleigh-wakefield
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront
+299,Holiday Inn Express Lubbock South
+300,Holiday Inn Express San Clemente
+301,Holiday Inn Express and Suites Canyonville
+302,Holiday Inn Express and Suites Gahanna/columbus Airport E
+303,Holiday Inn Fond Du Lac
+304,Holiday Inn Manhattan 6th Ave - Chelsea
+305,Holiday Inn Spearfish-convention Center
+306,Holiday Inn Victorville
+307,Hometown Inn
+308,Homewood Suites - Mall of America
+309,Homewood Suites By Hilton Albuquerque - Journal Center
+310,Homewood Suites By Hilton Indpls Airport / Plainfield In
+311,Homewood Suites Dallas-market Center
+312,Hotel Adler Cavalieri
+313,Hotel An Der Philharmonie
+314,Hotel Aura Sfo
+315,Hotel Borgo Verde
+316,Hotel Casena Dei Colli
+317,Hotel Columbia
+318,Hotel Corpus Christi
+319,Hotel De La Ville
+320,Hotel Deca - A Noble House Hotel
+321,Hotel Eug��ne En Ville
+322,Hotel Garibaldi
+323,Hotel Lavonia
+324,Hotel Mc Call
+325,Hotel Metropole
+326,Hotel Millersburg
+327,"Hotel Monaco Chicago, A Kimpton Hotel"
+328,Hotel Olcott
+329,Hotel Portaventura
+330,Hotel Relais De Margaux Golf and Spa
+331,Hotel Roc Flamingo
+332,Hotel Roc Lago Rojo
+333,Hotel Russo Palace
+334,Hotel Silken Siete Coronas
+335,Hotel Valencia Santana Row
+336,Hotel Vier Jahreszeiten KÜhlungsborn
+337,Hotel Vorbach
+338,Howard Johnson
+339,Howard Johnson Inn - Newburgh
+340,Howard Johnson Inn Columbia
+341,Hyatt Centric Arlington
+342,Hyatt Dulles
+343,Hyatt House Colorado Springs
+344,Hyatt Place Atlanta/alpharetta/north Point Mall
+345,Hyatt Place Pittsburgh Cranberry
+346,Hyatt Place San Antonio Airport - Quarry Market
+347,Hyatt Place Utica
+348,Hyatt Regency Kathmandu
+349,H��tel Les Bruy��res
+350,H��tel Sezz Paris
+351,Ibis Wuerzburg City
+352,Inn At Mendenhall
+353,Inn At Queen Anne
+354,Innisbrook
+355,Inroads Ireland Tours
+356,Inter-hotel Orl��ans Nord
+357,Intown Suites El Paso
+358,Intown Suites Nashville North
+359,Inturotel Esmeralda Park
+360,Ip Casino Resort Spa
+361,Jacksonville Plaza Hotel and Suites
+362,Janmere Motel
+363,Juniper Lane Guest House
+364,Jvd Hotels
+365,Key West Inn - Clanton
+366,Kilauea Lodge Restaurant
+367,Knights Inn - Wilmington
+368,Knights Inn Aiken
+369,Knights Inn Amarillo Airport
+370,Knights Inn Carmel Hill
+371,Knights Inn Eau Claire
+372,Knights Inn New Castle/wilmington
+373,La Brea Hotel
+374,"La Posada Lodge & Casitas, An Ascend Hotel Collection Member"
+375,La Quinta
+376,La Quinta Inn & Suites Auburn
+377,La Quinta Inn & Suites Bryant
+378,La Quinta Inn & Suites Dublin
+379,La Quinta Inn Auburn Worcester
+380,La Quinta Inn Calhoun
+381,La Quinta Inn and Suites Hopkinsville
+382,La Quinta Inn and Suites Meridian
+383,La Quinta Inn and Suites Miami Cutler Bay
+384,La Quinta Inn and Suites Nashville Franklin
+385,La Quinta Inn and Suites Sunrise
+386,La Quinta Inn and Suites Tucson - Reid Park
+387,La Quinta Inn-houston
+388,Lake Motel
+389,Lakeview Lodge
+390,Lakeway Resort & Spa
+391,Lamothe House
+392,Lazy T Motel
+393,Lewis River Inn
+394,Lighthouse Motel
+395,Little Paradise Hotel
+396,Longville Inn
+397,Magnuson Hotel Summerton
+398,Main Street Bed & Breakfast
+399,Mainsail Motel & Cottages
+400,Mandarin Oriental Hotel Group
+401,Mandarin Oriental Jakarta
+402,Mansfield Plantation Inc
+403,Mar Mar Resort Tackle
+404,Marriott's Mountainside At Park City
+405,Martin Mason Hotel
+406,Marylander Hotel Condo
+407,Masters Inn
+408,Mccamly Plaza Hotel
+409,Meadow Farm Bed and Breakfast
+410,Melia Paris Champs-elys��es
+411,Menehune Reservations
+412,Mercure Curitiba Golden Hotel
+413,Merritt House Inn
+414,Miami Executive Hotel
+415,Microtel Inn By Wyndham Knoxville
+416,Microtel Inn By Wyndham Southern Pines
+417,Microtel Inn Suites By Wyndham San Antonio By Seaworld
+418,Microtel Inn and Suites By Wyndham Burlington
+419,Mineola Motel
+420,Miramar Boutique Hotel
+421,Monarch Inn
+422,Monarch of Rancho Mirag
+423,Monterey Beach Dunes Inn
+424,Motel 6
+425,Motel 6 Fort Bragg
+426,Motor Inns of America
+427,Mountain Lodge At Telluride - A Noble House Resort
+428,Mt Gardner Inn
+429,Mt. Washington Bed and Breakfast
+430,Narcis
+431,New York Marriott Marquis
+432,"Nippersink Country Club, Inc."
+433,North Country Inn B & B
+434,Norwood Inn and Suites
+435,Ocean Breeze Motel Apts
+436,Octagon Inn
+437,Old Wheeler Hotel
+438,Osage Village Inn
+439,Outside Inn
+440,Palm Suites
+441,"Palomar Washington Dc, A Kimpton Hotel"
+442,Park Terrace Suites
+443,Parkside Inn At Incline
+444,Parkway Inn Jellico
+445,Patalya Thermal Resort
+446,Patriots Inn
+447,Pelican Shores Inn
+448,Penzion Accom
+449,Petretti Apartments
+450,Pine Motel
+451,Pizza Hut
+452,Plantation Inn
+453,Plaza Hotel and Casino - Las Vegas
+454,Point Randall Resort
+455,Polynesian Plaza
+456,Porto Vista Hotel
+457,Profile Deluxe Motel
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive
+459,Pullman Rail Journeys
+460,Quality Inn
+461,Quality Inn & Suites
+462,Quality Inn & Suites Hanes Mall
+463,Quality Inn Gulfport
+464,Quality Inn Johnson City
+465,Quality Inn Long Beach Airport
+466,Quality Inn Near Six Flags
+467,Quality Inn Spearfish
+468,Quality Inn and Suites
+469,Quality Inn and Suites Big Rapids
+470,Quality Inn and Suites Eugene-springfield
+471,Quality Inn and Suites Irvine Spectrum
+472,Quality Suites Intercontinental Airport West
+473,Quinta Real Acapulco
+474,Radisson Blu Conference and Airport Hotel
+475,Radisson Hotel Hauppauge-long Island
+476,Raintree Inn
+477,Ramada
+478,Ramada Inn
+479,Ramada Vandalia
+480,Rangeland Court Motel & Rv
+481,Rapid City Days Inn
+482,Raton Pass Inn
+483,Red Banks Motel
+484,Red Carpet Inn
+485,Red Lion Anaheim Maingate Hotel
+486,Red Rest Inn
+487,Red Roof Inn
+488,Red Roof Inn Cedar Rapids
+489,Red Roof Inn Erie
+490,Red Roof Inn St Louis - Troy
+491,Residence Inn Billings
+492,Residence Inn Burlington Colchester
+493,Residence Inn By Marriott Deptford
+494,Residence Inn By Marriott Fort Lauderdale Weston
+495,Residence Inn By Marriott Hartford Downtown
+496,Residence Inn By Marriott Irvine John Wayne Airport
+497,Residence Inn By Marriott Springdale
+498,Residence Inn By Marriott Tucson Williams Centre
+499,Rodeway Inn
+500,Royal Dutch Inn
+501,Royal Inn
+502,Royal Inn Motel
+503,Rustic Inn
+504,Samui Cliff View Resort & Spa
+505,Sand Dunes Motel
+506,Sand's Motel
+507,Sands Central Inn Hot Springs
+508,Scenic View Motel
+509,Sci�� On Martin
+510,Sea View Motel
+511,Seiling Motel
+512,Sheraton Mission Valley San Diego Hotel
+513,Sheraton Offenbach Hotel
+514,Silver Run Cabins
+515,Simpson House Inn
+516,Skidway Lake Motel
+517,Sky-lit Motel
+518,Sleep Inn At Harbour View
+519,Sleep Inn Slidell
+520,Solstice
+521,Sombrero Resort and Marina
+522,Sonoma Coast Villa Spa
+523,Southside Motel
+524,Spinners Tailspin Inn
+525,Sportsmen Motel
+526,Sportsmen's Lodge
+527,Springhill Suites By Marriott Sarasota Bradenton
+528,Springhill Suites Columbia
+529,Springhill Suites Marriott Colorado Springs South
+530,Stay Inn
+531,Staybridge Suites Chicago - Glenview
+532,Staybridge Suites Tyler University Area
+533,Sterling Motel
+534,Suburban Extended Stay Warner Robins
+535,Suburban Extended Stay of Memphis Bartlett
+536,Summit At Big Sky
+537,Sumner Motor Inn
+538,Sunset Inn
+539,Super 8
+540,Super 8 - Effingham
+541,Super 8 - Upland
+542,Super 8 Alamosa
+543,Super 8 Batesville Ar
+544,Super 8 Belle Fourche
+545,Super 8 Big Cabin Vinita Ok
+546,Super 8 Blackwell Ok
+547,Super 8 Bradenton Sarasota Area
+548,Super 8 Chicago O'hare Airport
+549,Super 8 Cloquet
+550,Super 8 Columbia Dwntwn Sc
+551,Super 8 Columbia East
+552,Super 8 Crete Ne
+553,Super 8 Dallas South
+554,Super 8 Elko Nv
+555,Super 8 Fort Collins
+556,Super 8 Gretna
+557,Super 8 Indianapolis
+558,Super 8 Ithaca
+559,Super 8 Kansas City Airport
+560,Super 8 Kingston
+561,Super 8 Longmont / Del Camino
+562,Super 8 Madison
+563,Super 8 Manhattan Ks
+564,Super 8 Metropolis
+565,Super 8 Motel Fairmont
+566,Super 8 Opelousas
+567,Super 8 Pittsburgh/monroeville
+568,Super 8 Schenect/albany Area
+569,Super 8 Worthington Minnesota
+570,Sybaris Pool Suites
+571,The Abbey Resort
+572,"The Alexandrian, Autograph Collection"
+573,The Bluffs Inn Suites
+574,The Booker-lewis
+575,The Chestnut Boutique Hotel
+576,"The Citizen Hotel, Autograph Collection"
+577,The Concorde Inn
+578,The Governor Hotel
+579,The Grove Seaside Hotel
+580,The Houstonian Hotel
+581,The Inn @ St. Botolph
+582,The Inn At Bella Vista
+583,The Inn On Negley
+584,The Jayakarta Bali
+585,The Kinney - Venice Beach
+586,The Lake Point Conference Center
+587,The Merritt Center and Lodge
+588,The National Conference Center
+589,The Point
+590,The Savoy Hotel
+591,The Westin Buckhead
+592,The Westin Europa and Regina
+593,Thunderbird Executive Inn and Conference Center
+594,Tidewater Inn
+595,Town Country Motel
+596,Towneplace Suites Albany University Area
+597,Travelodge
+598,Travelodge Anaheim Convention Center
+599,Travelodge Ruther Glen
+600,Travelodge Shakopee
+601,Triangle Motel
+602,Tryp Dusseldorf Krefeld Hotel
+603,Tulip Inn Turin West
+604,Turf Motel
+605,Twelve Hotels & Residences
+606,Twin Gables of Woodstock
+607,Twin Pines Motel
+608,Ubaa Old Crawford Inn
+609,Una Hotel Forte Dei Marmi
+610,Uptown Motel
+611,Vacation Side Travel
+612,Villa Carlotta
+613,Village Lodge
+614,Villager Inn Motel
+615,Vista Hotel On Lake Tarpon
+616,Warwick Denver
+617,Websters Manor
+618,Western Inn-glacier Park
+619,Westernaire Motel
+620,White Cliff Manor Bed and Breakfast
+621,Wilshire Inn Motel
+622,Wine Valley Lodge
+623,Wingate By Wyndham Chantilly / Dulles Airport
+624,Wingate By Wyndham Lagrange
+625,Wingate By Wyndham Pueblo
+626,Wisconsin-aire Motel
+627,Wyndham Resort At Fairfield Mountains
+628,Wyndham Vacation Resorts Towers On The Grove
+629,Yakima Inn

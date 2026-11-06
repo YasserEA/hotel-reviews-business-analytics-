@@ -1,0 +1,2430 @@
+hotel_id,complaint_category,matched_reviews,evidence_sentences,negative_reviews,pct_of_hotel_negative_reviews
+1,Food and Breakfast,3,6,3,100.0
+3,Booking and Check-in,3,4,33,9.09
+3,Cleanliness,7,9,33,21.21
+3,Food and Breakfast,6,7,33,18.18
+3,Maintenance and Facilities,1,1,33,3.03
+3,Noise and Sleep,4,4,33,12.12
+3,Price and Value,1,1,33,3.03
+3,Room and Comfort,17,25,33,51.52
+3,Staff and Service,7,7,33,21.21
+4,Booking and Check-in,2,2,11,18.18
+4,Cleanliness,3,5,11,27.27
+4,Food and Breakfast,4,6,11,36.36
+4,Noise and Sleep,4,4,11,36.36
+4,Price and Value,1,1,11,9.09
+4,Room and Comfort,7,12,11,63.64
+4,Staff and Service,1,3,11,9.09
+5,Booking and Check-in,1,1,2,50.0
+5,Room and Comfort,1,2,2,50.0
+5,Staff and Service,1,2,2,50.0
+9,Booking and Check-in,1,2,2,50.0
+9,Cleanliness,1,1,2,50.0
+9,Food and Breakfast,1,1,2,50.0
+9,Noise and Sleep,1,1,2,50.0
+9,Room and Comfort,1,2,2,50.0
+10,Booking and Check-in,3,3,39,7.69
+10,Cleanliness,18,23,39,46.15
+10,Food and Breakfast,5,5,39,12.82
+10,Maintenance and Facilities,4,4,39,10.26
+10,Noise and Sleep,4,4,39,10.26
+10,Price and Value,9,9,39,23.08
+10,Room and Comfort,19,24,39,48.72
+10,Staff and Service,7,8,39,17.95
+11,Booking and Check-in,1,1,5,20.0
+11,Cleanliness,2,2,5,40.0
+11,Room and Comfort,2,2,5,40.0
+11,Staff and Service,2,2,5,40.0
+12,Booking and Check-in,10,15,37,27.03
+12,Cleanliness,15,26,37,40.54
+12,Food and Breakfast,3,4,37,8.11
+12,Maintenance and Facilities,7,10,37,18.92
+12,Price and Value,1,2,37,2.7
+12,Room and Comfort,17,25,37,45.95
+12,Staff and Service,23,29,37,62.16
+13,Booking and Check-in,41,51,253,16.21
+13,Cleanliness,126,172,253,49.8
+13,Food and Breakfast,41,52,253,16.21
+13,Location and Accessibility,1,1,253,0.4
+13,Maintenance and Facilities,45,53,253,17.79
+13,Noise and Sleep,27,29,253,10.67
+13,Price and Value,12,12,253,4.74
+13,Room and Comfort,111,160,253,43.87
+13,Staff and Service,79,107,253,31.23
+14,Cleanliness,7,8,10,70.0
+14,Food and Breakfast,1,1,10,10.0
+14,Room and Comfort,5,7,10,50.0
+14,Staff and Service,4,5,10,40.0
+15,Booking and Check-in,1,1,30,3.33
+15,Cleanliness,12,16,30,40.0
+15,Food and Breakfast,3,3,30,10.0
+15,Maintenance and Facilities,6,8,30,20.0
+15,Room and Comfort,17,28,30,56.67
+15,Staff and Service,13,13,30,43.33
+16,Booking and Check-in,6,8,29,20.69
+16,Cleanliness,10,16,29,34.48
+16,Food and Breakfast,3,3,29,10.34
+16,Maintenance and Facilities,10,13,29,34.48
+16,Noise and Sleep,2,2,29,6.9
+16,Price and Value,3,4,29,10.34
+16,Room and Comfort,14,21,29,48.28
+16,Staff and Service,13,17,29,44.83
+17,Booking and Check-in,2,2,8,25.0
+17,Cleanliness,4,6,8,50.0
+17,Food and Breakfast,3,3,8,37.5
+17,Maintenance and Facilities,1,2,8,12.5
+17,Room and Comfort,3,3,8,37.5
+17,Staff and Service,4,4,8,50.0
+18,Booking and Check-in,1,1,3,33.33
+18,Cleanliness,1,1,3,33.33
+18,Maintenance and Facilities,1,1,3,33.33
+18,Staff and Service,1,2,3,33.33
+20,Cleanliness,2,5,2,100.0
+20,Maintenance and Facilities,1,1,2,50.0
+20,Room and Comfort,2,2,2,100.0
+21,Booking and Check-in,1,1,2,50.0
+21,Staff and Service,1,1,2,50.0
+22,Booking and Check-in,2,2,24,8.33
+22,Cleanliness,7,10,24,29.17
+22,Food and Breakfast,4,5,24,16.67
+22,Location and Accessibility,1,1,24,4.17
+22,Maintenance and Facilities,10,11,24,41.67
+22,Price and Value,1,1,24,4.17
+22,Room and Comfort,11,11,24,45.83
+22,Staff and Service,9,11,24,37.5
+23,Cleanliness,1,1,8,12.5
+23,Food and Breakfast,1,1,8,12.5
+23,Maintenance and Facilities,2,2,8,25.0
+23,Price and Value,2,2,8,25.0
+23,Room and Comfort,3,4,8,37.5
+23,Staff and Service,1,1,8,12.5
+24,Food and Breakfast,1,1,3,33.33
+24,Maintenance and Facilities,1,2,3,33.33
+24,Staff and Service,1,1,3,33.33
+25,Booking and Check-in,1,1,3,33.33
+25,Cleanliness,2,2,3,66.67
+25,Maintenance and Facilities,1,1,3,33.33
+27,Booking and Check-in,5,8,31,16.13
+27,Cleanliness,16,26,31,51.61
+27,Food and Breakfast,8,8,31,25.81
+27,Maintenance and Facilities,6,7,31,19.35
+27,Noise and Sleep,3,3,31,9.68
+27,Room and Comfort,15,25,31,48.39
+27,Staff and Service,8,10,31,25.81
+31,Cleanliness,1,1,1,100.0
+31,Room and Comfort,1,1,1,100.0
+32,Booking and Check-in,4,7,7,57.14
+32,Cleanliness,1,1,7,14.29
+32,Food and Breakfast,2,2,7,28.57
+32,Maintenance and Facilities,1,1,7,14.29
+32,Room and Comfort,4,5,7,57.14
+32,Staff and Service,2,2,7,28.57
+36,Booking and Check-in,3,4,12,25.0
+36,Cleanliness,4,4,12,33.33
+36,Food and Breakfast,2,2,12,16.67
+36,Maintenance and Facilities,3,3,12,25.0
+36,Price and Value,1,2,12,8.33
+36,Room and Comfort,5,6,12,41.67
+36,Staff and Service,4,5,12,33.33
+37,Booking and Check-in,6,6,31,19.35
+37,Cleanliness,11,15,31,35.48
+37,Food and Breakfast,10,15,31,32.26
+37,Maintenance and Facilities,7,9,31,22.58
+37,Price and Value,4,4,31,12.9
+37,Room and Comfort,18,28,31,58.06
+37,Staff and Service,14,18,31,45.16
+38,Booking and Check-in,1,1,7,14.29
+38,Cleanliness,2,3,7,28.57
+38,Food and Breakfast,1,1,7,14.29
+38,Maintenance and Facilities,1,1,7,14.29
+38,Room and Comfort,3,4,7,42.86
+38,Staff and Service,4,6,7,57.14
+39,Cleanliness,3,3,8,37.5
+39,Food and Breakfast,1,1,8,12.5
+39,Maintenance and Facilities,1,1,8,12.5
+39,Noise and Sleep,5,8,8,62.5
+39,Room and Comfort,2,4,8,25.0
+39,Staff and Service,4,8,8,50.0
+40,Booking and Check-in,1,1,8,12.5
+40,Cleanliness,1,2,8,12.5
+40,Room and Comfort,1,1,8,12.5
+40,Staff and Service,1,2,8,12.5
+42,Booking and Check-in,1,2,3,33.33
+42,Cleanliness,1,2,3,33.33
+42,Room and Comfort,1,1,3,33.33
+42,Staff and Service,1,1,3,33.33
+44,Food and Breakfast,1,1,1,100.0
+44,Room and Comfort,1,1,1,100.0
+45,Booking and Check-in,1,1,3,33.33
+45,Food and Breakfast,1,1,3,33.33
+45,Maintenance and Facilities,1,1,3,33.33
+45,Room and Comfort,1,2,3,33.33
+45,Staff and Service,3,4,3,100.0
+46,Cleanliness,2,2,6,33.33
+46,Food and Breakfast,1,1,6,16.67
+46,Noise and Sleep,1,1,6,16.67
+46,Price and Value,1,1,6,16.67
+46,Room and Comfort,1,1,6,16.67
+46,Staff and Service,2,4,6,33.33
+47,Cleanliness,2,2,4,50.0
+47,Room and Comfort,1,1,4,25.0
+47,Staff and Service,2,2,4,50.0
+48,Booking and Check-in,7,10,38,18.42
+48,Cleanliness,12,12,38,31.58
+48,Food and Breakfast,7,10,38,18.42
+48,Maintenance and Facilities,7,7,38,18.42
+48,Noise and Sleep,5,6,38,13.16
+48,Price and Value,1,1,38,2.63
+48,Room and Comfort,12,17,38,31.58
+48,Staff and Service,16,17,38,42.11
+49,Booking and Check-in,1,1,5,20.0
+49,Cleanliness,1,1,5,20.0
+49,Food and Breakfast,3,4,5,60.0
+49,Maintenance and Facilities,1,2,5,20.0
+49,Noise and Sleep,2,5,5,40.0
+49,Price and Value,2,2,5,40.0
+49,Room and Comfort,3,6,5,60.0
+49,Staff and Service,3,3,5,60.0
+50,Cleanliness,2,2,8,25.0
+50,Maintenance and Facilities,3,3,8,37.5
+50,Noise and Sleep,1,1,8,12.5
+50,Room and Comfort,5,10,8,62.5
+50,Staff and Service,4,7,8,50.0
+51,Maintenance and Facilities,1,2,1,100.0
+51,Room and Comfort,1,4,1,100.0
+52,Cleanliness,1,1,4,25.0
+52,Food and Breakfast,1,1,4,25.0
+52,Maintenance and Facilities,2,2,4,50.0
+52,Room and Comfort,1,2,4,25.0
+52,Staff and Service,2,2,4,50.0
+53,Booking and Check-in,1,1,6,16.67
+53,Cleanliness,1,1,6,16.67
+53,Food and Breakfast,1,1,6,16.67
+53,Noise and Sleep,1,4,6,16.67
+53,Room and Comfort,1,2,6,16.67
+53,Staff and Service,2,4,6,33.33
+54,Noise and Sleep,1,1,2,50.0
+54,Staff and Service,1,1,2,50.0
+55,Booking and Check-in,2,2,11,18.18
+55,Cleanliness,6,8,11,54.55
+55,Maintenance and Facilities,3,3,11,27.27
+55,Noise and Sleep,3,4,11,27.27
+55,Room and Comfort,5,7,11,45.45
+55,Staff and Service,3,4,11,27.27
+56,Booking and Check-in,1,2,3,33.33
+56,Cleanliness,1,1,3,33.33
+56,Food and Breakfast,1,1,3,33.33
+56,Room and Comfort,1,2,3,33.33
+56,Staff and Service,2,3,3,66.67
+57,Cleanliness,1,2,11,9.09
+57,Food and Breakfast,2,3,11,18.18
+57,Maintenance and Facilities,1,2,11,9.09
+57,Noise and Sleep,1,1,11,9.09
+57,Room and Comfort,6,9,11,54.55
+57,Staff and Service,5,5,11,45.45
+58,Cleanliness,6,6,21,28.57
+58,Food and Breakfast,4,5,21,19.05
+58,Location and Accessibility,1,1,21,4.76
+58,Maintenance and Facilities,5,5,21,23.81
+58,Noise and Sleep,3,3,21,14.29
+58,Price and Value,1,1,21,4.76
+58,Room and Comfort,16,28,21,76.19
+58,Staff and Service,4,5,21,19.05
+59,Booking and Check-in,5,6,45,11.11
+59,Cleanliness,13,26,45,28.89
+59,Food and Breakfast,16,24,45,35.56
+59,Location and Accessibility,1,1,45,2.22
+59,Maintenance and Facilities,12,16,45,26.67
+59,Noise and Sleep,2,2,45,4.44
+59,Price and Value,1,1,45,2.22
+59,Room and Comfort,22,26,45,48.89
+59,Staff and Service,10,16,45,22.22
+61,Staff and Service,1,1,1,100.0
+62,Price and Value,1,1,5,20.0
+62,Room and Comfort,2,2,5,40.0
+62,Staff and Service,2,3,5,40.0
+63,Booking and Check-in,1,1,4,25.0
+63,Cleanliness,2,3,4,50.0
+63,Maintenance and Facilities,1,1,4,25.0
+63,Price and Value,1,1,4,25.0
+63,Room and Comfort,2,2,4,50.0
+63,Staff and Service,2,2,4,50.0
+64,Booking and Check-in,7,8,50,14.0
+64,Cleanliness,17,20,50,34.0
+64,Food and Breakfast,6,8,50,12.0
+64,Location and Accessibility,1,1,50,2.0
+64,Maintenance and Facilities,9,10,50,18.0
+64,Noise and Sleep,3,3,50,6.0
+64,Room and Comfort,17,22,50,34.0
+64,Staff and Service,18,22,50,36.0
+65,Room and Comfort,2,2,2,100.0
+67,Booking and Check-in,1,1,1,100.0
+68,Booking and Check-in,1,1,2,50.0
+68,Cleanliness,1,1,2,50.0
+68,Room and Comfort,1,1,2,50.0
+68,Staff and Service,1,1,2,50.0
+69,Booking and Check-in,1,1,5,20.0
+69,Cleanliness,2,2,5,40.0
+69,Food and Breakfast,1,1,5,20.0
+69,Maintenance and Facilities,1,1,5,20.0
+69,Price and Value,1,1,5,20.0
+69,Room and Comfort,2,2,5,40.0
+69,Staff and Service,1,1,5,20.0
+70,Cleanliness,1,2,2,50.0
+70,Noise and Sleep,1,1,2,50.0
+70,Staff and Service,1,2,2,50.0
+71,Booking and Check-in,1,1,1,100.0
+71,Food and Breakfast,1,2,1,100.0
+72,Booking and Check-in,1,1,2,50.0
+72,Cleanliness,1,1,2,50.0
+72,Price and Value,1,1,2,50.0
+72,Staff and Service,2,2,2,100.0
+74,Cleanliness,2,2,3,66.67
+74,Food and Breakfast,1,1,3,33.33
+74,Staff and Service,2,2,3,66.67
+76,Cleanliness,1,1,3,33.33
+76,Maintenance and Facilities,2,2,3,66.67
+76,Noise and Sleep,1,1,3,33.33
+76,Room and Comfort,1,1,3,33.33
+76,Staff and Service,1,1,3,33.33
+77,Cleanliness,1,2,3,33.33
+77,Food and Breakfast,1,1,3,33.33
+77,Price and Value,1,1,3,33.33
+77,Room and Comfort,1,2,3,33.33
+77,Staff and Service,2,3,3,66.67
+78,Cleanliness,2,2,2,100.0
+78,Food and Breakfast,2,2,2,100.0
+78,Price and Value,2,2,2,100.0
+80,Maintenance and Facilities,1,1,4,25.0
+80,Noise and Sleep,2,2,4,50.0
+80,Room and Comfort,3,7,4,75.0
+81,Food and Breakfast,2,2,2,100.0
+81,Price and Value,1,2,2,50.0
+81,Staff and Service,1,2,2,50.0
+83,Booking and Check-in,3,3,25,12.0
+83,Cleanliness,15,22,25,60.0
+83,Food and Breakfast,4,5,25,16.0
+83,Maintenance and Facilities,2,2,25,8.0
+83,Noise and Sleep,2,2,25,8.0
+83,Price and Value,1,1,25,4.0
+83,Room and Comfort,12,19,25,48.0
+83,Staff and Service,5,5,25,20.0
+84,Booking and Check-in,1,1,1,100.0
+85,Cleanliness,7,10,8,87.5
+85,Maintenance and Facilities,1,1,8,12.5
+85,Room and Comfort,4,7,8,50.0
+85,Staff and Service,2,2,8,25.0
+86,Booking and Check-in,1,1,2,50.0
+86,Staff and Service,2,2,2,100.0
+87,Booking and Check-in,1,1,4,25.0
+87,Food and Breakfast,1,1,4,25.0
+87,Room and Comfort,2,3,4,50.0
+87,Staff and Service,3,4,4,75.0
+88,Booking and Check-in,1,3,7,14.29
+88,Cleanliness,2,2,7,28.57
+88,Food and Breakfast,2,2,7,28.57
+88,Maintenance and Facilities,2,2,7,28.57
+88,Room and Comfort,3,3,7,42.86
+88,Staff and Service,1,2,7,14.29
+89,Cleanliness,2,2,3,66.67
+89,Noise and Sleep,1,2,3,33.33
+89,Room and Comfort,1,1,3,33.33
+89,Staff and Service,1,1,3,33.33
+90,Booking and Check-in,2,3,5,40.0
+90,Maintenance and Facilities,1,1,5,20.0
+90,Room and Comfort,1,1,5,20.0
+90,Staff and Service,2,3,5,40.0
+91,Maintenance and Facilities,1,1,2,50.0
+91,Noise and Sleep,1,1,2,50.0
+91,Staff and Service,1,1,2,50.0
+92,Booking and Check-in,2,2,6,33.33
+92,Cleanliness,1,1,6,16.67
+92,Food and Breakfast,3,5,6,50.0
+92,Noise and Sleep,2,3,6,33.33
+92,Price and Value,1,1,6,16.67
+92,Room and Comfort,2,5,6,33.33
+92,Staff and Service,2,3,6,33.33
+93,Booking and Check-in,1,1,11,9.09
+93,Cleanliness,8,14,11,72.73
+93,Maintenance and Facilities,3,3,11,27.27
+93,Noise and Sleep,2,3,11,18.18
+93,Price and Value,1,1,11,9.09
+93,Room and Comfort,8,11,11,72.73
+93,Staff and Service,2,2,11,18.18
+95,Cleanliness,2,2,7,28.57
+95,Location and Accessibility,1,1,7,14.29
+95,Maintenance and Facilities,1,1,7,14.29
+95,Noise and Sleep,4,4,7,57.14
+95,Room and Comfort,2,2,7,28.57
+95,Staff and Service,1,2,7,14.29
+96,Booking and Check-in,1,1,4,25.0
+96,Food and Breakfast,4,7,4,100.0
+96,Maintenance and Facilities,1,1,4,25.0
+96,Noise and Sleep,2,3,4,50.0
+96,Price and Value,1,1,4,25.0
+96,Room and Comfort,4,6,4,100.0
+96,Staff and Service,1,1,4,25.0
+97,Booking and Check-in,2,3,22,9.09
+97,Cleanliness,11,13,22,50.0
+97,Food and Breakfast,2,2,22,9.09
+97,Maintenance and Facilities,7,8,22,31.82
+97,Noise and Sleep,1,1,22,4.55
+97,Price and Value,3,4,22,13.64
+97,Room and Comfort,11,14,22,50.0
+97,Staff and Service,9,10,22,40.91
+98,Cleanliness,1,1,3,33.33
+98,Food and Breakfast,1,1,3,33.33
+98,Maintenance and Facilities,1,1,3,33.33
+98,Staff and Service,2,3,3,66.67
+99,Booking and Check-in,2,3,3,66.67
+99,Staff and Service,1,1,3,33.33
+100,Cleanliness,2,2,4,50.0
+100,Food and Breakfast,2,4,4,50.0
+100,Maintenance and Facilities,1,1,4,25.0
+100,Room and Comfort,2,2,4,50.0
+101,Booking and Check-in,1,1,4,25.0
+101,Maintenance and Facilities,1,1,4,25.0
+101,Price and Value,1,2,4,25.0
+101,Staff and Service,2,3,4,50.0
+102,Cleanliness,1,1,1,100.0
+102,Room and Comfort,1,1,1,100.0
+103,Noise and Sleep,1,1,1,100.0
+108,Staff and Service,1,1,1,100.0
+109,Booking and Check-in,2,4,23,8.7
+109,Cleanliness,7,8,23,30.43
+109,Maintenance and Facilities,6,9,23,26.09
+109,Noise and Sleep,3,3,23,13.04
+109,Price and Value,1,2,23,4.35
+109,Room and Comfort,9,9,23,39.13
+109,Staff and Service,10,15,23,43.48
+110,Noise and Sleep,1,1,1,100.0
+110,Price and Value,1,1,1,100.0
+110,Room and Comfort,1,2,1,100.0
+111,Booking and Check-in,1,1,14,7.14
+111,Cleanliness,8,12,14,57.14
+111,Food and Breakfast,5,8,14,35.71
+111,Maintenance and Facilities,2,2,14,14.29
+111,Noise and Sleep,2,2,14,14.29
+111,Price and Value,2,2,14,14.29
+111,Room and Comfort,5,6,14,35.71
+111,Staff and Service,8,10,14,57.14
+112,Booking and Check-in,3,4,17,17.65
+112,Cleanliness,5,8,17,29.41
+112,Food and Breakfast,2,2,17,11.76
+112,Maintenance and Facilities,5,7,17,29.41
+112,Noise and Sleep,1,1,17,5.88
+112,Price and Value,2,3,17,11.76
+112,Room and Comfort,6,12,17,35.29
+112,Staff and Service,6,6,17,35.29
+113,Cleanliness,4,4,5,80.0
+113,Maintenance and Facilities,1,1,5,20.0
+113,Room and Comfort,2,2,5,40.0
+114,Room and Comfort,1,1,1,100.0
+115,Booking and Check-in,1,1,6,16.67
+115,Cleanliness,3,5,6,50.0
+115,Food and Breakfast,1,2,6,16.67
+115,Room and Comfort,4,4,6,66.67
+115,Staff and Service,3,3,6,50.0
+116,Booking and Check-in,1,2,9,11.11
+116,Cleanliness,6,12,9,66.67
+116,Food and Breakfast,1,1,9,11.11
+116,Location and Accessibility,1,1,9,11.11
+116,Maintenance and Facilities,3,9,9,33.33
+116,Noise and Sleep,2,3,9,22.22
+116,Room and Comfort,4,7,9,44.44
+116,Staff and Service,2,2,9,22.22
+117,Booking and Check-in,1,1,9,11.11
+117,Cleanliness,6,7,9,66.67
+117,Food and Breakfast,3,3,9,33.33
+117,Noise and Sleep,1,1,9,11.11
+117,Room and Comfort,2,6,9,22.22
+117,Staff and Service,3,3,9,33.33
+118,Cleanliness,3,3,8,37.5
+118,Food and Breakfast,1,1,8,12.5
+118,Maintenance and Facilities,1,2,8,12.5
+118,Noise and Sleep,1,1,8,12.5
+118,Room and Comfort,1,2,8,12.5
+118,Staff and Service,3,3,8,37.5
+119,Booking and Check-in,1,2,2,50.0
+119,Food and Breakfast,2,4,2,100.0
+119,Maintenance and Facilities,1,1,2,50.0
+119,Room and Comfort,2,2,2,100.0
+119,Staff and Service,1,1,2,50.0
+120,Booking and Check-in,2,2,16,12.5
+120,Cleanliness,6,15,16,37.5
+120,Food and Breakfast,8,12,16,50.0
+120,Maintenance and Facilities,3,4,16,18.75
+120,Noise and Sleep,1,1,16,6.25
+120,Room and Comfort,9,14,16,56.25
+120,Staff and Service,4,5,16,25.0
+121,Booking and Check-in,7,10,49,14.29
+121,Cleanliness,15,19,49,30.61
+121,Food and Breakfast,8,11,49,16.33
+121,Location and Accessibility,2,2,49,4.08
+121,Maintenance and Facilities,9,10,49,18.37
+121,Noise and Sleep,3,3,49,6.12
+121,Price and Value,2,2,49,4.08
+121,Room and Comfort,21,25,49,42.86
+121,Staff and Service,21,26,49,42.86
+122,Cleanliness,4,4,5,80.0
+122,Food and Breakfast,2,2,5,40.0
+122,Maintenance and Facilities,1,1,5,20.0
+122,Room and Comfort,4,10,5,80.0
+124,Booking and Check-in,1,1,2,50.0
+124,Cleanliness,1,2,2,50.0
+124,Room and Comfort,1,1,2,50.0
+125,Booking and Check-in,1,1,9,11.11
+125,Cleanliness,4,6,9,44.44
+125,Food and Breakfast,1,1,9,11.11
+125,Location and Accessibility,1,1,9,11.11
+125,Maintenance and Facilities,1,1,9,11.11
+125,Noise and Sleep,1,1,9,11.11
+125,Room and Comfort,5,6,9,55.56
+125,Staff and Service,5,6,9,55.56
+127,Booking and Check-in,2,3,9,22.22
+127,Cleanliness,6,8,9,66.67
+127,Food and Breakfast,4,6,9,44.44
+127,Maintenance and Facilities,6,6,9,66.67
+127,Price and Value,1,1,9,11.11
+127,Room and Comfort,5,9,9,55.56
+127,Staff and Service,4,5,9,44.44
+128,Cleanliness,2,3,3,66.67
+128,Food and Breakfast,2,3,3,66.67
+128,Maintenance and Facilities,1,1,3,33.33
+128,Room and Comfort,1,2,3,33.33
+128,Staff and Service,1,1,3,33.33
+129,Booking and Check-in,2,4,8,25.0
+129,Cleanliness,3,4,8,37.5
+129,Food and Breakfast,2,2,8,25.0
+129,Maintenance and Facilities,1,2,8,12.5
+129,Noise and Sleep,1,1,8,12.5
+129,Room and Comfort,2,5,8,25.0
+129,Staff and Service,3,3,8,37.5
+130,Cleanliness,7,12,15,46.67
+130,Food and Breakfast,3,3,15,20.0
+130,Maintenance and Facilities,4,4,15,26.67
+130,Room and Comfort,6,10,15,40.0
+130,Staff and Service,4,4,15,26.67
+131,Booking and Check-in,5,6,17,29.41
+131,Cleanliness,4,6,17,23.53
+131,Food and Breakfast,3,4,17,17.65
+131,Maintenance and Facilities,3,4,17,17.65
+131,Noise and Sleep,1,1,17,5.88
+131,Price and Value,1,1,17,5.88
+131,Room and Comfort,8,13,17,47.06
+131,Staff and Service,7,11,17,41.18
+132,Cleanliness,3,3,8,37.5
+132,Food and Breakfast,2,4,8,25.0
+132,Maintenance and Facilities,3,3,8,37.5
+132,Noise and Sleep,1,1,8,12.5
+132,Room and Comfort,6,8,8,75.0
+132,Staff and Service,4,5,8,50.0
+133,Booking and Check-in,2,2,8,25.0
+133,Cleanliness,3,4,8,37.5
+133,Food and Breakfast,1,1,8,12.5
+133,Maintenance and Facilities,1,1,8,12.5
+133,Noise and Sleep,1,2,8,12.5
+133,Price and Value,1,1,8,12.5
+133,Room and Comfort,4,10,8,50.0
+133,Staff and Service,4,5,8,50.0
+136,Cleanliness,2,2,4,50.0
+136,Food and Breakfast,3,3,4,75.0
+136,Maintenance and Facilities,1,2,4,25.0
+136,Room and Comfort,1,1,4,25.0
+136,Staff and Service,2,2,4,50.0
+138,Booking and Check-in,1,1,6,16.67
+138,Cleanliness,1,2,6,16.67
+138,Food and Breakfast,1,1,6,16.67
+138,Noise and Sleep,1,1,6,16.67
+138,Room and Comfort,5,8,6,83.33
+138,Staff and Service,1,1,6,16.67
+139,Maintenance and Facilities,1,1,5,20.0
+139,Noise and Sleep,1,1,5,20.0
+139,Staff and Service,5,9,5,100.0
+140,Booking and Check-in,1,1,4,25.0
+140,Cleanliness,2,2,4,50.0
+140,Maintenance and Facilities,1,1,4,25.0
+140,Room and Comfort,2,3,4,50.0
+140,Staff and Service,1,1,4,25.0
+141,Room and Comfort,1,1,1,100.0
+141,Staff and Service,1,1,1,100.0
+143,Room and Comfort,2,2,2,100.0
+144,Booking and Check-in,6,7,34,17.65
+144,Cleanliness,11,13,34,32.35
+144,Food and Breakfast,1,1,34,2.94
+144,Maintenance and Facilities,4,4,34,11.76
+144,Noise and Sleep,3,3,34,8.82
+144,Room and Comfort,14,23,34,41.18
+144,Staff and Service,4,4,34,11.76
+145,Cleanliness,1,2,1,100.0
+145,Staff and Service,1,1,1,100.0
+146,Maintenance and Facilities,1,1,2,50.0
+146,Room and Comfort,1,1,2,50.0
+146,Staff and Service,1,1,2,50.0
+147,Maintenance and Facilities,2,2,3,66.67
+147,Room and Comfort,2,2,3,66.67
+148,Booking and Check-in,6,6,51,11.76
+148,Cleanliness,32,41,51,62.75
+148,Food and Breakfast,16,18,51,31.37
+148,Location and Accessibility,1,1,51,1.96
+148,Maintenance and Facilities,8,9,51,15.69
+148,Noise and Sleep,2,2,51,3.92
+148,Price and Value,3,3,51,5.88
+148,Room and Comfort,25,32,51,49.02
+148,Staff and Service,20,24,51,39.22
+149,Cleanliness,4,5,7,57.14
+149,Maintenance and Facilities,1,1,7,14.29
+149,Room and Comfort,5,5,7,71.43
+149,Staff and Service,3,3,7,42.86
+150,Cleanliness,1,1,2,50.0
+150,Maintenance and Facilities,1,1,2,50.0
+150,Room and Comfort,1,1,2,50.0
+151,Booking and Check-in,1,1,5,20.0
+151,Cleanliness,3,5,5,60.0
+151,Food and Breakfast,3,5,5,60.0
+151,Maintenance and Facilities,2,2,5,40.0
+151,Price and Value,1,1,5,20.0
+151,Room and Comfort,2,3,5,40.0
+151,Staff and Service,2,2,5,40.0
+152,Booking and Check-in,2,3,25,8.0
+152,Cleanliness,13,17,25,52.0
+152,Food and Breakfast,2,2,25,8.0
+152,Maintenance and Facilities,6,9,25,24.0
+152,Noise and Sleep,2,3,25,8.0
+152,Room and Comfort,15,20,25,60.0
+152,Staff and Service,5,5,25,20.0
+153,Booking and Check-in,2,4,9,22.22
+153,Cleanliness,1,1,9,11.11
+153,Maintenance and Facilities,1,1,9,11.11
+153,Noise and Sleep,1,1,9,11.11
+153,Room and Comfort,6,7,9,66.67
+153,Staff and Service,2,2,9,22.22
+154,Booking and Check-in,1,1,21,4.76
+154,Cleanliness,9,10,21,42.86
+154,Food and Breakfast,4,8,21,19.05
+154,Maintenance and Facilities,3,3,21,14.29
+154,Noise and Sleep,1,1,21,4.76
+154,Room and Comfort,13,19,21,61.9
+154,Staff and Service,6,8,21,28.57
+155,Booking and Check-in,1,1,10,10.0
+155,Cleanliness,4,5,10,40.0
+155,Food and Breakfast,1,1,10,10.0
+155,Price and Value,1,1,10,10.0
+155,Room and Comfort,5,5,10,50.0
+155,Staff and Service,1,1,10,10.0
+156,Booking and Check-in,1,1,23,4.35
+156,Cleanliness,12,18,23,52.17
+156,Food and Breakfast,3,4,23,13.04
+156,Maintenance and Facilities,4,4,23,17.39
+156,Noise and Sleep,3,3,23,13.04
+156,Room and Comfort,13,18,23,56.52
+156,Staff and Service,7,8,23,30.43
+157,Booking and Check-in,1,1,2,50.0
+158,Booking and Check-in,1,2,8,12.5
+158,Cleanliness,3,3,8,37.5
+158,Food and Breakfast,1,1,8,12.5
+158,Maintenance and Facilities,1,2,8,12.5
+158,Noise and Sleep,1,1,8,12.5
+158,Room and Comfort,1,1,8,12.5
+158,Staff and Service,4,6,8,50.0
+159,Booking and Check-in,2,2,18,11.11
+159,Cleanliness,3,3,18,16.67
+159,Food and Breakfast,2,3,18,11.11
+159,Maintenance and Facilities,5,5,18,27.78
+159,Noise and Sleep,1,1,18,5.56
+159,Room and Comfort,4,4,18,22.22
+159,Staff and Service,6,7,18,33.33
+160,Booking and Check-in,1,1,10,10.0
+160,Cleanliness,4,5,10,40.0
+160,Maintenance and Facilities,2,3,10,20.0
+160,Room and Comfort,3,3,10,30.0
+160,Staff and Service,4,5,10,40.0
+161,Food and Breakfast,1,1,1,100.0
+162,Booking and Check-in,2,3,19,10.53
+162,Cleanliness,6,7,19,31.58
+162,Food and Breakfast,6,8,19,31.58
+162,Maintenance and Facilities,5,5,19,26.32
+162,Noise and Sleep,4,8,19,21.05
+162,Price and Value,1,1,19,5.26
+162,Room and Comfort,9,14,19,47.37
+162,Staff and Service,6,6,19,31.58
+163,Booking and Check-in,7,8,27,25.93
+163,Cleanliness,18,26,27,66.67
+163,Food and Breakfast,3,4,27,11.11
+163,Maintenance and Facilities,3,3,27,11.11
+163,Price and Value,1,1,27,3.7
+163,Room and Comfort,15,21,27,55.56
+163,Staff and Service,7,9,27,25.93
+164,Booking and Check-in,4,5,21,19.05
+164,Cleanliness,11,18,21,52.38
+164,Food and Breakfast,5,7,21,23.81
+164,Maintenance and Facilities,3,4,21,14.29
+164,Noise and Sleep,2,3,21,9.52
+164,Price and Value,2,2,21,9.52
+164,Room and Comfort,11,14,21,52.38
+164,Staff and Service,9,13,21,42.86
+165,Booking and Check-in,2,2,22,9.09
+165,Cleanliness,8,13,22,36.36
+165,Food and Breakfast,1,1,22,4.55
+165,Maintenance and Facilities,1,1,22,4.55
+165,Room and Comfort,6,7,22,27.27
+165,Staff and Service,7,8,22,31.82
+166,Booking and Check-in,9,10,79,11.39
+166,Cleanliness,43,59,79,54.43
+166,Food and Breakfast,20,21,79,25.32
+166,Location and Accessibility,1,1,79,1.27
+166,Maintenance and Facilities,20,24,79,25.32
+166,Noise and Sleep,3,3,79,3.8
+166,Price and Value,2,2,79,2.53
+166,Room and Comfort,48,71,79,60.76
+166,Staff and Service,15,17,79,18.99
+167,Cleanliness,4,4,6,66.67
+167,Maintenance and Facilities,1,1,6,16.67
+167,Room and Comfort,3,3,6,50.0
+167,Staff and Service,4,4,6,66.67
+169,Cleanliness,3,3,5,60.0
+169,Maintenance and Facilities,1,1,5,20.0
+169,Price and Value,1,1,5,20.0
+169,Room and Comfort,3,5,5,60.0
+169,Staff and Service,2,2,5,40.0
+170,Booking and Check-in,1,1,39,2.56
+170,Cleanliness,18,20,39,46.15
+170,Food and Breakfast,4,7,39,10.26
+170,Maintenance and Facilities,6,8,39,15.38
+170,Noise and Sleep,3,3,39,7.69
+170,Price and Value,3,3,39,7.69
+170,Room and Comfort,15,17,39,38.46
+170,Staff and Service,10,11,39,25.64
+171,Booking and Check-in,1,1,12,8.33
+171,Cleanliness,3,3,12,25.0
+171,Food and Breakfast,7,7,12,58.33
+171,Maintenance and Facilities,1,1,12,8.33
+171,Noise and Sleep,1,1,12,8.33
+171,Room and Comfort,5,7,12,41.67
+171,Staff and Service,2,2,12,16.67
+172,Food and Breakfast,1,1,3,33.33
+172,Staff and Service,1,1,3,33.33
+173,Booking and Check-in,2,2,8,25.0
+173,Food and Breakfast,1,1,8,12.5
+173,Price and Value,1,1,8,12.5
+173,Room and Comfort,2,2,8,25.0
+174,Booking and Check-in,5,5,15,33.33
+174,Food and Breakfast,3,5,15,20.0
+174,Maintenance and Facilities,2,3,15,13.33
+174,Noise and Sleep,2,2,15,13.33
+174,Price and Value,2,2,15,13.33
+174,Room and Comfort,5,5,15,33.33
+174,Staff and Service,3,7,15,20.0
+175,Booking and Check-in,8,10,34,23.53
+175,Cleanliness,15,17,34,44.12
+175,Food and Breakfast,6,7,34,17.65
+175,Maintenance and Facilities,2,2,34,5.88
+175,Noise and Sleep,1,1,34,2.94
+175,Price and Value,2,3,34,5.88
+175,Room and Comfort,13,24,34,38.24
+175,Staff and Service,15,17,34,44.12
+176,Cleanliness,1,1,3,33.33
+176,Noise and Sleep,2,2,3,66.67
+176,Room and Comfort,2,2,3,66.67
+177,Food and Breakfast,1,1,4,25.0
+177,Staff and Service,2,3,4,50.0
+178,Booking and Check-in,2,2,30,6.67
+178,Cleanliness,12,16,30,40.0
+178,Food and Breakfast,6,8,30,20.0
+178,Maintenance and Facilities,2,2,30,6.67
+178,Noise and Sleep,4,4,30,13.33
+178,Price and Value,1,1,30,3.33
+178,Room and Comfort,15,24,30,50.0
+178,Staff and Service,9,9,30,30.0
+181,Booking and Check-in,1,2,12,8.33
+181,Cleanliness,6,6,12,50.0
+181,Food and Breakfast,4,5,12,33.33
+181,Maintenance and Facilities,4,5,12,33.33
+181,Noise and Sleep,2,2,12,16.67
+181,Room and Comfort,5,7,12,41.67
+181,Staff and Service,5,5,12,41.67
+182,Booking and Check-in,2,2,17,11.76
+182,Cleanliness,6,6,17,35.29
+182,Food and Breakfast,2,2,17,11.76
+182,Maintenance and Facilities,2,2,17,11.76
+182,Price and Value,1,1,17,5.88
+182,Room and Comfort,6,8,17,35.29
+182,Staff and Service,2,2,17,11.76
+183,Cleanliness,2,4,7,28.57
+183,Food and Breakfast,2,2,7,28.57
+183,Noise and Sleep,1,1,7,14.29
+183,Price and Value,2,2,7,28.57
+183,Room and Comfort,3,7,7,42.86
+183,Staff and Service,1,1,7,14.29
+184,Cleanliness,2,2,6,33.33
+184,Food and Breakfast,3,3,6,50.0
+184,Maintenance and Facilities,1,1,6,16.67
+184,Room and Comfort,3,3,6,50.0
+184,Staff and Service,2,2,6,33.33
+185,Booking and Check-in,6,9,22,27.27
+185,Cleanliness,7,9,22,31.82
+185,Food and Breakfast,3,5,22,13.64
+185,Maintenance and Facilities,1,2,22,4.55
+185,Noise and Sleep,1,1,22,4.55
+185,Price and Value,4,4,22,18.18
+185,Room and Comfort,12,17,22,54.55
+185,Staff and Service,4,4,22,18.18
+186,Booking and Check-in,2,2,7,28.57
+186,Cleanliness,1,2,7,14.29
+186,Food and Breakfast,1,1,7,14.29
+186,Price and Value,2,2,7,28.57
+186,Room and Comfort,3,6,7,42.86
+187,Booking and Check-in,1,1,3,33.33
+187,Cleanliness,1,1,3,33.33
+187,Room and Comfort,1,1,3,33.33
+187,Staff and Service,1,1,3,33.33
+188,Booking and Check-in,1,2,2,50.0
+188,Cleanliness,1,1,2,50.0
+188,Price and Value,1,1,2,50.0
+189,Food and Breakfast,1,2,1,100.0
+189,Price and Value,1,1,1,100.0
+189,Room and Comfort,1,2,1,100.0
+190,Cleanliness,1,2,1,100.0
+190,Room and Comfort,1,2,1,100.0
+192,Booking and Check-in,1,3,21,4.76
+192,Cleanliness,4,6,21,19.05
+192,Maintenance and Facilities,1,1,21,4.76
+192,Price and Value,3,5,21,14.29
+192,Room and Comfort,3,3,21,14.29
+192,Staff and Service,2,4,21,9.52
+195,Cleanliness,1,1,2,50.0
+195,Room and Comfort,2,2,2,100.0
+195,Staff and Service,1,1,2,50.0
+196,Room and Comfort,1,1,1,100.0
+196,Staff and Service,1,1,1,100.0
+197,Food and Breakfast,1,1,1,100.0
+197,Room and Comfort,1,1,1,100.0
+197,Staff and Service,1,1,1,100.0
+198,Booking and Check-in,6,8,28,21.43
+198,Cleanliness,17,20,28,60.71
+198,Food and Breakfast,3,5,28,10.71
+198,Maintenance and Facilities,7,7,28,25.0
+198,Noise and Sleep,1,1,28,3.57
+198,Price and Value,1,1,28,3.57
+198,Room and Comfort,12,16,28,42.86
+198,Staff and Service,12,21,28,42.86
+199,Booking and Check-in,4,5,18,22.22
+199,Cleanliness,4,7,18,22.22
+199,Food and Breakfast,7,11,18,38.89
+199,Maintenance and Facilities,1,1,18,5.56
+199,Room and Comfort,8,10,18,44.44
+199,Staff and Service,7,8,18,38.89
+200,Booking and Check-in,1,2,26,3.85
+200,Cleanliness,12,15,26,46.15
+200,Food and Breakfast,4,4,26,15.38
+200,Maintenance and Facilities,4,4,26,15.38
+200,Noise and Sleep,1,1,26,3.85
+200,Price and Value,1,1,26,3.85
+200,Room and Comfort,16,19,26,61.54
+200,Staff and Service,6,7,26,23.08
+201,Booking and Check-in,7,11,22,31.82
+201,Cleanliness,10,13,22,45.45
+201,Food and Breakfast,5,5,22,22.73
+201,Maintenance and Facilities,2,3,22,9.09
+201,Noise and Sleep,2,2,22,9.09
+201,Price and Value,1,1,22,4.55
+201,Room and Comfort,11,13,22,50.0
+201,Staff and Service,12,19,22,54.55
+202,Booking and Check-in,3,3,22,13.64
+202,Cleanliness,11,18,22,50.0
+202,Food and Breakfast,6,11,22,27.27
+202,Maintenance and Facilities,7,8,22,31.82
+202,Price and Value,2,2,22,9.09
+202,Room and Comfort,13,24,22,59.09
+202,Staff and Service,10,15,22,45.45
+203,Booking and Check-in,5,5,23,21.74
+203,Cleanliness,11,14,23,47.83
+203,Food and Breakfast,10,14,23,43.48
+203,Maintenance and Facilities,5,5,23,21.74
+203,Noise and Sleep,2,2,23,8.7
+203,Price and Value,1,1,23,4.35
+203,Room and Comfort,9,11,23,39.13
+203,Staff and Service,6,12,23,26.09
+204,Price and Value,2,4,2,100.0
+204,Staff and Service,2,10,2,100.0
+205,Booking and Check-in,4,6,12,33.33
+205,Cleanliness,2,3,12,16.67
+205,Food and Breakfast,1,1,12,8.33
+205,Maintenance and Facilities,1,1,12,8.33
+205,Room and Comfort,3,6,12,25.0
+205,Staff and Service,3,5,12,25.0
+206,Booking and Check-in,6,6,40,15.0
+206,Cleanliness,16,26,40,40.0
+206,Food and Breakfast,10,14,40,25.0
+206,Location and Accessibility,1,1,40,2.5
+206,Maintenance and Facilities,4,5,40,10.0
+206,Noise and Sleep,1,1,40,2.5
+206,Price and Value,4,4,40,10.0
+206,Room and Comfort,16,21,40,40.0
+206,Staff and Service,11,15,40,27.5
+207,Booking and Check-in,5,5,16,31.25
+207,Cleanliness,5,8,16,31.25
+207,Food and Breakfast,4,4,16,25.0
+207,Maintenance and Facilities,3,6,16,18.75
+207,Noise and Sleep,2,2,16,12.5
+207,Room and Comfort,7,9,16,43.75
+207,Staff and Service,7,7,16,43.75
+208,Booking and Check-in,1,1,2,50.0
+208,Maintenance and Facilities,1,1,2,50.0
+208,Staff and Service,1,2,2,50.0
+209,Food and Breakfast,2,2,3,66.67
+209,Noise and Sleep,1,1,3,33.33
+209,Price and Value,1,1,3,33.33
+209,Room and Comfort,1,1,3,33.33
+209,Staff and Service,1,1,3,33.33
+210,Food and Breakfast,1,1,4,25.0
+210,Maintenance and Facilities,2,2,4,50.0
+210,Room and Comfort,1,1,4,25.0
+210,Staff and Service,2,2,4,50.0
+211,Staff and Service,1,1,2,50.0
+212,Cleanliness,1,1,4,25.0
+212,Noise and Sleep,2,3,4,50.0
+212,Staff and Service,1,1,4,25.0
+213,Booking and Check-in,3,6,4,75.0
+213,Maintenance and Facilities,3,3,4,75.0
+213,Noise and Sleep,3,3,4,75.0
+213,Room and Comfort,1,2,4,25.0
+213,Staff and Service,1,1,4,25.0
+214,Booking and Check-in,3,4,7,42.86
+214,Food and Breakfast,2,2,7,28.57
+214,Price and Value,1,2,7,14.29
+214,Room and Comfort,3,4,7,42.86
+214,Staff and Service,3,4,7,42.86
+216,Cleanliness,1,1,4,25.0
+216,Room and Comfort,3,8,4,75.0
+217,Cleanliness,1,1,1,100.0
+217,Staff and Service,1,1,1,100.0
+218,Cleanliness,1,1,3,33.33
+218,Maintenance and Facilities,2,3,3,66.67
+218,Noise and Sleep,1,1,3,33.33
+218,Room and Comfort,1,1,3,33.33
+219,Booking and Check-in,40,47,374,10.7
+219,Cleanliness,200,271,374,53.48
+219,Food and Breakfast,29,34,374,7.75
+219,Location and Accessibility,6,6,374,1.6
+219,Maintenance and Facilities,73,86,374,19.52
+219,Noise and Sleep,15,15,374,4.01
+219,Price and Value,29,29,374,7.75
+219,Room and Comfort,162,234,374,43.32
+219,Staff and Service,85,99,374,22.73
+220,Booking and Check-in,1,1,14,7.14
+220,Cleanliness,8,11,14,57.14
+220,Maintenance and Facilities,1,2,14,7.14
+220,Room and Comfort,9,19,14,64.29
+220,Staff and Service,5,5,14,35.71
+222,Room and Comfort,1,1,1,100.0
+225,Booking and Check-in,3,3,6,50.0
+225,Cleanliness,4,4,6,66.67
+225,Staff and Service,2,3,6,33.33
+226,Food and Breakfast,1,1,3,33.33
+226,Room and Comfort,1,1,3,33.33
+226,Staff and Service,2,2,3,66.67
+227,Cleanliness,1,2,4,25.0
+227,Room and Comfort,3,4,4,75.0
+229,Booking and Check-in,3,4,5,60.0
+229,Noise and Sleep,1,1,5,20.0
+229,Price and Value,1,2,5,20.0
+229,Room and Comfort,1,1,5,20.0
+229,Staff and Service,4,6,5,80.0
+230,Booking and Check-in,4,5,34,11.76
+230,Cleanliness,18,27,34,52.94
+230,Food and Breakfast,8,8,34,23.53
+230,Maintenance and Facilities,5,7,34,14.71
+230,Noise and Sleep,3,3,34,8.82
+230,Price and Value,2,2,34,5.88
+230,Room and Comfort,10,12,34,29.41
+230,Staff and Service,7,7,34,20.59
+232,Booking and Check-in,2,2,43,4.65
+232,Cleanliness,10,11,43,23.26
+232,Food and Breakfast,5,5,43,11.63
+232,Location and Accessibility,1,1,43,2.33
+232,Maintenance and Facilities,6,6,43,13.95
+232,Noise and Sleep,10,16,43,23.26
+232,Price and Value,2,3,43,4.65
+232,Room and Comfort,20,33,43,46.51
+232,Staff and Service,7,9,43,16.28
+234,Booking and Check-in,1,2,6,16.67
+234,Cleanliness,3,5,6,50.0
+234,Food and Breakfast,2,3,6,33.33
+234,Room and Comfort,4,4,6,66.67
+234,Staff and Service,3,3,6,50.0
+235,Booking and Check-in,2,2,11,18.18
+235,Cleanliness,5,8,11,45.45
+235,Food and Breakfast,4,5,11,36.36
+235,Maintenance and Facilities,2,2,11,18.18
+235,Noise and Sleep,1,1,11,9.09
+235,Room and Comfort,5,9,11,45.45
+235,Staff and Service,6,7,11,54.55
+237,Booking and Check-in,1,1,8,12.5
+237,Cleanliness,3,5,8,37.5
+237,Food and Breakfast,1,1,8,12.5
+237,Maintenance and Facilities,2,2,8,25.0
+237,Room and Comfort,5,9,8,62.5
+237,Staff and Service,1,1,8,12.5
+238,Cleanliness,1,1,4,25.0
+238,Room and Comfort,3,3,4,75.0
+238,Staff and Service,1,1,4,25.0
+239,Cleanliness,2,2,5,40.0
+239,Food and Breakfast,1,1,5,20.0
+239,Maintenance and Facilities,2,2,5,40.0
+239,Room and Comfort,4,7,5,80.0
+240,Booking and Check-in,1,1,15,6.67
+240,Cleanliness,6,8,15,40.0
+240,Food and Breakfast,1,1,15,6.67
+240,Maintenance and Facilities,2,2,15,13.33
+240,Room and Comfort,6,9,15,40.0
+240,Staff and Service,6,8,15,40.0
+242,Booking and Check-in,1,1,5,20.0
+242,Food and Breakfast,1,1,5,20.0
+242,Maintenance and Facilities,2,2,5,40.0
+242,Staff and Service,1,1,5,20.0
+243,Food and Breakfast,1,1,1,100.0
+243,Room and Comfort,1,1,1,100.0
+243,Staff and Service,1,1,1,100.0
+244,Cleanliness,2,3,7,28.57
+244,Food and Breakfast,1,1,7,14.29
+244,Room and Comfort,2,2,7,28.57
+244,Staff and Service,2,2,7,28.57
+245,Booking and Check-in,2,2,15,13.33
+245,Cleanliness,6,6,15,40.0
+245,Food and Breakfast,5,8,15,33.33
+245,Maintenance and Facilities,5,7,15,33.33
+245,Noise and Sleep,2,2,15,13.33
+245,Room and Comfort,5,9,15,33.33
+245,Staff and Service,7,11,15,46.67
+246,Booking and Check-in,2,2,4,50.0
+246,Maintenance and Facilities,1,1,4,25.0
+246,Noise and Sleep,1,1,4,25.0
+246,Price and Value,1,1,4,25.0
+246,Room and Comfort,1,1,4,25.0
+246,Staff and Service,1,3,4,25.0
+247,Booking and Check-in,2,2,11,18.18
+247,Cleanliness,3,4,11,27.27
+247,Food and Breakfast,2,3,11,18.18
+247,Maintenance and Facilities,3,3,11,27.27
+247,Noise and Sleep,1,1,11,9.09
+247,Room and Comfort,3,4,11,27.27
+247,Staff and Service,2,2,11,18.18
+248,Booking and Check-in,1,1,16,6.25
+248,Cleanliness,3,6,16,18.75
+248,Food and Breakfast,1,1,16,6.25
+248,Maintenance and Facilities,4,5,16,25.0
+248,Room and Comfort,7,7,16,43.75
+248,Staff and Service,7,10,16,43.75
+249,Booking and Check-in,1,1,4,25.0
+249,Cleanliness,1,1,4,25.0
+249,Food and Breakfast,3,4,4,75.0
+249,Noise and Sleep,1,1,4,25.0
+249,Room and Comfort,2,2,4,50.0
+249,Staff and Service,3,3,4,75.0
+250,Booking and Check-in,3,3,4,75.0
+250,Cleanliness,2,3,4,50.0
+250,Maintenance and Facilities,1,1,4,25.0
+250,Price and Value,1,1,4,25.0
+250,Room and Comfort,4,4,4,100.0
+250,Staff and Service,2,3,4,50.0
+251,Booking and Check-in,1,1,4,25.0
+251,Cleanliness,1,1,4,25.0
+251,Food and Breakfast,2,2,4,50.0
+251,Maintenance and Facilities,1,1,4,25.0
+251,Price and Value,1,1,4,25.0
+252,Booking and Check-in,2,2,2,100.0
+254,Booking and Check-in,1,3,31,3.23
+254,Cleanliness,18,23,31,58.06
+254,Food and Breakfast,4,5,31,12.9
+254,Location and Accessibility,1,1,31,3.23
+254,Maintenance and Facilities,1,1,31,3.23
+254,Price and Value,1,1,31,3.23
+254,Room and Comfort,14,18,31,45.16
+254,Staff and Service,13,16,31,41.94
+256,Booking and Check-in,1,1,12,8.33
+256,Cleanliness,1,1,12,8.33
+256,Food and Breakfast,1,1,12,8.33
+256,Maintenance and Facilities,3,3,12,25.0
+256,Noise and Sleep,1,1,12,8.33
+256,Room and Comfort,3,5,12,25.0
+256,Staff and Service,5,6,12,41.67
+257,Booking and Check-in,1,1,14,7.14
+257,Cleanliness,4,6,14,28.57
+257,Food and Breakfast,3,5,14,21.43
+257,Noise and Sleep,1,1,14,7.14
+257,Room and Comfort,7,9,14,50.0
+257,Staff and Service,5,5,14,35.71
+258,Booking and Check-in,6,8,34,17.65
+258,Cleanliness,11,14,34,32.35
+258,Food and Breakfast,7,10,34,20.59
+258,Maintenance and Facilities,3,3,34,8.82
+258,Noise and Sleep,2,2,34,5.88
+258,Price and Value,1,1,34,2.94
+258,Room and Comfort,14,21,34,41.18
+258,Staff and Service,17,19,34,50.0
+259,Booking and Check-in,6,6,33,18.18
+259,Cleanliness,18,24,33,54.55
+259,Food and Breakfast,7,11,33,21.21
+259,Location and Accessibility,1,1,33,3.03
+259,Maintenance and Facilities,6,7,33,18.18
+259,Price and Value,3,4,33,9.09
+259,Room and Comfort,17,26,33,51.52
+259,Staff and Service,6,9,33,18.18
+260,Booking and Check-in,1,1,13,7.69
+260,Cleanliness,5,7,13,38.46
+260,Food and Breakfast,5,6,13,38.46
+260,Maintenance and Facilities,1,1,13,7.69
+260,Room and Comfort,5,7,13,38.46
+260,Staff and Service,3,3,13,23.08
+261,Booking and Check-in,3,4,36,8.33
+261,Cleanliness,17,28,36,47.22
+261,Food and Breakfast,9,9,36,25.0
+261,Location and Accessibility,1,1,36,2.78
+261,Maintenance and Facilities,4,6,36,11.11
+261,Price and Value,2,2,36,5.56
+261,Room and Comfort,26,41,36,72.22
+261,Staff and Service,13,14,36,36.11
+265,Cleanliness,3,3,10,30.0
+265,Food and Breakfast,3,4,10,30.0
+265,Maintenance and Facilities,2,2,10,20.0
+265,Noise and Sleep,1,1,10,10.0
+265,Room and Comfort,4,6,10,40.0
+265,Staff and Service,5,7,10,50.0
+266,Booking and Check-in,1,1,2,50.0
+266,Food and Breakfast,1,1,2,50.0
+266,Staff and Service,2,3,2,100.0
+267,Booking and Check-in,4,6,9,44.44
+267,Food and Breakfast,4,6,9,44.44
+267,Maintenance and Facilities,3,3,9,33.33
+267,Room and Comfort,3,3,9,33.33
+267,Staff and Service,5,7,9,55.56
+268,Cleanliness,4,5,4,100.0
+268,Food and Breakfast,1,1,4,25.0
+268,Room and Comfort,3,5,4,75.0
+268,Staff and Service,1,1,4,25.0
+269,Maintenance and Facilities,1,1,1,100.0
+269,Noise and Sleep,1,1,1,100.0
+269,Room and Comfort,1,1,1,100.0
+270,Booking and Check-in,2,2,15,13.33
+270,Cleanliness,5,7,15,33.33
+270,Food and Breakfast,3,5,15,20.0
+270,Maintenance and Facilities,2,3,15,13.33
+270,Noise and Sleep,2,2,15,13.33
+270,Room and Comfort,6,10,15,40.0
+270,Staff and Service,2,5,15,13.33
+271,Booking and Check-in,1,1,4,25.0
+271,Maintenance and Facilities,1,1,4,25.0
+271,Price and Value,1,1,4,25.0
+271,Room and Comfort,1,1,4,25.0
+271,Staff and Service,1,3,4,25.0
+272,Noise and Sleep,1,1,1,100.0
+273,Noise and Sleep,1,1,1,100.0
+273,Room and Comfort,1,2,1,100.0
+274,Cleanliness,3,7,11,27.27
+274,Food and Breakfast,4,6,11,36.36
+274,Location and Accessibility,1,1,11,9.09
+274,Maintenance and Facilities,1,1,11,9.09
+274,Noise and Sleep,1,1,11,9.09
+274,Price and Value,3,7,11,27.27
+274,Room and Comfort,4,5,11,36.36
+274,Staff and Service,3,3,11,27.27
+276,Booking and Check-in,1,1,4,25.0
+276,Cleanliness,2,2,4,50.0
+276,Food and Breakfast,1,2,4,25.0
+276,Maintenance and Facilities,1,1,4,25.0
+276,Room and Comfort,1,1,4,25.0
+276,Staff and Service,1,1,4,25.0
+277,Booking and Check-in,2,2,5,40.0
+277,Cleanliness,1,2,5,20.0
+277,Food and Breakfast,2,2,5,40.0
+277,Maintenance and Facilities,1,1,5,20.0
+277,Price and Value,1,1,5,20.0
+277,Room and Comfort,2,2,5,40.0
+278,Booking and Check-in,1,2,10,10.0
+278,Cleanliness,2,2,10,20.0
+278,Food and Breakfast,1,1,10,10.0
+278,Maintenance and Facilities,3,4,10,30.0
+278,Room and Comfort,4,4,10,40.0
+278,Staff and Service,2,2,10,20.0
+279,Cleanliness,1,2,4,25.0
+279,Food and Breakfast,1,1,4,25.0
+279,Maintenance and Facilities,1,1,4,25.0
+279,Room and Comfort,3,4,4,75.0
+279,Staff and Service,1,3,4,25.0
+280,Cleanliness,1,1,1,100.0
+280,Staff and Service,1,1,1,100.0
+281,Booking and Check-in,1,1,23,4.35
+281,Cleanliness,7,10,23,30.43
+281,Food and Breakfast,7,9,23,30.43
+281,Maintenance and Facilities,6,6,23,26.09
+281,Noise and Sleep,1,1,23,4.35
+281,Price and Value,2,2,23,8.7
+281,Room and Comfort,9,13,23,39.13
+281,Staff and Service,10,16,23,43.48
+283,Booking and Check-in,2,2,24,8.33
+283,Cleanliness,12,17,24,50.0
+283,Food and Breakfast,6,8,24,25.0
+283,Maintenance and Facilities,6,8,24,25.0
+283,Noise and Sleep,2,2,24,8.33
+283,Room and Comfort,11,16,24,45.83
+283,Staff and Service,4,4,24,16.67
+284,Booking and Check-in,2,3,7,28.57
+284,Cleanliness,2,3,7,28.57
+284,Food and Breakfast,1,1,7,14.29
+284,Location and Accessibility,1,1,7,14.29
+284,Noise and Sleep,1,1,7,14.29
+284,Price and Value,1,2,7,14.29
+284,Room and Comfort,4,6,7,57.14
+284,Staff and Service,4,5,7,57.14
+285,Booking and Check-in,6,9,23,26.09
+285,Cleanliness,12,15,23,52.17
+285,Food and Breakfast,3,3,23,13.04
+285,Maintenance and Facilities,7,11,23,30.43
+285,Noise and Sleep,3,3,23,13.04
+285,Price and Value,5,5,23,21.74
+285,Room and Comfort,7,10,23,30.43
+285,Staff and Service,8,10,23,34.78
+286,Booking and Check-in,3,8,17,17.65
+286,Food and Breakfast,4,6,17,23.53
+286,Maintenance and Facilities,3,3,17,17.65
+286,Noise and Sleep,3,3,17,17.65
+286,Room and Comfort,4,4,17,23.53
+286,Staff and Service,6,8,17,35.29
+289,Cleanliness,2,2,9,22.22
+289,Food and Breakfast,2,2,9,22.22
+289,Maintenance and Facilities,2,2,9,22.22
+289,Room and Comfort,6,9,9,66.67
+289,Staff and Service,3,4,9,33.33
+292,Booking and Check-in,1,4,20,5.0
+292,Cleanliness,11,15,20,55.0
+292,Food and Breakfast,2,2,20,10.0
+292,Maintenance and Facilities,2,2,20,10.0
+292,Price and Value,1,1,20,5.0
+292,Room and Comfort,11,20,20,55.0
+292,Staff and Service,4,4,20,20.0
+293,Booking and Check-in,3,4,21,14.29
+293,Cleanliness,2,2,21,9.52
+293,Food and Breakfast,4,4,21,19.05
+293,Maintenance and Facilities,3,3,21,14.29
+293,Price and Value,1,1,21,4.76
+293,Room and Comfort,6,8,21,28.57
+293,Staff and Service,7,8,21,33.33
+294,Booking and Check-in,4,4,17,23.53
+294,Cleanliness,3,3,17,17.65
+294,Food and Breakfast,3,3,17,17.65
+294,Maintenance and Facilities,1,1,17,5.88
+294,Price and Value,3,3,17,17.65
+294,Room and Comfort,8,11,17,47.06
+294,Staff and Service,8,10,17,47.06
+295,Booking and Check-in,1,2,4,25.0
+295,Cleanliness,1,1,4,25.0
+295,Noise and Sleep,1,1,4,25.0
+295,Room and Comfort,3,4,4,75.0
+295,Staff and Service,1,3,4,25.0
+296,Booking and Check-in,1,2,10,10.0
+296,Cleanliness,3,3,10,30.0
+296,Food and Breakfast,5,5,10,50.0
+296,Maintenance and Facilities,2,2,10,20.0
+296,Room and Comfort,4,6,10,40.0
+296,Staff and Service,1,1,10,10.0
+297,Booking and Check-in,2,2,6,33.33
+297,Cleanliness,2,2,6,33.33
+297,Food and Breakfast,1,1,6,16.67
+297,Maintenance and Facilities,3,3,6,50.0
+297,Room and Comfort,2,2,6,33.33
+297,Staff and Service,1,3,6,16.67
+298,Booking and Check-in,4,5,18,22.22
+298,Cleanliness,4,6,18,22.22
+298,Food and Breakfast,4,4,18,22.22
+298,Maintenance and Facilities,4,4,18,22.22
+298,Price and Value,2,2,18,11.11
+298,Room and Comfort,5,7,18,27.78
+298,Staff and Service,3,4,18,16.67
+299,Cleanliness,1,1,2,50.0
+299,Room and Comfort,1,1,2,50.0
+299,Staff and Service,1,1,2,50.0
+300,Booking and Check-in,3,5,11,27.27
+300,Cleanliness,1,1,11,9.09
+300,Food and Breakfast,3,4,11,27.27
+300,Noise and Sleep,2,3,11,18.18
+300,Price and Value,1,1,11,9.09
+300,Room and Comfort,3,4,11,27.27
+300,Staff and Service,6,10,11,54.55
+301,Cleanliness,1,1,5,20.0
+301,Maintenance and Facilities,1,2,5,20.0
+301,Room and Comfort,2,3,5,40.0
+301,Staff and Service,3,5,5,60.0
+302,Cleanliness,1,1,9,11.11
+302,Food and Breakfast,1,1,9,11.11
+302,Room and Comfort,1,1,9,11.11
+302,Staff and Service,2,3,9,22.22
+303,Booking and Check-in,3,4,13,23.08
+303,Cleanliness,5,8,13,38.46
+303,Maintenance and Facilities,1,1,13,7.69
+303,Noise and Sleep,2,2,13,15.38
+303,Price and Value,3,3,13,23.08
+303,Room and Comfort,8,9,13,61.54
+303,Staff and Service,1,1,13,7.69
+306,Cleanliness,3,4,8,37.5
+306,Food and Breakfast,2,6,8,25.0
+306,Maintenance and Facilities,1,1,8,12.5
+306,Noise and Sleep,2,2,8,25.0
+306,Price and Value,1,1,8,12.5
+306,Room and Comfort,4,5,8,50.0
+306,Staff and Service,1,1,8,12.5
+307,Food and Breakfast,1,2,5,20.0
+307,Maintenance and Facilities,1,1,5,20.0
+307,Noise and Sleep,1,1,5,20.0
+307,Room and Comfort,2,2,5,40.0
+307,Staff and Service,2,2,5,40.0
+308,Cleanliness,2,3,5,40.0
+308,Food and Breakfast,3,3,5,60.0
+308,Maintenance and Facilities,1,2,5,20.0
+308,Room and Comfort,3,4,5,60.0
+308,Staff and Service,2,3,5,40.0
+309,Booking and Check-in,1,1,5,20.0
+309,Cleanliness,2,2,5,40.0
+309,Food and Breakfast,1,1,5,20.0
+309,Room and Comfort,2,3,5,40.0
+309,Staff and Service,1,1,5,20.0
+310,Booking and Check-in,1,1,4,25.0
+310,Food and Breakfast,1,1,4,25.0
+310,Maintenance and Facilities,1,1,4,25.0
+311,Food and Breakfast,1,1,2,50.0
+311,Price and Value,1,1,2,50.0
+311,Staff and Service,2,2,2,100.0
+312,Cleanliness,4,4,4,100.0
+312,Food and Breakfast,1,1,4,25.0
+312,Maintenance and Facilities,1,1,4,25.0
+312,Room and Comfort,2,2,4,50.0
+312,Staff and Service,1,1,4,25.0
+313,Cleanliness,1,1,2,50.0
+313,Maintenance and Facilities,2,2,2,100.0
+313,Room and Comfort,2,3,2,100.0
+314,Booking and Check-in,1,1,6,16.67
+314,Cleanliness,1,1,6,16.67
+314,Food and Breakfast,3,5,6,50.0
+314,Maintenance and Facilities,2,2,6,33.33
+314,Noise and Sleep,1,1,6,16.67
+314,Price and Value,1,1,6,16.67
+314,Room and Comfort,2,4,6,33.33
+314,Staff and Service,4,5,6,66.67
+315,Food and Breakfast,1,5,1,100.0
+315,Maintenance and Facilities,1,1,1,100.0
+315,Noise and Sleep,1,1,1,100.0
+316,Food and Breakfast,3,7,4,75.0
+316,Maintenance and Facilities,1,1,4,25.0
+316,Room and Comfort,3,5,4,75.0
+316,Staff and Service,1,3,4,25.0
+318,Price and Value,1,1,1,100.0
+319,Booking and Check-in,1,1,2,50.0
+319,Price and Value,1,1,2,50.0
+319,Room and Comfort,1,1,2,50.0
+320,Booking and Check-in,4,7,42,9.52
+320,Cleanliness,10,13,42,23.81
+320,Food and Breakfast,10,12,42,23.81
+320,Maintenance and Facilities,4,5,42,9.52
+320,Noise and Sleep,5,6,42,11.9
+320,Price and Value,1,1,42,2.38
+320,Room and Comfort,13,14,42,30.95
+320,Staff and Service,16,20,42,38.1
+321,Room and Comfort,4,4,4,100.0
+321,Staff and Service,3,4,4,75.0
+322,Cleanliness,1,3,1,100.0
+322,Food and Breakfast,1,2,1,100.0
+322,Noise and Sleep,1,1,1,100.0
+322,Room and Comfort,1,2,1,100.0
+322,Staff and Service,1,2,1,100.0
+323,Booking and Check-in,2,2,18,11.11
+323,Cleanliness,9,10,18,50.0
+323,Food and Breakfast,7,11,18,38.89
+323,Maintenance and Facilities,1,1,18,5.56
+323,Noise and Sleep,1,1,18,5.56
+323,Room and Comfort,9,15,18,50.0
+323,Staff and Service,10,10,18,55.56
+325,Food and Breakfast,1,2,2,50.0
+325,Room and Comfort,1,3,2,50.0
+325,Staff and Service,2,2,2,100.0
+326,Food and Breakfast,1,1,2,50.0
+327,Room and Comfort,1,3,1,100.0
+329,Booking and Check-in,3,3,5,60.0
+329,Cleanliness,1,1,5,20.0
+329,Food and Breakfast,1,2,5,20.0
+329,Noise and Sleep,2,2,5,40.0
+329,Room and Comfort,3,4,5,60.0
+329,Staff and Service,3,4,5,60.0
+330,Staff and Service,1,1,1,100.0
+331,Booking and Check-in,2,3,3,66.67
+331,Room and Comfort,1,1,3,33.33
+331,Staff and Service,1,1,3,33.33
+333,Cleanliness,1,3,4,25.0
+333,Food and Breakfast,1,1,4,25.0
+333,Maintenance and Facilities,2,2,4,50.0
+333,Room and Comfort,3,5,4,75.0
+333,Staff and Service,1,1,4,25.0
+334,Booking and Check-in,1,1,4,25.0
+334,Food and Breakfast,2,2,4,50.0
+334,Maintenance and Facilities,2,2,4,50.0
+334,Staff and Service,2,2,4,50.0
+335,Booking and Check-in,4,6,13,30.77
+335,Food and Breakfast,2,2,13,15.38
+335,Noise and Sleep,1,1,13,7.69
+335,Price and Value,1,1,13,7.69
+335,Room and Comfort,1,1,13,7.69
+335,Staff and Service,2,3,13,15.38
+337,Location and Accessibility,1,1,3,33.33
+337,Room and Comfort,1,3,3,33.33
+337,Staff and Service,1,1,3,33.33
+339,Booking and Check-in,23,29,252,9.13
+339,Cleanliness,120,165,252,47.62
+339,Food and Breakfast,65,73,252,25.79
+339,Location and Accessibility,3,4,252,1.19
+339,Maintenance and Facilities,39,44,252,15.48
+339,Noise and Sleep,11,11,252,4.37
+339,Price and Value,16,20,252,6.35
+339,Room and Comfort,137,209,252,54.37
+339,Staff and Service,69,86,252,27.38
+340,Booking and Check-in,1,1,17,5.88
+340,Cleanliness,9,12,17,52.94
+340,Food and Breakfast,3,6,17,17.65
+340,Maintenance and Facilities,2,2,17,11.76
+340,Noise and Sleep,3,3,17,17.65
+340,Room and Comfort,9,14,17,52.94
+340,Staff and Service,6,6,17,35.29
+341,Booking and Check-in,1,1,1,100.0
+341,Maintenance and Facilities,1,1,1,100.0
+341,Staff and Service,1,1,1,100.0
+343,Booking and Check-in,1,2,6,16.67
+343,Cleanliness,1,1,6,16.67
+343,Food and Breakfast,1,1,6,16.67
+343,Noise and Sleep,1,1,6,16.67
+343,Room and Comfort,5,7,6,83.33
+343,Staff and Service,2,2,6,33.33
+344,Booking and Check-in,1,1,20,5.0
+344,Cleanliness,4,4,20,20.0
+344,Food and Breakfast,2,2,20,10.0
+344,Maintenance and Facilities,3,4,20,15.0
+344,Noise and Sleep,2,3,20,10.0
+344,Price and Value,1,1,20,5.0
+344,Room and Comfort,5,5,20,25.0
+344,Staff and Service,5,5,20,25.0
+345,Booking and Check-in,1,1,4,25.0
+345,Price and Value,1,1,4,25.0
+345,Room and Comfort,1,1,4,25.0
+345,Staff and Service,1,1,4,25.0
+346,Booking and Check-in,2,2,23,8.7
+346,Cleanliness,7,11,23,30.43
+346,Food and Breakfast,3,3,23,13.04
+346,Maintenance and Facilities,2,2,23,8.7
+346,Noise and Sleep,2,2,23,8.7
+346,Room and Comfort,8,10,23,34.78
+346,Staff and Service,4,4,23,17.39
+347,Booking and Check-in,1,2,10,10.0
+347,Cleanliness,2,2,10,20.0
+347,Food and Breakfast,1,2,10,10.0
+347,Maintenance and Facilities,1,1,10,10.0
+347,Noise and Sleep,1,1,10,10.0
+347,Room and Comfort,2,3,10,20.0
+347,Staff and Service,1,3,10,10.0
+348,Cleanliness,3,8,3,100.0
+348,Food and Breakfast,1,1,3,33.33
+348,Room and Comfort,3,4,3,100.0
+348,Staff and Service,1,1,3,33.33
+352,Cleanliness,1,1,1,100.0
+352,Food and Breakfast,1,1,1,100.0
+352,Maintenance and Facilities,1,1,1,100.0
+352,Room and Comfort,1,3,1,100.0
+352,Staff and Service,1,1,1,100.0
+353,Booking and Check-in,5,6,28,17.86
+353,Cleanliness,6,8,28,21.43
+353,Food and Breakfast,3,3,28,10.71
+353,Location and Accessibility,1,1,28,3.57
+353,Maintenance and Facilities,11,12,28,39.29
+353,Noise and Sleep,5,8,28,17.86
+353,Price and Value,3,5,28,10.71
+353,Room and Comfort,17,24,28,60.71
+353,Staff and Service,7,9,28,25.0
+354,Booking and Check-in,3,3,9,33.33
+354,Cleanliness,4,4,9,44.44
+354,Food and Breakfast,1,1,9,11.11
+354,Maintenance and Facilities,3,3,9,33.33
+354,Price and Value,1,1,9,11.11
+354,Room and Comfort,4,4,9,44.44
+354,Staff and Service,3,8,9,33.33
+356,Room and Comfort,1,1,1,100.0
+357,Cleanliness,1,1,5,20.0
+357,Price and Value,1,1,5,20.0
+357,Room and Comfort,1,1,5,20.0
+358,Cleanliness,2,2,3,66.67
+358,Noise and Sleep,2,2,3,66.67
+358,Room and Comfort,3,6,3,100.0
+359,Booking and Check-in,1,1,1,100.0
+359,Price and Value,1,1,1,100.0
+359,Staff and Service,1,1,1,100.0
+360,Booking and Check-in,7,10,47,14.89
+360,Cleanliness,11,15,47,23.4
+360,Food and Breakfast,8,10,47,17.02
+360,Maintenance and Facilities,5,5,47,10.64
+360,Noise and Sleep,2,2,47,4.26
+360,Price and Value,1,2,47,2.13
+360,Room and Comfort,18,23,47,38.3
+360,Staff and Service,12,19,47,25.53
+361,Booking and Check-in,8,12,51,15.69
+361,Cleanliness,18,25,51,35.29
+361,Food and Breakfast,6,7,51,11.76
+361,Location and Accessibility,1,1,51,1.96
+361,Maintenance and Facilities,3,3,51,5.88
+361,Noise and Sleep,1,1,51,1.96
+361,Price and Value,4,4,51,7.84
+361,Room and Comfort,26,39,51,50.98
+361,Staff and Service,18,21,51,35.29
+362,Booking and Check-in,1,1,4,25.0
+362,Location and Accessibility,2,2,4,50.0
+364,Booking and Check-in,5,5,35,14.29
+364,Cleanliness,16,24,35,45.71
+364,Food and Breakfast,7,10,35,20.0
+364,Maintenance and Facilities,8,9,35,22.86
+364,Noise and Sleep,5,5,35,14.29
+364,Price and Value,5,6,35,14.29
+364,Room and Comfort,16,26,35,45.71
+364,Staff and Service,7,10,35,20.0
+365,Cleanliness,1,1,4,25.0
+365,Maintenance and Facilities,1,1,4,25.0
+365,Noise and Sleep,3,5,4,75.0
+365,Staff and Service,3,3,4,75.0
+368,Booking and Check-in,1,1,25,4.0
+368,Cleanliness,6,7,25,24.0
+368,Food and Breakfast,7,7,25,28.0
+368,Maintenance and Facilities,4,4,25,16.0
+368,Noise and Sleep,5,7,25,20.0
+368,Price and Value,3,3,25,12.0
+368,Room and Comfort,9,17,25,36.0
+368,Staff and Service,4,4,25,16.0
+369,Booking and Check-in,2,2,19,10.53
+369,Cleanliness,8,10,19,42.11
+369,Maintenance and Facilities,3,4,19,15.79
+369,Noise and Sleep,2,2,19,10.53
+369,Price and Value,3,3,19,15.79
+369,Room and Comfort,9,13,19,47.37
+369,Staff and Service,4,4,19,21.05
+370,Booking and Check-in,2,2,23,8.7
+370,Cleanliness,7,7,23,30.43
+370,Food and Breakfast,8,8,23,34.78
+370,Location and Accessibility,1,1,23,4.35
+370,Maintenance and Facilities,3,3,23,13.04
+370,Noise and Sleep,2,3,23,8.7
+370,Price and Value,2,2,23,8.7
+370,Room and Comfort,13,22,23,56.52
+370,Staff and Service,2,4,23,8.7
+371,Booking and Check-in,1,1,16,6.25
+371,Cleanliness,7,7,16,43.75
+371,Food and Breakfast,4,5,16,25.0
+371,Maintenance and Facilities,3,3,16,18.75
+371,Noise and Sleep,3,4,16,18.75
+371,Price and Value,2,2,16,12.5
+371,Room and Comfort,5,6,16,31.25
+371,Staff and Service,3,3,16,18.75
+372,Booking and Check-in,1,1,3,33.33
+372,Cleanliness,1,1,3,33.33
+372,Maintenance and Facilities,1,1,3,33.33
+372,Price and Value,1,1,3,33.33
+372,Room and Comfort,2,2,3,66.67
+374,Booking and Check-in,1,1,1,100.0
+374,Staff and Service,1,2,1,100.0
+375,Food and Breakfast,1,1,1,100.0
+375,Room and Comfort,1,1,1,100.0
+376,Booking and Check-in,1,1,4,25.0
+376,Maintenance and Facilities,2,2,4,50.0
+376,Room and Comfort,1,1,4,25.0
+378,Booking and Check-in,3,3,9,33.33
+378,Cleanliness,1,1,9,11.11
+378,Noise and Sleep,1,1,9,11.11
+378,Room and Comfort,3,4,9,33.33
+378,Staff and Service,5,5,9,55.56
+379,Booking and Check-in,5,6,32,15.62
+379,Cleanliness,11,15,32,34.38
+379,Food and Breakfast,7,9,32,21.88
+379,Location and Accessibility,1,1,32,3.12
+379,Maintenance and Facilities,2,2,32,6.25
+379,Noise and Sleep,5,5,32,15.62
+379,Price and Value,1,1,32,3.12
+379,Room and Comfort,13,19,32,40.62
+379,Staff and Service,13,21,32,40.62
+380,Cleanliness,5,8,9,55.56
+380,Food and Breakfast,2,2,9,22.22
+380,Noise and Sleep,1,1,9,11.11
+380,Room and Comfort,4,4,9,44.44
+380,Staff and Service,4,4,9,44.44
+381,Cleanliness,2,3,4,50.0
+381,Maintenance and Facilities,1,1,4,25.0
+381,Room and Comfort,3,4,4,75.0
+381,Staff and Service,4,4,4,100.0
+382,Booking and Check-in,1,1,29,3.45
+382,Cleanliness,17,20,29,58.62
+382,Food and Breakfast,6,6,29,20.69
+382,Maintenance and Facilities,6,8,29,20.69
+382,Price and Value,3,3,29,10.34
+382,Room and Comfort,15,19,29,51.72
+382,Staff and Service,4,4,29,13.79
+383,Cleanliness,5,7,12,41.67
+383,Food and Breakfast,3,3,12,25.0
+383,Maintenance and Facilities,1,1,12,8.33
+383,Room and Comfort,4,6,12,33.33
+383,Staff and Service,3,6,12,25.0
+384,Booking and Check-in,2,2,31,6.45
+384,Cleanliness,19,27,31,61.29
+384,Food and Breakfast,10,11,31,32.26
+384,Location and Accessibility,1,1,31,3.23
+384,Maintenance and Facilities,6,7,31,19.35
+384,Noise and Sleep,7,9,31,22.58
+384,Price and Value,2,2,31,6.45
+384,Room and Comfort,15,20,31,48.39
+384,Staff and Service,10,17,31,32.26
+385,Booking and Check-in,4,4,31,12.9
+385,Cleanliness,17,25,31,54.84
+385,Food and Breakfast,4,4,31,12.9
+385,Maintenance and Facilities,6,6,31,19.35
+385,Noise and Sleep,2,2,31,6.45
+385,Price and Value,1,1,31,3.23
+385,Room and Comfort,7,10,31,22.58
+385,Staff and Service,11,12,31,35.48
+386,Booking and Check-in,3,3,15,20.0
+386,Cleanliness,9,12,15,60.0
+386,Food and Breakfast,6,6,15,40.0
+386,Maintenance and Facilities,2,3,15,13.33
+386,Room and Comfort,10,20,15,66.67
+386,Staff and Service,4,9,15,26.67
+390,Booking and Check-in,1,2,10,10.0
+390,Cleanliness,1,3,10,10.0
+390,Food and Breakfast,3,4,10,30.0
+390,Room and Comfort,4,4,10,40.0
+390,Staff and Service,3,5,10,30.0
+391,Booking and Check-in,1,1,10,10.0
+391,Cleanliness,3,6,10,30.0
+391,Maintenance and Facilities,1,1,10,10.0
+391,Noise and Sleep,3,3,10,30.0
+391,Room and Comfort,7,13,10,70.0
+391,Staff and Service,4,4,10,40.0
+393,Booking and Check-in,2,2,5,40.0
+393,Cleanliness,3,3,5,60.0
+393,Room and Comfort,1,1,5,20.0
+393,Staff and Service,2,2,5,40.0
+394,Cleanliness,1,2,3,33.33
+394,Room and Comfort,1,2,3,33.33
+397,Cleanliness,1,1,2,50.0
+397,Room and Comfort,1,1,2,50.0
+404,Booking and Check-in,1,2,6,16.67
+404,Cleanliness,2,2,6,33.33
+404,Food and Breakfast,1,1,6,16.67
+404,Maintenance and Facilities,1,1,6,16.67
+404,Noise and Sleep,1,1,6,16.67
+404,Room and Comfort,2,3,6,33.33
+404,Staff and Service,3,4,6,50.0
+405,Staff and Service,1,1,2,50.0
+406,Cleanliness,1,1,1,100.0
+407,Cleanliness,2,8,2,100.0
+407,Maintenance and Facilities,2,2,2,100.0
+407,Room and Comfort,2,8,2,100.0
+407,Staff and Service,2,2,2,100.0
+408,Booking and Check-in,6,6,25,24.0
+408,Cleanliness,4,6,25,16.0
+408,Food and Breakfast,12,15,25,48.0
+408,Maintenance and Facilities,5,5,25,20.0
+408,Noise and Sleep,3,3,25,12.0
+408,Price and Value,1,1,25,4.0
+408,Room and Comfort,7,9,25,28.0
+408,Staff and Service,11,16,25,44.0
+410,Booking and Check-in,1,2,4,25.0
+410,Maintenance and Facilities,3,5,4,75.0
+410,Noise and Sleep,1,1,4,25.0
+410,Price and Value,1,1,4,25.0
+410,Room and Comfort,4,6,4,100.0
+410,Staff and Service,1,1,4,25.0
+413,Noise and Sleep,1,2,1,100.0
+415,Booking and Check-in,1,1,38,2.63
+415,Cleanliness,21,27,38,55.26
+415,Food and Breakfast,10,11,38,26.32
+415,Location and Accessibility,1,1,38,2.63
+415,Maintenance and Facilities,1,1,38,2.63
+415,Noise and Sleep,1,1,38,2.63
+415,Price and Value,2,5,38,5.26
+415,Room and Comfort,14,24,38,36.84
+415,Staff and Service,13,19,38,34.21
+416,Cleanliness,1,2,2,50.0
+416,Noise and Sleep,1,1,2,50.0
+416,Room and Comfort,1,2,2,50.0
+417,Booking and Check-in,1,1,5,20.0
+417,Cleanliness,1,1,5,20.0
+417,Noise and Sleep,2,2,5,40.0
+418,Booking and Check-in,2,2,21,9.52
+418,Cleanliness,10,11,21,47.62
+418,Food and Breakfast,3,4,21,14.29
+418,Maintenance and Facilities,1,1,21,4.76
+418,Noise and Sleep,1,1,21,4.76
+418,Room and Comfort,8,14,21,38.1
+418,Staff and Service,13,15,21,61.9
+420,Cleanliness,1,1,1,100.0
+420,Food and Breakfast,1,2,1,100.0
+420,Maintenance and Facilities,1,2,1,100.0
+420,Price and Value,1,1,1,100.0
+420,Room and Comfort,1,1,1,100.0
+420,Staff and Service,1,2,1,100.0
+421,Booking and Check-in,3,3,18,16.67
+421,Cleanliness,6,7,18,33.33
+421,Food and Breakfast,9,11,18,50.0
+421,Maintenance and Facilities,4,5,18,22.22
+421,Noise and Sleep,1,1,18,5.56
+421,Price and Value,4,4,18,22.22
+421,Room and Comfort,8,13,18,44.44
+421,Staff and Service,13,16,18,72.22
+423,Booking and Check-in,7,9,32,21.88
+423,Cleanliness,13,16,32,40.62
+423,Food and Breakfast,8,13,32,25.0
+423,Maintenance and Facilities,8,9,32,25.0
+423,Noise and Sleep,3,6,32,9.38
+423,Price and Value,3,3,32,9.38
+423,Room and Comfort,21,33,32,65.62
+423,Staff and Service,9,12,32,28.12
+424,Cleanliness,1,1,4,25.0
+424,Room and Comfort,1,1,4,25.0
+424,Staff and Service,2,4,4,50.0
+425,Cleanliness,1,1,7,14.29
+425,Food and Breakfast,1,1,7,14.29
+425,Maintenance and Facilities,1,1,7,14.29
+425,Noise and Sleep,1,1,7,14.29
+425,Room and Comfort,1,1,7,14.29
+426,Cleanliness,5,6,6,83.33
+426,Food and Breakfast,1,1,6,16.67
+426,Noise and Sleep,1,1,6,16.67
+426,Room and Comfort,3,4,6,50.0
+427,Booking and Check-in,2,2,13,15.38
+427,Cleanliness,2,2,13,15.38
+427,Food and Breakfast,3,3,13,23.08
+427,Location and Accessibility,1,1,13,7.69
+427,Noise and Sleep,1,2,13,7.69
+427,Room and Comfort,6,10,13,46.15
+427,Staff and Service,6,6,13,46.15
+428,Booking and Check-in,1,1,1,100.0
+431,Booking and Check-in,3,3,55,5.45
+431,Cleanliness,1,1,55,1.82
+431,Food and Breakfast,7,7,55,12.73
+431,Maintenance and Facilities,9,16,55,16.36
+431,Room and Comfort,7,9,55,12.73
+431,Staff and Service,6,6,55,10.91
+434,Booking and Check-in,7,10,56,12.5
+434,Cleanliness,27,35,56,48.21
+434,Food and Breakfast,3,3,56,5.36
+434,Maintenance and Facilities,11,13,56,19.64
+434,Noise and Sleep,2,2,56,3.57
+434,Price and Value,9,11,56,16.07
+434,Room and Comfort,40,66,56,71.43
+434,Staff and Service,11,15,56,19.64
+439,Food and Breakfast,1,1,1,100.0
+439,Staff and Service,1,1,1,100.0
+440,Booking and Check-in,2,2,25,8.0
+440,Cleanliness,10,12,25,40.0
+440,Food and Breakfast,3,3,25,12.0
+440,Maintenance and Facilities,6,6,25,24.0
+440,Noise and Sleep,1,1,25,4.0
+440,Room and Comfort,7,12,25,28.0
+440,Staff and Service,6,7,25,24.0
+442,Food and Breakfast,1,2,1,100.0
+443,Cleanliness,5,7,10,50.0
+443,Food and Breakfast,2,3,10,20.0
+443,Noise and Sleep,2,4,10,20.0
+443,Room and Comfort,5,7,10,50.0
+443,Staff and Service,2,2,10,20.0
+444,Cleanliness,1,1,1,100.0
+445,Maintenance and Facilities,1,1,2,50.0
+445,Room and Comfort,1,2,2,50.0
+446,Cleanliness,1,4,2,50.0
+446,Room and Comfort,1,2,2,50.0
+450,Booking and Check-in,1,1,1,100.0
+450,Cleanliness,1,1,1,100.0
+452,Cleanliness,1,1,2,50.0
+452,Room and Comfort,1,1,2,50.0
+453,Booking and Check-in,22,30,90,24.44
+453,Cleanliness,39,47,90,43.33
+453,Food and Breakfast,6,7,90,6.67
+453,Location and Accessibility,1,1,90,1.11
+453,Maintenance and Facilities,14,18,90,15.56
+453,Noise and Sleep,8,11,90,8.89
+453,Price and Value,5,5,90,5.56
+453,Room and Comfort,34,45,90,37.78
+453,Staff and Service,28,39,90,31.11
+455,Booking and Check-in,1,1,6,16.67
+455,Maintenance and Facilities,4,4,6,66.67
+455,Room and Comfort,2,2,6,33.33
+456,Booking and Check-in,1,2,1,100.0
+456,Staff and Service,1,1,1,100.0
+458,Booking and Check-in,4,7,18,22.22
+458,Cleanliness,2,2,18,11.11
+458,Food and Breakfast,6,8,18,33.33
+458,Price and Value,1,1,18,5.56
+458,Room and Comfort,3,3,18,16.67
+458,Staff and Service,8,14,18,44.44
+459,Booking and Check-in,1,1,1,100.0
+460,Booking and Check-in,3,3,41,7.32
+460,Cleanliness,17,25,41,41.46
+460,Food and Breakfast,7,8,41,17.07
+460,Maintenance and Facilities,8,10,41,19.51
+460,Noise and Sleep,1,1,41,2.44
+460,Price and Value,3,3,41,7.32
+460,Room and Comfort,18,31,41,43.9
+460,Staff and Service,14,19,41,34.15
+461,Booking and Check-in,3,6,20,15.0
+461,Cleanliness,11,14,20,55.0
+461,Food and Breakfast,2,2,20,10.0
+461,Maintenance and Facilities,4,5,20,20.0
+461,Price and Value,2,2,20,10.0
+461,Room and Comfort,10,17,20,50.0
+461,Staff and Service,10,15,20,50.0
+462,Booking and Check-in,1,1,7,14.29
+462,Cleanliness,1,1,7,14.29
+462,Maintenance and Facilities,1,1,7,14.29
+462,Noise and Sleep,1,1,7,14.29
+462,Room and Comfort,1,1,7,14.29
+462,Staff and Service,3,3,7,42.86
+463,Booking and Check-in,3,3,20,15.0
+463,Cleanliness,12,14,20,60.0
+463,Food and Breakfast,3,3,20,15.0
+463,Maintenance and Facilities,3,4,20,15.0
+463,Noise and Sleep,1,1,20,5.0
+463,Room and Comfort,8,12,20,40.0
+463,Staff and Service,3,3,20,15.0
+464,Booking and Check-in,1,1,15,6.67
+464,Cleanliness,5,5,15,33.33
+464,Food and Breakfast,4,5,15,26.67
+464,Maintenance and Facilities,3,3,15,20.0
+464,Noise and Sleep,2,2,15,13.33
+464,Room and Comfort,4,6,15,26.67
+464,Staff and Service,5,6,15,33.33
+465,Booking and Check-in,4,5,39,10.26
+465,Cleanliness,19,28,39,48.72
+465,Food and Breakfast,4,6,39,10.26
+465,Location and Accessibility,3,3,39,7.69
+465,Maintenance and Facilities,8,10,39,20.51
+465,Room and Comfort,17,28,39,43.59
+465,Staff and Service,14,17,39,35.9
+466,Booking and Check-in,1,2,6,16.67
+466,Cleanliness,3,3,6,50.0
+466,Food and Breakfast,1,1,6,16.67
+466,Maintenance and Facilities,2,2,6,33.33
+466,Room and Comfort,1,1,6,16.67
+466,Staff and Service,2,2,6,33.33
+467,Room and Comfort,1,3,2,50.0
+468,Booking and Check-in,2,2,58,3.45
+468,Cleanliness,28,39,58,48.28
+468,Food and Breakfast,14,14,58,24.14
+468,Location and Accessibility,2,2,58,3.45
+468,Maintenance and Facilities,13,16,58,22.41
+468,Noise and Sleep,4,4,58,6.9
+468,Price and Value,2,2,58,3.45
+468,Room and Comfort,24,31,58,41.38
+468,Staff and Service,15,16,58,25.86
+469,Booking and Check-in,1,1,11,9.09
+469,Cleanliness,6,11,11,54.55
+469,Food and Breakfast,2,3,11,18.18
+469,Maintenance and Facilities,1,1,11,9.09
+469,Room and Comfort,8,16,11,72.73
+469,Staff and Service,3,3,11,27.27
+470,Booking and Check-in,1,1,9,11.11
+470,Cleanliness,6,8,9,66.67
+470,Food and Breakfast,2,2,9,22.22
+470,Maintenance and Facilities,5,7,9,55.56
+470,Noise and Sleep,1,1,9,11.11
+470,Room and Comfort,6,7,9,66.67
+470,Staff and Service,3,3,9,33.33
+471,Booking and Check-in,3,4,33,9.09
+471,Cleanliness,7,8,33,21.21
+471,Food and Breakfast,6,6,33,18.18
+471,Maintenance and Facilities,6,7,33,18.18
+471,Noise and Sleep,4,5,33,12.12
+471,Price and Value,4,4,33,12.12
+471,Room and Comfort,13,17,33,39.39
+471,Staff and Service,12,16,33,36.36
+472,Booking and Check-in,3,8,11,27.27
+472,Cleanliness,7,10,11,63.64
+472,Food and Breakfast,1,1,11,9.09
+472,Maintenance and Facilities,2,2,11,18.18
+472,Noise and Sleep,1,1,11,9.09
+472,Price and Value,1,1,11,9.09
+472,Room and Comfort,5,7,11,45.45
+472,Staff and Service,5,9,11,45.45
+473,Booking and Check-in,1,1,1,100.0
+473,Food and Breakfast,1,1,1,100.0
+473,Staff and Service,1,1,1,100.0
+474,Booking and Check-in,2,2,7,28.57
+474,Cleanliness,1,1,7,14.29
+474,Food and Breakfast,2,4,7,28.57
+474,Maintenance and Facilities,3,3,7,42.86
+474,Room and Comfort,1,1,7,14.29
+474,Staff and Service,1,1,7,14.29
+475,Cleanliness,1,2,1,100.0
+475,Food and Breakfast,1,1,1,100.0
+475,Maintenance and Facilities,1,1,1,100.0
+475,Room and Comfort,1,1,1,100.0
+475,Staff and Service,1,1,1,100.0
+476,Cleanliness,1,2,1,100.0
+476,Room and Comfort,1,2,1,100.0
+477,Booking and Check-in,1,1,11,9.09
+477,Cleanliness,4,5,11,36.36
+477,Food and Breakfast,1,2,11,9.09
+477,Maintenance and Facilities,3,3,11,27.27
+477,Noise and Sleep,1,1,11,9.09
+477,Room and Comfort,4,7,11,36.36
+477,Staff and Service,4,5,11,36.36
+478,Cleanliness,2,2,3,66.67
+478,Maintenance and Facilities,2,2,3,66.67
+478,Price and Value,2,2,3,66.67
+478,Room and Comfort,1,2,3,33.33
+478,Staff and Service,3,5,3,100.0
+479,Booking and Check-in,4,7,14,28.57
+479,Cleanliness,4,5,14,28.57
+479,Food and Breakfast,3,3,14,21.43
+479,Maintenance and Facilities,3,4,14,21.43
+479,Noise and Sleep,2,2,14,14.29
+479,Room and Comfort,4,7,14,28.57
+479,Staff and Service,7,12,14,50.0
+481,Cleanliness,1,1,1,100.0
+481,Price and Value,1,1,1,100.0
+481,Room and Comfort,1,2,1,100.0
+482,Price and Value,1,1,2,50.0
+482,Room and Comfort,1,1,2,50.0
+483,Booking and Check-in,1,1,1,100.0
+484,Cleanliness,1,2,3,33.33
+484,Room and Comfort,1,1,3,33.33
+485,Cleanliness,1,1,1,100.0
+485,Maintenance and Facilities,1,3,1,100.0
+485,Staff and Service,1,2,1,100.0
+486,Booking and Check-in,1,1,17,5.88
+486,Cleanliness,12,15,17,70.59
+486,Food and Breakfast,6,7,17,35.29
+486,Maintenance and Facilities,6,7,17,35.29
+486,Noise and Sleep,2,2,17,11.76
+486,Room and Comfort,12,16,17,70.59
+486,Staff and Service,6,6,17,35.29
+487,Booking and Check-in,1,1,2,50.0
+488,Booking and Check-in,4,6,64,6.25
+488,Cleanliness,30,39,64,46.88
+488,Food and Breakfast,12,15,64,18.75
+488,Maintenance and Facilities,14,17,64,21.88
+488,Noise and Sleep,1,1,64,1.56
+488,Price and Value,7,7,64,10.94
+488,Room and Comfort,26,36,64,40.62
+488,Staff and Service,20,22,64,31.25
+489,Booking and Check-in,3,3,19,15.79
+489,Cleanliness,4,5,19,21.05
+489,Food and Breakfast,3,3,19,15.79
+489,Maintenance and Facilities,1,1,19,5.26
+489,Noise and Sleep,3,3,19,15.79
+489,Price and Value,2,2,19,10.53
+489,Room and Comfort,7,8,19,36.84
+489,Staff and Service,3,3,19,15.79
+490,Booking and Check-in,1,1,10,10.0
+490,Cleanliness,5,8,10,50.0
+490,Maintenance and Facilities,1,1,10,10.0
+490,Noise and Sleep,1,1,10,10.0
+490,Room and Comfort,6,9,10,60.0
+490,Staff and Service,1,1,10,10.0
+493,Cleanliness,3,5,12,25.0
+493,Food and Breakfast,3,9,12,25.0
+493,Maintenance and Facilities,2,4,12,16.67
+493,Room and Comfort,7,10,12,58.33
+493,Staff and Service,6,8,12,50.0
+494,Booking and Check-in,3,6,10,30.0
+494,Cleanliness,6,7,10,60.0
+494,Food and Breakfast,1,1,10,10.0
+494,Maintenance and Facilities,3,4,10,30.0
+494,Room and Comfort,4,5,10,40.0
+494,Staff and Service,4,6,10,40.0
+495,Room and Comfort,2,2,2,100.0
+496,Booking and Check-in,5,9,7,71.43
+496,Cleanliness,2,3,7,28.57
+496,Food and Breakfast,3,3,7,42.86
+496,Room and Comfort,3,3,7,42.86
+496,Staff and Service,4,9,7,57.14
+497,Booking and Check-in,1,1,5,20.0
+497,Cleanliness,4,4,5,80.0
+497,Food and Breakfast,1,1,5,20.0
+497,Room and Comfort,4,6,5,80.0
+499,Cleanliness,7,8,13,53.85
+499,Food and Breakfast,2,2,13,15.38
+499,Maintenance and Facilities,1,1,13,7.69
+499,Price and Value,1,1,13,7.69
+499,Room and Comfort,6,6,13,46.15
+499,Staff and Service,4,4,13,30.77
+503,Cleanliness,1,1,3,33.33
+504,Price and Value,3,3,4,75.0
+504,Staff and Service,3,3,4,75.0
+505,Room and Comfort,1,1,1,100.0
+506,Room and Comfort,1,3,1,100.0
+507,Booking and Check-in,1,1,3,33.33
+507,Cleanliness,2,2,3,66.67
+507,Price and Value,1,1,3,33.33
+507,Room and Comfort,1,1,3,33.33
+507,Staff and Service,1,1,3,33.33
+510,Food and Breakfast,1,2,3,33.33
+510,Room and Comfort,1,2,3,33.33
+510,Staff and Service,1,1,3,33.33
+511,Staff and Service,2,2,4,50.0
+513,Food and Breakfast,2,3,3,66.67
+513,Maintenance and Facilities,1,2,3,33.33
+513,Price and Value,1,1,3,33.33
+513,Room and Comfort,1,1,3,33.33
+513,Staff and Service,1,2,3,33.33
+515,Booking and Check-in,2,2,2,100.0
+515,Room and Comfort,2,4,2,100.0
+515,Staff and Service,1,1,2,50.0
+516,Cleanliness,1,1,2,50.0
+517,Cleanliness,2,2,2,100.0
+517,Price and Value,2,2,2,100.0
+517,Room and Comfort,2,6,2,100.0
+518,Booking and Check-in,2,3,15,13.33
+518,Cleanliness,10,12,15,66.67
+518,Food and Breakfast,2,2,15,13.33
+518,Maintenance and Facilities,2,3,15,13.33
+518,Noise and Sleep,1,2,15,6.67
+518,Price and Value,2,2,15,13.33
+518,Room and Comfort,6,8,15,40.0
+518,Staff and Service,3,4,15,20.0
+519,Cleanliness,7,15,10,70.0
+519,Food and Breakfast,4,4,10,40.0
+519,Maintenance and Facilities,3,3,10,30.0
+519,Price and Value,1,1,10,10.0
+519,Room and Comfort,7,16,10,70.0
+519,Staff and Service,4,9,10,40.0
+520,Booking and Check-in,11,12,53,20.75
+520,Cleanliness,17,24,53,32.08
+520,Food and Breakfast,15,17,53,28.3
+520,Maintenance and Facilities,9,11,53,16.98
+520,Noise and Sleep,3,3,53,5.66
+520,Price and Value,3,3,53,5.66
+520,Room and Comfort,24,34,53,45.28
+520,Staff and Service,19,23,53,35.85
+521,Booking and Check-in,9,11,49,18.37
+521,Cleanliness,16,25,49,32.65
+521,Food and Breakfast,2,2,49,4.08
+521,Location and Accessibility,2,2,49,4.08
+521,Maintenance and Facilities,13,16,49,26.53
+521,Noise and Sleep,5,6,49,10.2
+521,Price and Value,3,3,49,6.12
+521,Room and Comfort,20,32,49,40.82
+521,Staff and Service,13,16,49,26.53
+523,Booking and Check-in,1,1,2,50.0
+523,Cleanliness,2,2,2,100.0
+526,Booking and Check-in,4,7,41,9.76
+526,Cleanliness,11,12,41,26.83
+526,Food and Breakfast,6,11,41,14.63
+526,Maintenance and Facilities,6,6,41,14.63
+526,Noise and Sleep,15,16,41,36.59
+526,Price and Value,2,3,41,4.88
+526,Room and Comfort,12,19,41,29.27
+526,Staff and Service,11,14,41,26.83
+527,Booking and Check-in,1,1,4,25.0
+527,Cleanliness,1,2,4,25.0
+527,Food and Breakfast,1,2,4,25.0
+527,Maintenance and Facilities,2,3,4,50.0
+527,Room and Comfort,3,3,4,75.0
+527,Staff and Service,1,1,4,25.0
+528,Booking and Check-in,1,1,7,14.29
+528,Food and Breakfast,1,1,7,14.29
+528,Location and Accessibility,1,1,7,14.29
+528,Room and Comfort,1,1,7,14.29
+528,Staff and Service,6,6,7,85.71
+530,Room and Comfort,1,1,1,100.0
+531,Booking and Check-in,2,3,6,33.33
+531,Cleanliness,1,1,6,16.67
+531,Location and Accessibility,1,1,6,16.67
+531,Maintenance and Facilities,1,1,6,16.67
+531,Room and Comfort,3,3,6,50.0
+531,Staff and Service,1,1,6,16.67
+532,Booking and Check-in,1,2,1,100.0
+533,Cleanliness,3,3,3,100.0
+533,Room and Comfort,2,2,3,66.67
+533,Staff and Service,1,1,3,33.33
+534,Cleanliness,1,1,3,33.33
+534,Room and Comfort,1,1,3,33.33
+534,Staff and Service,1,1,3,33.33
+535,Booking and Check-in,1,1,13,7.69
+535,Cleanliness,6,8,13,46.15
+535,Food and Breakfast,1,1,13,7.69
+535,Maintenance and Facilities,4,4,13,30.77
+535,Noise and Sleep,1,1,13,7.69
+535,Price and Value,1,1,13,7.69
+535,Room and Comfort,8,8,13,61.54
+535,Staff and Service,1,1,13,7.69
+536,Cleanliness,1,1,1,100.0
+536,Food and Breakfast,1,1,1,100.0
+536,Room and Comfort,1,1,1,100.0
+537,Cleanliness,2,5,2,100.0
+537,Room and Comfort,2,3,2,100.0
+538,Booking and Check-in,1,1,7,14.29
+538,Cleanliness,3,4,7,42.86
+538,Food and Breakfast,1,1,7,14.29
+538,Location and Accessibility,1,1,7,14.29
+538,Maintenance and Facilities,1,1,7,14.29
+538,Room and Comfort,3,4,7,42.86
+538,Staff and Service,1,1,7,14.29
+539,Cleanliness,5,5,10,50.0
+539,Food and Breakfast,2,3,10,20.0
+539,Maintenance and Facilities,3,3,10,30.0
+539,Noise and Sleep,2,2,10,20.0
+539,Room and Comfort,3,3,10,30.0
+539,Staff and Service,2,2,10,20.0
+540,Booking and Check-in,1,1,7,14.29
+540,Cleanliness,3,6,7,42.86
+540,Noise and Sleep,1,1,7,14.29
+540,Price and Value,1,2,7,14.29
+540,Room and Comfort,4,6,7,57.14
+540,Staff and Service,6,7,7,85.71
+541,Booking and Check-in,4,4,43,9.3
+541,Cleanliness,18,21,43,41.86
+541,Food and Breakfast,1,1,43,2.33
+541,Maintenance and Facilities,13,18,43,30.23
+541,Noise and Sleep,7,9,43,16.28
+541,Price and Value,5,6,43,11.63
+541,Room and Comfort,23,30,43,53.49
+541,Staff and Service,13,19,43,30.23
+542,Cleanliness,1,1,5,20.0
+542,Food and Breakfast,1,2,5,20.0
+542,Room and Comfort,1,1,5,20.0
+542,Staff and Service,1,1,5,20.0
+543,Booking and Check-in,1,1,23,4.35
+543,Cleanliness,14,22,23,60.87
+543,Food and Breakfast,5,7,23,21.74
+543,Maintenance and Facilities,1,1,23,4.35
+543,Noise and Sleep,1,1,23,4.35
+543,Price and Value,1,1,23,4.35
+543,Room and Comfort,9,12,23,39.13
+543,Staff and Service,6,6,23,26.09
+544,Booking and Check-in,2,2,30,6.67
+544,Cleanliness,21,30,30,70.0
+544,Food and Breakfast,4,6,30,13.33
+544,Maintenance and Facilities,2,2,30,6.67
+544,Price and Value,2,2,30,6.67
+544,Room and Comfort,14,16,30,46.67
+544,Staff and Service,9,9,30,30.0
+545,Booking and Check-in,1,1,19,5.26
+545,Cleanliness,12,16,19,63.16
+545,Food and Breakfast,2,2,19,10.53
+545,Maintenance and Facilities,1,1,19,5.26
+545,Noise and Sleep,1,1,19,5.26
+545,Price and Value,1,1,19,5.26
+545,Room and Comfort,9,11,19,47.37
+545,Staff and Service,4,5,19,21.05
+546,Booking and Check-in,1,2,12,8.33
+546,Cleanliness,3,5,12,25.0
+546,Food and Breakfast,2,4,12,16.67
+546,Room and Comfort,5,6,12,41.67
+546,Staff and Service,3,3,12,25.0
+547,Booking and Check-in,4,6,23,17.39
+547,Cleanliness,15,22,23,65.22
+547,Food and Breakfast,5,6,23,21.74
+547,Maintenance and Facilities,6,7,23,26.09
+547,Noise and Sleep,1,1,23,4.35
+547,Price and Value,2,2,23,8.7
+547,Room and Comfort,13,24,23,56.52
+547,Staff and Service,5,6,23,21.74
+549,Food and Breakfast,1,2,2,50.0
+549,Noise and Sleep,1,1,2,50.0
+549,Staff and Service,1,2,2,50.0
+550,Booking and Check-in,3,4,14,21.43
+550,Cleanliness,5,9,14,35.71
+550,Food and Breakfast,1,1,14,7.14
+550,Maintenance and Facilities,1,1,14,7.14
+550,Price and Value,1,2,14,7.14
+550,Room and Comfort,6,6,14,42.86
+550,Staff and Service,2,2,14,14.29
+552,Booking and Check-in,1,1,10,10.0
+552,Cleanliness,5,5,10,50.0
+552,Food and Breakfast,2,2,10,20.0
+552,Maintenance and Facilities,3,3,10,30.0
+552,Room and Comfort,5,5,10,50.0
+552,Staff and Service,5,7,10,50.0
+553,Booking and Check-in,4,4,25,16.0
+553,Cleanliness,5,6,25,20.0
+553,Food and Breakfast,8,8,25,32.0
+553,Maintenance and Facilities,5,7,25,20.0
+553,Noise and Sleep,2,3,25,8.0
+553,Price and Value,2,2,25,8.0
+553,Room and Comfort,6,6,25,24.0
+553,Staff and Service,7,10,25,28.0
+554,Booking and Check-in,3,3,20,15.0
+554,Cleanliness,6,11,20,30.0
+554,Food and Breakfast,4,5,20,20.0
+554,Maintenance and Facilities,2,4,20,10.0
+554,Price and Value,1,1,20,5.0
+554,Room and Comfort,9,12,20,45.0
+554,Staff and Service,5,8,20,25.0
+555,Booking and Check-in,2,2,22,9.09
+555,Cleanliness,8,13,22,36.36
+555,Food and Breakfast,3,4,22,13.64
+555,Maintenance and Facilities,3,3,22,13.64
+555,Noise and Sleep,2,2,22,9.09
+555,Price and Value,4,4,22,18.18
+555,Room and Comfort,8,9,22,36.36
+555,Staff and Service,7,8,22,31.82
+556,Cleanliness,3,3,7,42.86
+556,Food and Breakfast,2,2,7,28.57
+556,Maintenance and Facilities,2,2,7,28.57
+556,Noise and Sleep,1,1,7,14.29
+556,Room and Comfort,3,3,7,42.86
+557,Booking and Check-in,2,2,13,15.38
+557,Cleanliness,2,2,13,15.38
+557,Food and Breakfast,1,1,13,7.69
+557,Maintenance and Facilities,1,1,13,7.69
+557,Noise and Sleep,3,3,13,23.08
+557,Room and Comfort,7,7,13,53.85
+557,Staff and Service,2,3,13,15.38
+558,Booking and Check-in,2,4,18,11.11
+558,Cleanliness,8,14,18,44.44
+558,Food and Breakfast,6,7,18,33.33
+558,Maintenance and Facilities,1,1,18,5.56
+558,Noise and Sleep,1,1,18,5.56
+558,Price and Value,2,2,18,11.11
+558,Room and Comfort,13,23,18,72.22
+558,Staff and Service,11,15,18,61.11
+559,Booking and Check-in,4,4,36,11.11
+559,Cleanliness,18,21,36,50.0
+559,Food and Breakfast,9,12,36,25.0
+559,Location and Accessibility,2,2,36,5.56
+559,Maintenance and Facilities,3,3,36,8.33
+559,Noise and Sleep,1,1,36,2.78
+559,Price and Value,2,2,36,5.56
+559,Room and Comfort,13,13,36,36.11
+559,Staff and Service,11,12,36,30.56
+560,Booking and Check-in,3,5,15,20.0
+560,Cleanliness,6,13,15,40.0
+560,Food and Breakfast,1,1,15,6.67
+560,Maintenance and Facilities,1,1,15,6.67
+560,Room and Comfort,9,15,15,60.0
+560,Staff and Service,3,3,15,20.0
+561,Booking and Check-in,2,2,10,20.0
+561,Cleanliness,4,4,10,40.0
+561,Food and Breakfast,3,4,10,30.0
+561,Maintenance and Facilities,1,1,10,10.0
+561,Room and Comfort,6,8,10,60.0
+561,Staff and Service,3,4,10,30.0
+562,Booking and Check-in,2,2,8,25.0
+562,Cleanliness,1,1,8,12.5
+562,Food and Breakfast,4,4,8,50.0
+562,Maintenance and Facilities,1,1,8,12.5
+562,Noise and Sleep,2,2,8,25.0
+562,Room and Comfort,4,5,8,50.0
+562,Staff and Service,3,3,8,37.5
+563,Booking and Check-in,1,1,17,5.88
+563,Cleanliness,7,11,17,41.18
+563,Food and Breakfast,3,4,17,17.65
+563,Maintenance and Facilities,1,1,17,5.88
+563,Noise and Sleep,1,1,17,5.88
+563,Room and Comfort,9,13,17,52.94
+563,Staff and Service,6,7,17,35.29
+564,Booking and Check-in,3,5,25,12.0
+564,Cleanliness,8,11,25,32.0
+564,Food and Breakfast,9,12,25,36.0
+564,Maintenance and Facilities,8,9,25,32.0
+564,Price and Value,1,1,25,4.0
+564,Room and Comfort,9,10,25,36.0
+564,Staff and Service,5,8,25,20.0
+565,Food and Breakfast,1,1,4,25.0
+565,Staff and Service,1,1,4,25.0
+566,Cleanliness,1,1,3,33.33
+566,Food and Breakfast,1,1,3,33.33
+566,Maintenance and Facilities,2,2,3,66.67
+566,Room and Comfort,2,2,3,66.67
+567,Booking and Check-in,3,3,22,13.64
+567,Cleanliness,6,7,22,27.27
+567,Food and Breakfast,3,3,22,13.64
+567,Maintenance and Facilities,6,8,22,27.27
+567,Noise and Sleep,2,2,22,9.09
+567,Room and Comfort,11,16,22,50.0
+567,Staff and Service,1,1,22,4.55
+568,Cleanliness,6,7,20,30.0
+568,Food and Breakfast,5,7,20,25.0
+568,Maintenance and Facilities,3,5,20,15.0
+568,Noise and Sleep,3,3,20,15.0
+568,Room and Comfort,12,14,20,60.0
+568,Staff and Service,5,7,20,25.0
+569,Booking and Check-in,3,6,26,11.54
+569,Cleanliness,9,11,26,34.62
+569,Food and Breakfast,8,11,26,30.77
+569,Maintenance and Facilities,7,7,26,26.92
+569,Noise and Sleep,1,1,26,3.85
+569,Price and Value,1,1,26,3.85
+569,Room and Comfort,6,9,26,23.08
+569,Staff and Service,7,9,26,26.92
+571,Booking and Check-in,1,1,2,50.0
+571,Cleanliness,1,1,2,50.0
+571,Staff and Service,2,2,2,100.0
+572,Booking and Check-in,18,23,66,27.27
+572,Cleanliness,14,18,66,21.21
+572,Food and Breakfast,8,13,66,12.12
+572,Location and Accessibility,1,2,66,1.52
+572,Maintenance and Facilities,13,17,66,19.7
+572,Noise and Sleep,12,13,66,18.18
+572,Price and Value,7,10,66,10.61
+572,Room and Comfort,38,55,66,57.58
+572,Staff and Service,31,57,66,46.97
+573,Cleanliness,1,2,1,100.0
+573,Food and Breakfast,1,1,1,100.0
+573,Price and Value,1,1,1,100.0
+573,Room and Comfort,1,3,1,100.0
+573,Staff and Service,1,1,1,100.0
+575,Room and Comfort,1,1,3,33.33
+576,Booking and Check-in,1,1,2,50.0
+576,Staff and Service,1,2,2,50.0
+577,Booking and Check-in,2,3,9,22.22
+577,Cleanliness,3,5,9,33.33
+577,Maintenance and Facilities,1,1,9,11.11
+577,Room and Comfort,4,5,9,44.44
+577,Staff and Service,7,7,9,77.78
+578,Booking and Check-in,4,6,4,100.0
+578,Cleanliness,2,2,4,50.0
+578,Food and Breakfast,2,2,4,50.0
+578,Noise and Sleep,2,2,4,50.0
+578,Room and Comfort,4,4,4,100.0
+578,Staff and Service,3,3,4,75.0
+580,Room and Comfort,2,2,2,100.0
+580,Staff and Service,1,1,2,50.0
+582,Cleanliness,1,4,1,100.0
+582,Room and Comfort,1,2,1,100.0
+582,Staff and Service,1,2,1,100.0
+584,Booking and Check-in,1,1,10,10.0
+584,Cleanliness,5,6,10,50.0
+584,Food and Breakfast,3,5,10,30.0
+584,Maintenance and Facilities,2,2,10,20.0
+584,Room and Comfort,6,9,10,60.0
+584,Staff and Service,2,6,10,20.0
+585,Booking and Check-in,1,1,3,33.33
+585,Food and Breakfast,2,2,3,66.67
+585,Staff and Service,1,2,3,33.33
+586,Food and Breakfast,1,2,2,50.0
+588,Cleanliness,2,2,18,11.11
+588,Food and Breakfast,4,4,18,22.22
+588,Room and Comfort,1,1,18,5.56
+590,Cleanliness,2,3,4,50.0
+590,Maintenance and Facilities,1,1,4,25.0
+590,Noise and Sleep,1,1,4,25.0
+590,Room and Comfort,1,2,4,25.0
+591,Food and Breakfast,2,2,4,50.0
+591,Room and Comfort,2,5,4,50.0
+591,Staff and Service,1,1,4,25.0
+592,Booking and Check-in,1,1,9,11.11
+592,Cleanliness,2,2,9,22.22
+592,Food and Breakfast,2,3,9,22.22
+592,Maintenance and Facilities,2,4,9,22.22
+592,Room and Comfort,3,8,9,33.33
+592,Staff and Service,9,14,9,100.0
+594,Booking and Check-in,9,16,38,23.68
+594,Cleanliness,16,25,38,42.11
+594,Food and Breakfast,3,4,38,7.89
+594,Maintenance and Facilities,2,2,38,5.26
+594,Noise and Sleep,1,2,38,2.63
+594,Price and Value,1,1,38,2.63
+594,Room and Comfort,20,29,38,52.63
+594,Staff and Service,12,18,38,31.58
+595,Booking and Check-in,1,1,3,33.33
+595,Cleanliness,1,2,3,33.33
+595,Maintenance and Facilities,1,1,3,33.33
+595,Room and Comfort,2,3,3,66.67
+596,Booking and Check-in,1,1,13,7.69
+596,Cleanliness,7,9,13,53.85
+596,Food and Breakfast,2,2,13,15.38
+596,Price and Value,1,1,13,7.69
+596,Room and Comfort,6,9,13,46.15
+596,Staff and Service,3,3,13,23.08
+598,Booking and Check-in,6,6,54,11.11
+598,Cleanliness,22,27,54,40.74
+598,Food and Breakfast,17,25,54,31.48
+598,Location and Accessibility,1,1,54,1.85
+598,Maintenance and Facilities,18,19,54,33.33
+598,Noise and Sleep,4,4,54,7.41
+598,Price and Value,5,9,54,9.26
+598,Room and Comfort,29,43,54,53.7
+598,Staff and Service,15,18,54,27.78
+599,Booking and Check-in,1,1,7,14.29
+599,Cleanliness,4,4,7,57.14
+599,Food and Breakfast,2,3,7,28.57
+599,Noise and Sleep,1,1,7,14.29
+599,Room and Comfort,4,4,7,57.14
+599,Staff and Service,1,2,7,14.29
+600,Booking and Check-in,2,2,9,22.22
+600,Cleanliness,4,5,9,44.44
+600,Maintenance and Facilities,2,3,9,22.22
+600,Price and Value,1,1,9,11.11
+600,Room and Comfort,5,5,9,55.56
+600,Staff and Service,5,6,9,55.56
+602,Maintenance and Facilities,1,2,1,100.0
+602,Staff and Service,1,1,1,100.0
+604,Booking and Check-in,1,1,6,16.67
+604,Cleanliness,3,5,6,50.0
+604,Maintenance and Facilities,1,1,6,16.67
+604,Price and Value,2,2,6,33.33
+604,Room and Comfort,4,6,6,66.67
+604,Staff and Service,3,6,6,50.0
+605,Booking and Check-in,1,1,9,11.11
+605,Cleanliness,1,1,9,11.11
+605,Food and Breakfast,9,23,9,100.0
+605,Noise and Sleep,2,2,9,22.22
+605,Staff and Service,4,4,9,44.44
+607,Booking and Check-in,2,2,5,40.0
+607,Cleanliness,1,1,5,20.0
+607,Staff and Service,1,1,5,20.0
+610,Booking and Check-in,1,1,4,25.0
+610,Room and Comfort,2,5,4,50.0
+613,Room and Comfort,1,1,1,100.0
+614,Room and Comfort,1,1,1,100.0
+615,Cleanliness,10,22,17,58.82
+615,Food and Breakfast,4,4,17,23.53
+615,Maintenance and Facilities,2,3,17,11.76
+615,Room and Comfort,7,17,17,41.18
+615,Staff and Service,6,9,17,35.29
+616,Cleanliness,6,8,15,40.0
+616,Food and Breakfast,2,2,15,13.33
+616,Maintenance and Facilities,3,3,15,20.0
+616,Noise and Sleep,1,1,15,6.67
+616,Price and Value,1,1,15,6.67
+616,Room and Comfort,4,8,15,26.67
+616,Staff and Service,7,7,15,46.67
+617,Food and Breakfast,2,2,3,66.67
+618,Booking and Check-in,3,3,20,15.0
+618,Cleanliness,6,6,20,30.0
+618,Food and Breakfast,7,8,20,35.0
+618,Location and Accessibility,1,1,20,5.0
+618,Maintenance and Facilities,2,2,20,10.0
+618,Noise and Sleep,2,2,20,10.0
+618,Price and Value,3,4,20,15.0
+618,Room and Comfort,12,18,20,60.0
+618,Staff and Service,2,2,20,10.0
+621,Food and Breakfast,1,1,2,50.0
+621,Room and Comfort,1,1,2,50.0
+621,Staff and Service,2,3,2,100.0
+622,Cleanliness,4,5,14,28.57
+622,Food and Breakfast,2,4,14,14.29
+622,Maintenance and Facilities,1,1,14,7.14
+622,Noise and Sleep,2,2,14,14.29
+622,Room and Comfort,6,9,14,42.86
+622,Staff and Service,2,3,14,14.29
+623,Booking and Check-in,2,3,3,66.67
+623,Cleanliness,1,1,3,33.33
+623,Room and Comfort,1,1,3,33.33
+623,Staff and Service,2,3,3,66.67
+624,Booking and Check-in,2,4,2,100.0
+624,Staff and Service,1,1,2,50.0
+625,Booking and Check-in,1,2,11,9.09
+625,Cleanliness,4,4,11,36.36
+625,Maintenance and Facilities,1,1,11,9.09
+625,Noise and Sleep,3,5,11,27.27
+625,Price and Value,1,1,11,9.09
+625,Room and Comfort,7,10,11,63.64
+625,Staff and Service,3,3,11,27.27
+626,Booking and Check-in,1,1,1,100.0
+626,Price and Value,1,1,1,100.0
+627,Booking and Check-in,1,2,2,50.0
+627,Cleanliness,1,1,2,50.0
+627,Food and Breakfast,1,1,2,50.0
+627,Staff and Service,1,1,2,50.0
+628,Booking and Check-in,2,3,4,50.0
+628,Price and Value,1,1,4,25.0

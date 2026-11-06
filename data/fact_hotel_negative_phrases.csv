@@ -1,0 +1,2666 @@
+hotel_id,hotel,rank,phrase,review_count,negative_review_count,pct_of_hotel_negative_reviews
+3,40 Berkeley Hostel,1,shared,12,33,36.36
+3,40 Berkeley Hostel,2,hostel,10,33,30.3
+3,40 Berkeley Hostel,3,bathroom,9,33,27.27
+3,40 Berkeley Hostel,4,bathrooms,8,33,24.24
+3,40 Berkeley Hostel,5,location,8,33,24.24
+3,40 Berkeley Hostel,6,boston,7,33,21.21
+3,40 Berkeley Hostel,7,clean,7,33,21.21
+3,40 Berkeley Hostel,8,shared bathroom,7,33,21.21
+3,40 Berkeley Hostel,9,area,6,33,18.18
+3,40 Berkeley Hostel,10,berkeley,6,33,18.18
+3,40 Berkeley Hostel,11,breakfast,5,33,15.15
+3,40 Berkeley Hostel,12,don't,5,33,15.15
+3,40 Berkeley Hostel,13,price,5,33,15.15
+3,40 Berkeley Hostel,14,staff,5,33,15.15
+3,40 Berkeley Hostel,15,basic,4,33,12.12
+3,40 Berkeley Hostel,16,budget,4,33,12.12
+3,40 Berkeley Hostel,17,cheap,4,33,12.12
+3,40 Berkeley Hostel,18,common,4,33,12.12
+3,40 Berkeley Hostel,19,desk,4,33,12.12
+3,40 Berkeley Hostel,20,floor,4,33,12.12
+4,A Bed & Breakfast In Cambridge,1,bathroom,7,11,63.64
+4,A Bed & Breakfast In Cambridge,2,bb,7,11,63.64
+4,A Bed & Breakfast In Cambridge,3,booked,5,11,45.45
+4,A Bed & Breakfast In Cambridge,4,disappointed,5,11,45.45
+4,A Bed & Breakfast In Cambridge,5,reviews,5,11,45.45
+4,A Bed & Breakfast In Cambridge,6,breakfast,4,11,36.36
+4,A Bed & Breakfast In Cambridge,7,clean,4,11,36.36
+4,A Bed & Breakfast In Cambridge,8,uncomfortable,4,11,36.36
+4,A Bed & Breakfast In Cambridge,9,cambridge,3,11,27.27
+4,A Bed & Breakfast In Cambridge,10,decided,3,11,27.27
+4,A Bed & Breakfast In Cambridge,11,experience,3,11,27.27
+4,A Bed & Breakfast In Cambridge,12,great,3,11,27.27
+4,A Bed & Breakfast In Cambridge,13,great reviews,3,11,27.27
+4,A Bed & Breakfast In Cambridge,14,left,3,11,27.27
+4,A Bed & Breakfast In Cambridge,15,looking,3,11,27.27
+4,A Bed & Breakfast In Cambridge,16,morning,3,11,27.27
+4,A Bed & Breakfast In Cambridge,17,nights,3,11,27.27
+4,A Bed & Breakfast In Cambridge,18,nights left,3,11,27.27
+4,A Bed & Breakfast In Cambridge,19,service,3,11,27.27
+4,A Bed & Breakfast In Cambridge,20,tell,3,11,27.27
+10,Ambassadors Inn and Suites,1,didn't,11,39,28.21
+10,Ambassadors Inn and Suites,2,old,7,39,17.95
+10,Ambassadors Inn and Suites,3,dirty,6,39,15.38
+10,Ambassadors Inn and Suites,4,horrible,6,39,15.38
+10,Ambassadors Inn and Suites,5,smell,6,39,15.38
+10,Ambassadors Inn and Suites,6,bathroom,5,39,12.82
+10,Ambassadors Inn and Suites,7,bed,5,39,12.82
+10,Ambassadors Inn and Suites,8,charged,5,39,12.82
+10,Ambassadors Inn and Suites,9,clean,5,39,12.82
+10,Ambassadors Inn and Suites,10,comfortable,5,39,12.82
+10,Ambassadors Inn and Suites,11,door,5,39,12.82
+10,Ambassadors Inn and Suites,12,service,5,39,12.82
+10,Ambassadors Inn and Suites,13,beach,4,39,10.26
+10,Ambassadors Inn and Suites,14,beds,4,39,10.26
+10,Ambassadors Inn and Suites,15,hard,4,39,10.26
+10,Ambassadors Inn and Suites,16,left,4,39,10.26
+10,Ambassadors Inn and Suites,17,looked,4,39,10.26
+10,Ambassadors Inn and Suites,18,people,4,39,10.26
+10,Ambassadors Inn and Suites,19,price,4,39,10.26
+10,Ambassadors Inn and Suites,20,refund,4,39,10.26
+12,American Star Inn and Suites Atlantic City,1,bed,8,37,21.62
+12,American Star Inn and Suites Atlantic City,2,pay,8,37,21.62
+12,American Star Inn and Suites Atlantic City,3,check,7,37,18.92
+12,American Star Inn and Suites Atlantic City,4,desk,7,37,18.92
+12,American Star Inn and Suites Atlantic City,5,didn't,7,37,18.92
+12,American Star Inn and Suites Atlantic City,6,dirty,7,37,18.92
+12,American Star Inn and Suites Atlantic City,7,let,7,37,18.92
+12,American Star Inn and Suites Atlantic City,8,recommend,7,37,18.92
+12,American Star Inn and Suites Atlantic City,9,bathroom,6,37,16.22
+12,American Star Inn and Suites Atlantic City,10,extra,6,37,16.22
+12,American Star Inn and Suites Atlantic City,11,rude,6,37,16.22
+12,American Star Inn and Suites Atlantic City,12,asked,5,37,13.51
+12,American Star Inn and Suites Atlantic City,13,broken,5,37,13.51
+12,American Star Inn and Suites Atlantic City,14,filthy,5,37,13.51
+12,American Star Inn and Suites Atlantic City,15,nasty,5,37,13.51
+12,American Star Inn and Suites Atlantic City,16,staff,5,37,13.51
+12,American Star Inn and Suites Atlantic City,17,toilet,5,37,13.51
+12,American Star Inn and Suites Atlantic City,18,towels,5,37,13.51
+12,American Star Inn and Suites Atlantic City,19,tub,5,37,13.51
+12,American Star Inn and Suites Atlantic City,20,away,4,37,10.81
+13,Americas Best Value Inn,1,desk,50,253,19.76
+13,Americas Best Value Inn,2,dirty,43,253,17.0
+13,Americas Best Value Inn,3,bad,38,253,15.02
+13,Americas Best Value Inn,4,door,37,253,14.62
+13,Americas Best Value Inn,5,bathroom,33,253,13.04
+13,Americas Best Value Inn,6,bed,33,253,13.04
+13,Americas Best Value Inn,7,clean,33,253,13.04
+13,Americas Best Value Inn,8,didn't,33,253,13.04
+13,Americas Best Value Inn,9,breakfast,30,253,11.86
+13,Americas Best Value Inn,10,smelled,30,253,11.86
+13,Americas Best Value Inn,11,checked,29,253,11.46
+13,Americas Best Value Inn,12,staff,29,253,11.46
+13,Americas Best Value Inn,13,left,27,253,10.67
+13,Americas Best Value Inn,14,towels,26,253,10.28
+13,Americas Best Value Inn,15,old,24,253,9.49
+13,Americas Best Value Inn,16,people,24,253,9.49
+13,Americas Best Value Inn,17,price,24,253,9.49
+13,Americas Best Value Inn,18,second,23,253,9.09
+13,Americas Best Value Inn,19,shower,23,253,9.09
+13,Americas Best Value Inn,20,sleep,23,253,9.09
+14,Americas Best Value Inn - Medical Center/airport,1,desk,4,10,40.0
+14,Americas Best Value Inn - Medical Center/airport,2,dirty,4,10,40.0
+15,Americas Best Value Inn and Suites,1,staff,9,30,30.0
+15,Americas Best Value Inn and Suites,2,bathroom,8,30,26.67
+15,Americas Best Value Inn and Suites,3,dirty,8,30,26.67
+15,Americas Best Value Inn and Suites,4,shower,8,30,26.67
+15,Americas Best Value Inn and Suites,5,door,7,30,23.33
+15,Americas Best Value Inn and Suites,6,tv,7,30,23.33
+15,Americas Best Value Inn and Suites,7,floor,5,30,16.67
+15,Americas Best Value Inn and Suites,8,hot,5,30,16.67
+15,Americas Best Value Inn and Suites,9,bed,4,30,13.33
+15,Americas Best Value Inn and Suites,10,desk,4,30,13.33
+15,Americas Best Value Inn and Suites,11,didn't,4,30,13.33
+15,Americas Best Value Inn and Suites,12,filthy,4,30,13.33
+15,Americas Best Value Inn and Suites,13,pool,4,30,13.33
+15,Americas Best Value Inn and Suites,14,sheets,4,30,13.33
+15,Americas Best Value Inn and Suites,15,tub,4,30,13.33
+15,Americas Best Value Inn and Suites,16,breakfast,3,30,10.0
+15,Americas Best Value Inn and Suites,17,clean,3,30,10.0
+15,Americas Best Value Inn and Suites,18,disappointed,3,30,10.0
+15,Americas Best Value Inn and Suites,19,hard,3,30,10.0
+15,Americas Best Value Inn and Suites,20,helpful,3,30,10.0
+16,Americinn Coralville,1,didn't,10,29,34.48
+16,Americinn Coralville,2,desk,9,29,31.03
+16,Americinn Coralville,3,air,8,29,27.59
+16,Americinn Coralville,4,check,7,29,24.14
+16,Americinn Coralville,5,work,7,29,24.14
+16,Americinn Coralville,6,hot,6,29,20.69
+16,Americinn Coralville,7,didn't work,5,29,17.24
+16,Americinn Coralville,8,nice,5,29,17.24
+16,Americinn Coralville,9,sheets,5,29,17.24
+16,Americinn Coralville,10,tub,5,29,17.24
+16,Americinn Coralville,11,went,5,29,17.24
+16,Americinn Coralville,12,air conditioner,4,29,13.79
+16,Americinn Coralville,13,bathroom,4,29,13.79
+16,Americinn Coralville,14,card,4,29,13.79
+16,Americinn Coralville,15,checking,4,29,13.79
+16,Americinn Coralville,16,conditioner,4,29,13.79
+16,Americinn Coralville,17,floor,4,29,13.79
+16,Americinn Coralville,18,hot tub,4,29,13.79
+16,Americinn Coralville,19,leave,4,29,13.79
+16,Americinn Coralville,20,left,4,29,13.79
+22,Anaheim Marriott Suites,1,didn't,7,24,29.17
+22,Anaheim Marriott Suites,2,dirty,6,24,25.0
+22,Anaheim Marriott Suites,3,bed,5,24,20.83
+22,Anaheim Marriott Suites,4,called,4,24,16.67
+22,Anaheim Marriott Suites,5,elevator,4,24,16.67
+22,Anaheim Marriott Suites,6,gave,4,24,16.67
+22,Anaheim Marriott Suites,7,parking,4,24,16.67
+22,Anaheim Marriott Suites,8,asked,3,24,12.5
+22,Anaheim Marriott Suites,9,days,3,24,12.5
+22,Anaheim Marriott Suites,10,desk,3,24,12.5
+22,Anaheim Marriott Suites,11,didnt,3,24,12.5
+22,Anaheim Marriott Suites,12,getting,3,24,12.5
+22,Anaheim Marriott Suites,13,help,3,24,12.5
+22,Anaheim Marriott Suites,14,lot,3,24,12.5
+22,Anaheim Marriott Suites,15,staff,3,24,12.5
+22,Anaheim Marriott Suites,16,took,3,24,12.5
+22,Anaheim Marriott Suites,17,valet,3,24,12.5
+27,Arizona Inn of Prescott Valley,1,desk,8,31,25.81
+27,Arizona Inn of Prescott Valley,2,dirty,8,31,25.81
+27,Arizona Inn of Prescott Valley,3,carpet,7,31,22.58
+27,Arizona Inn of Prescott Valley,4,didn't,7,31,22.58
+27,Arizona Inn of Prescott Valley,5,bath,6,31,19.35
+27,Arizona Inn of Prescott Valley,6,bed,6,31,19.35
+27,Arizona Inn of Prescott Valley,7,left,6,31,19.35
+27,Arizona Inn of Prescott Valley,8,bathroom,5,31,16.13
+27,Arizona Inn of Prescott Valley,9,called,5,31,16.13
+27,Arizona Inn of Prescott Valley,10,bad,4,31,12.9
+27,Arizona Inn of Prescott Valley,11,beds,4,31,12.9
+27,Arizona Inn of Prescott Valley,12,cleaned,4,31,12.9
+27,Arizona Inn of Prescott Valley,13,door,4,31,12.9
+27,Arizona Inn of Prescott Valley,14,filthy,4,31,12.9
+27,Arizona Inn of Prescott Valley,15,food,4,31,12.9
+27,Arizona Inn of Prescott Valley,16,mold,4,31,12.9
+27,Arizona Inn of Prescott Valley,17,parking,4,31,12.9
+27,Arizona Inn of Prescott Valley,18,shower,4,31,12.9
+27,Arizona Inn of Prescott Valley,19,small,4,31,12.9
+27,Arizona Inn of Prescott Valley,20,smelled,4,31,12.9
+36,Baymont Inn & Suites Griffin,1,bed,3,12,25.0
+36,Baymont Inn & Suites Griffin,2,carpet,3,12,25.0
+36,Baymont Inn & Suites Griffin,3,desk,3,12,25.0
+37,Baymont Inn and Suites Boone,1,breakfast,10,31,32.26
+37,Baymont Inn and Suites Boone,2,small,10,31,32.26
+37,Baymont Inn and Suites Boone,3,bed,8,31,25.81
+37,Baymont Inn and Suites Boone,4,tub,8,31,25.81
+37,Baymont Inn and Suites Boone,5,bathroom,7,31,22.58
+37,Baymont Inn and Suites Boone,6,beds,7,31,22.58
+37,Baymont Inn and Suites Boone,7,hot,7,31,22.58
+37,Baymont Inn and Suites Boone,8,hot tub,6,31,19.35
+37,Baymont Inn and Suites Boone,9,sheets,6,31,19.35
+37,Baymont Inn and Suites Boone,10,staff,6,31,19.35
+37,Baymont Inn and Suites Boone,11,checked,5,31,16.13
+37,Baymont Inn and Suites Boone,12,desk,5,31,16.13
+37,Baymont Inn and Suites Boone,13,dirty,5,31,16.13
+37,Baymont Inn and Suites Boone,14,family,5,31,16.13
+37,Baymont Inn and Suites Boone,15,pool,5,31,16.13
+37,Baymont Inn and Suites Boone,16,work,5,31,16.13
+37,Baymont Inn and Suites Boone,17,area,4,31,12.9
+37,Baymont Inn and Suites Boone,18,bad,4,31,12.9
+37,Baymont Inn and Suites Boone,19,baymont,4,31,12.9
+37,Baymont Inn and Suites Boone,20,broken,4,31,12.9
+48,Best Western Hospitality Hotel and Suites,1,desk,10,38,26.32
+48,Best Western Hospitality Hotel and Suites,2,staff,7,38,18.42
+48,Best Western Hospitality Hotel and Suites,3,went,7,38,18.42
+48,Best Western Hospitality Hotel and Suites,4,bed,6,38,15.79
+48,Best Western Hospitality Hotel and Suites,5,booked,6,38,15.79
+48,Best Western Hospitality Hotel and Suites,6,wasn't,6,38,15.79
+48,Best Western Hospitality Hotel and Suites,7,breakfast,5,38,13.16
+48,Best Western Hospitality Hotel and Suites,8,door,5,38,13.16
+48,Best Western Hospitality Hotel and Suites,9,outside,5,38,13.16
+48,Best Western Hospitality Hotel and Suites,10,smell,5,38,13.16
+48,Best Western Hospitality Hotel and Suites,11,work,5,38,13.16
+48,Best Western Hospitality Hotel and Suites,12,called,4,38,10.53
+48,Best Western Hospitality Hotel and Suites,13,don't,4,38,10.53
+48,Best Western Hospitality Hotel and Suites,14,left,4,38,10.53
+48,Best Western Hospitality Hotel and Suites,15,open,4,38,10.53
+48,Best Western Hospitality Hotel and Suites,16,pool,4,38,10.53
+48,Best Western Hospitality Hotel and Suites,17,rate,4,38,10.53
+48,Best Western Hospitality Hotel and Suites,18,smoke,4,38,10.53
+48,Best Western Hospitality Hotel and Suites,19,tub,4,38,10.53
+48,Best Western Hospitality Hotel and Suites,20,able,3,38,7.89
+55,Best Western Plus French Quarter Landmark Hotel,1,small,3,11,27.27
+57,Best Western Plus Kelly Inn,1,booked,4,11,36.36
+57,Best Western Plus Kelly Inn,2,desk,3,11,27.27
+57,Best Western Plus Kelly Inn,3,sure,3,11,27.27
+58,Best Western Plus San Marcos Inn,1,air,10,21,47.62
+58,Best Western Plus San Marcos Inn,2,air conditioning,7,21,33.33
+58,Best Western Plus San Marcos Inn,3,bathroom,7,21,33.33
+58,Best Western Plus San Marcos Inn,4,conditioning,7,21,33.33
+58,Best Western Plus San Marcos Inn,5,it's,6,21,28.57
+58,Best Western Plus San Marcos Inn,6,small,6,21,28.57
+58,Best Western Plus San Marcos Inn,7,best,5,21,23.81
+58,Best Western Plus San Marcos Inn,8,didn't,5,21,23.81
+58,Best Western Plus San Marcos Inn,9,door,5,21,23.81
+58,Best Western Plus San Marcos Inn,10,old,5,21,23.81
+58,Best Western Plus San Marcos Inn,11,walking,5,21,23.81
+58,Best Western Plus San Marcos Inn,12,breakfast,4,21,19.05
+58,Best Western Plus San Marcos Inn,13,fan,4,21,19.05
+58,Best Western Plus San Marcos Inn,14,going,4,21,19.05
+58,Best Western Plus San Marcos Inn,15,window,4,21,19.05
+58,Best Western Plus San Marcos Inn,16,best western,3,21,14.29
+58,Best Western Plus San Marcos Inn,17,ceiling,3,21,14.29
+58,Best Western Plus San Marcos Inn,18,definitely,3,21,14.29
+58,Best Western Plus San Marcos Inn,19,desk,3,21,14.29
+58,Best Western Plus San Marcos Inn,20,feel,3,21,14.29
+59,Best Western Plus Waterville Grand Hotel,1,breakfast,14,45,31.11
+59,Best Western Plus Waterville Grand Hotel,2,clean,9,45,20.0
+59,Best Western Plus Waterville Grand Hotel,3,didn't,9,45,20.0
+59,Best Western Plus Waterville Grand Hotel,4,best,8,45,17.78
+59,Best Western Plus Waterville Grand Hotel,5,free,7,45,15.56
+59,Best Western Plus Waterville Grand Hotel,6,old,7,45,15.56
+59,Best Western Plus Waterville Grand Hotel,7,towels,7,45,15.56
+59,Best Western Plus Waterville Grand Hotel,8,bed,6,45,13.33
+59,Best Western Plus Waterville Grand Hotel,9,best western,6,45,13.33
+59,Best Western Plus Waterville Grand Hotel,10,dirty,6,45,13.33
+59,Best Western Plus Waterville Grand Hotel,11,feel,6,45,13.33
+59,Best Western Plus Waterville Grand Hotel,12,person,6,45,13.33
+59,Best Western Plus Waterville Grand Hotel,13,pool,6,45,13.33
+59,Best Western Plus Waterville Grand Hotel,14,restaurant,6,45,13.33
+59,Best Western Plus Waterville Grand Hotel,15,service,6,45,13.33
+59,Best Western Plus Waterville Grand Hotel,16,shower,6,45,13.33
+59,Best Western Plus Waterville Grand Hotel,17,smell,6,45,13.33
+59,Best Western Plus Waterville Grand Hotel,18,staff,6,45,13.33
+59,Best Western Plus Waterville Grand Hotel,19,use,6,45,13.33
+59,Best Western Plus Waterville Grand Hotel,20,western,6,45,13.33
+64,Best Western of Long Beach,1,staff,12,50,24.0
+64,Best Western of Long Beach,2,area,8,50,16.0
+64,Best Western of Long Beach,3,clean,8,50,16.0
+64,Best Western of Long Beach,4,dirty,8,50,16.0
+64,Best Western of Long Beach,5,location,8,50,16.0
+64,Best Western of Long Beach,6,bad,7,50,14.0
+64,Best Western of Long Beach,7,cruise,7,50,14.0
+64,Best Western of Long Beach,8,didn't,7,50,14.0
+64,Best Western of Long Beach,9,bathroom,6,50,12.0
+64,Best Western of Long Beach,10,breakfast,6,50,12.0
+64,Best Western of Long Beach,11,carpet,6,50,12.0
+64,Best Western of Long Beach,12,elevator,6,50,12.0
+64,Best Western of Long Beach,13,bed,5,50,10.0
+64,Best Western of Long Beach,14,ended,5,50,10.0
+64,Best Western of Long Beach,15,great,5,50,10.0
+64,Best Western of Long Beach,16,high,5,50,10.0
+64,Best Western of Long Beach,17,long,5,50,10.0
+64,Best Western of Long Beach,18,old,5,50,10.0
+64,Best Western of Long Beach,19,price,5,50,10.0
+64,Best Western of Long Beach,20,service,5,50,10.0
+83,Campus Inn & Suites Eugene Downtown,1,bed,8,25,32.0
+83,Campus Inn & Suites Eugene Downtown,2,smelled,7,25,28.0
+83,Campus Inn & Suites Eugene Downtown,3,dirty,6,25,24.0
+83,Campus Inn & Suites Eugene Downtown,4,felt,5,25,20.0
+83,Campus Inn & Suites Eugene Downtown,5,old,5,25,20.0
+83,Campus Inn & Suites Eugene Downtown,6,asked,4,25,16.0
+83,Campus Inn & Suites Eugene Downtown,7,bathroom,4,25,16.0
+83,Campus Inn & Suites Eugene Downtown,8,sheets,4,25,16.0
+83,Campus Inn & Suites Eugene Downtown,9,shower,4,25,16.0
+83,Campus Inn & Suites Eugene Downtown,10,uncomfortable,4,25,16.0
+83,Campus Inn & Suites Eugene Downtown,11,area,3,25,12.0
+83,Campus Inn & Suites Eugene Downtown,12,carpet,3,25,12.0
+83,Campus Inn & Suites Eugene Downtown,13,didn't,3,25,12.0
+83,Campus Inn & Suites Eugene Downtown,14,floor,3,25,12.0
+83,Campus Inn & Suites Eugene Downtown,15,lot,3,25,12.0
+83,Campus Inn & Suites Eugene Downtown,16,morning,3,25,12.0
+83,Campus Inn & Suites Eugene Downtown,17,needed,3,25,12.0
+83,Campus Inn & Suites Eugene Downtown,18,nice,3,25,12.0
+83,Campus Inn & Suites Eugene Downtown,19,unpleasant,3,25,12.0
+93,Castle Kona Reef,1,door,5,11,45.45
+93,Castle Kona Reef,2,dirty,4,11,36.36
+93,Castle Kona Reef,3,shower,4,11,36.36
+93,Castle Kona Reef,4,bed,3,11,27.27
+93,Castle Kona Reef,5,bedroom,3,11,27.27
+93,Castle Kona Reef,6,clean,3,11,27.27
+93,Castle Kona Reef,7,didn't,3,11,27.27
+93,Castle Kona Reef,8,unit,3,11,27.27
+93,Castle Kona Reef,9,view,3,11,27.27
+97,Cherry Orchard Inn,1,old,6,22,27.27
+97,Cherry Orchard Inn,2,bed,5,22,22.73
+97,Cherry Orchard Inn,3,staff,5,22,22.73
+97,Cherry Orchard Inn,4,desk,4,22,18.18
+97,Cherry Orchard Inn,5,elevator,4,22,18.18
+97,Cherry Orchard Inn,6,need,4,22,18.18
+97,Cherry Orchard Inn,7,apart,3,22,13.64
+97,Cherry Orchard Inn,8,didn't,3,22,13.64
+97,Cherry Orchard Inn,9,dirty,3,22,13.64
+97,Cherry Orchard Inn,10,ended,3,22,13.64
+97,Cherry Orchard Inn,11,extremely,3,22,13.64
+97,Cherry Orchard Inn,12,falling,3,22,13.64
+97,Cherry Orchard Inn,13,falling apart,3,22,13.64
+97,Cherry Orchard Inn,14,friendly,3,22,13.64
+97,Cherry Orchard Inn,15,morning,3,22,13.64
+97,Cherry Orchard Inn,16,motel,3,22,13.64
+97,Cherry Orchard Inn,17,okay,3,22,13.64
+97,Cherry Orchard Inn,18,shower,3,22,13.64
+97,Cherry Orchard Inn,19,tv,3,22,13.64
+109,Comfort Inn,1,desk,6,23,26.09
+109,Comfort Inn,2,floor,4,23,17.39
+109,Comfort Inn,3,people,4,23,17.39
+109,Comfort Inn,4,staff,4,23,17.39
+109,Comfort Inn,5,went,4,23,17.39
+109,Comfort Inn,6,work,4,23,17.39
+109,Comfort Inn,7,area,3,23,13.04
+109,Comfort Inn,8,asked,3,23,13.04
+109,Comfort Inn,9,booked,3,23,13.04
+109,Comfort Inn,10,change,3,23,13.04
+109,Comfort Inn,11,checked,3,23,13.04
+109,Comfort Inn,12,comfort,3,23,13.04
+109,Comfort Inn,13,construction,3,23,13.04
+109,Comfort Inn,14,didn't,3,23,13.04
+109,Comfort Inn,15,door,3,23,13.04
+109,Comfort Inn,16,given,3,23,13.04
+109,Comfort Inn,17,pool,3,23,13.04
+111,Comfort Inn - Springfield,1,desk,5,14,35.71
+111,Comfort Inn - Springfield,2,didn't,5,14,35.71
+111,Comfort Inn - Springfield,3,breakfast,4,14,28.57
+111,Comfort Inn - Springfield,4,staff,4,14,28.57
+111,Comfort Inn - Springfield,5,inn,3,14,21.43
+111,Comfort Inn - Springfield,6,late,3,14,21.43
+112,Comfort Inn Birmingham - Irondale,1,desk,6,17,35.29
+112,Comfort Inn Birmingham - Irondale,2,people,5,17,29.41
+112,Comfort Inn Birmingham - Irondale,3,bed,4,17,23.53
+112,Comfort Inn Birmingham - Irondale,4,comfort,4,17,23.53
+112,Comfort Inn Birmingham - Irondale,5,comfort inn,4,17,23.53
+112,Comfort Inn Birmingham - Irondale,6,didn't,4,17,23.53
+112,Comfort Inn Birmingham - Irondale,7,inn,4,17,23.53
+112,Comfort Inn Birmingham - Irondale,8,nights,4,17,23.53
+112,Comfort Inn Birmingham - Irondale,9,area,3,17,17.65
+112,Comfort Inn Birmingham - Irondale,10,charge,3,17,17.65
+112,Comfort Inn Birmingham - Irondale,11,check,3,17,17.65
+112,Comfort Inn Birmingham - Irondale,12,great,3,17,17.65
+112,Comfort Inn Birmingham - Irondale,13,motel,3,17,17.65
+112,Comfort Inn Birmingham - Irondale,14,nice,3,17,17.65
+112,Comfort Inn Birmingham - Irondale,15,phone,3,17,17.65
+112,Comfort Inn Birmingham - Irondale,16,sleep,3,17,17.65
+112,Comfort Inn Birmingham - Irondale,17,staff,3,17,17.65
+112,Comfort Inn Birmingham - Irondale,18,wifi,3,17,17.65
+112,Comfort Inn Birmingham - Irondale,19,worked,3,17,17.65
+120,Comfort Inn and Suites O'fallon,1,floor,9,16,56.25
+120,Comfort Inn and Suites O'fallon,2,breakfast,7,16,43.75
+120,Comfort Inn and Suites O'fallon,3,clean,7,16,43.75
+120,Comfort Inn and Suites O'fallon,4,desk,5,16,31.25
+120,Comfort Inn and Suites O'fallon,5,toilet,5,16,31.25
+120,Comfort Inn and Suites O'fallon,6,area,4,16,25.0
+120,Comfort Inn and Suites O'fallon,7,bathroom,4,16,25.0
+120,Comfort Inn and Suites O'fallon,8,didn't,4,16,25.0
+120,Comfort Inn and Suites O'fallon,9,evening,4,16,25.0
+120,Comfort Inn and Suites O'fallon,10,ok,4,16,25.0
+120,Comfort Inn and Suites O'fallon,11,overnight,4,16,25.0
+120,Comfort Inn and Suites O'fallon,12,pool,4,16,25.0
+120,Comfort Inn and Suites O'fallon,13,sheets,4,16,25.0
+120,Comfort Inn and Suites O'fallon,14,stained,4,16,25.0
+120,Comfort Inn and Suites O'fallon,15,tried,4,16,25.0
+120,Comfort Inn and Suites O'fallon,16,bathroom floor,3,16,18.75
+120,Comfort Inn and Suites O'fallon,17,breakfast ok,3,16,18.75
+120,Comfort Inn and Suites O'fallon,18,broken,3,16,18.75
+120,Comfort Inn and Suites O'fallon,19,busy,3,16,18.75
+120,Comfort Inn and Suites O'fallon,20,disappointed,3,16,18.75
+121,Comfort Suites,1,bed,10,49,20.41
+121,Comfort Suites,2,desk,10,49,20.41
+121,Comfort Suites,3,didn't,10,49,20.41
+121,Comfort Suites,4,staff,10,49,20.41
+121,Comfort Suites,5,comfort,9,49,18.37
+121,Comfort Suites,6,door,9,49,18.37
+121,Comfort Suites,7,suites,9,49,18.37
+121,Comfort Suites,8,floor,8,49,16.33
+121,Comfort Suites,9,rude,8,49,16.33
+121,Comfort Suites,10,bathroom,7,49,14.29
+121,Comfort Suites,11,breakfast,7,49,14.29
+121,Comfort Suites,12,comfort suites,7,49,14.29
+121,Comfort Suites,13,large,7,49,14.29
+121,Comfort Suites,14,leave,7,49,14.29
+121,Comfort Suites,15,morning,7,49,14.29
+121,Comfort Suites,16,arrived,6,49,12.24
+121,Comfort Suites,17,broken,6,49,12.24
+121,Comfort Suites,18,checked,6,49,12.24
+121,Comfort Suites,19,left,6,49,12.24
+121,Comfort Suites,20,pool,6,49,12.24
+130,Country Inn and Suites By Carlson,1,bathroom,4,15,26.67
+130,Country Inn and Suites By Carlson,2,staff,4,15,26.67
+130,Country Inn and Suites By Carlson,3,work,4,15,26.67
+130,Country Inn and Suites By Carlson,4,bed,3,15,20.0
+130,Country Inn and Suites By Carlson,5,breakfast,3,15,20.0
+130,Country Inn and Suites By Carlson,6,didn't,3,15,20.0
+130,Country Inn and Suites By Carlson,7,disappointed,3,15,20.0
+130,Country Inn and Suites By Carlson,8,horrible,3,15,20.0
+130,Country Inn and Suites By Carlson,9,inn,3,15,20.0
+130,Country Inn and Suites By Carlson,10,pool,3,15,20.0
+131,Country Inn and Suites By Carlson Charlotte University Place,1,desk,5,17,29.41
+131,Country Inn and Suites By Carlson Charlotte University Place,2,asked,4,17,23.53
+131,Country Inn and Suites By Carlson Charlotte University Place,3,bed,4,17,23.53
+131,Country Inn and Suites By Carlson Charlotte University Place,4,booked,4,17,23.53
+131,Country Inn and Suites By Carlson Charlotte University Place,5,called,4,17,23.53
+131,Country Inn and Suites By Carlson Charlotte University Place,6,morning,4,17,23.53
+131,Country Inn and Suites By Carlson Charlotte University Place,7,nice,4,17,23.53
+131,Country Inn and Suites By Carlson Charlotte University Place,8,staff,4,17,23.53
+131,Country Inn and Suites By Carlson Charlotte University Place,9,available,3,17,17.65
+131,Country Inn and Suites By Carlson Charlotte University Place,10,didn't,3,17,17.65
+131,Country Inn and Suites By Carlson Charlotte University Place,11,going,3,17,17.65
+131,Country Inn and Suites By Carlson Charlotte University Place,12,lot,3,17,17.65
+131,Country Inn and Suites By Carlson Charlotte University Place,13,work,3,17,17.65
+144,Crossland Economy Studios - Lake Charles - Sulphur,1,bathroom,6,34,17.65
+144,Crossland Economy Studios - Lake Charles - Sulphur,2,didn't,6,34,17.65
+144,Crossland Economy Studios - Lake Charles - Sulphur,3,bad,5,34,14.71
+144,Crossland Economy Studios - Lake Charles - Sulphur,4,bed,5,34,14.71
+144,Crossland Economy Studios - Lake Charles - Sulphur,5,dirty,5,34,14.71
+144,Crossland Economy Studios - Lake Charles - Sulphur,6,wasn't,5,34,14.71
+144,Crossland Economy Studios - Lake Charles - Sulphur,7,booked,4,34,11.76
+144,Crossland Economy Studios - Lake Charles - Sulphur,8,carpet,4,34,11.76
+144,Crossland Economy Studios - Lake Charles - Sulphur,9,ceiling,4,34,11.76
+144,Crossland Economy Studios - Lake Charles - Sulphur,10,motel,4,34,11.76
+144,Crossland Economy Studios - Lake Charles - Sulphur,11,smoking,4,34,11.76
+144,Crossland Economy Studios - Lake Charles - Sulphur,12,work,4,34,11.76
+144,Crossland Economy Studios - Lake Charles - Sulphur,13,arrived,3,34,8.82
+144,Crossland Economy Studios - Lake Charles - Sulphur,14,booking,3,34,8.82
+144,Crossland Economy Studios - Lake Charles - Sulphur,15,clean,3,34,8.82
+144,Crossland Economy Studios - Lake Charles - Sulphur,16,door,3,34,8.82
+144,Crossland Economy Studios - Lake Charles - Sulphur,17,early,3,34,8.82
+144,Crossland Economy Studios - Lake Charles - Sulphur,18,far,3,34,8.82
+144,Crossland Economy Studios - Lake Charles - Sulphur,19,hanging,3,34,8.82
+144,Crossland Economy Studios - Lake Charles - Sulphur,20,hear,3,34,8.82
+148,Days Inn & Suites Castle Rock,1,dirty,13,51,25.49
+148,Days Inn & Suites Castle Rock,2,breakfast,12,51,23.53
+148,Days Inn & Suites Castle Rock,3,desk,12,51,23.53
+148,Days Inn & Suites Castle Rock,4,smell,11,51,21.57
+148,Days Inn & Suites Castle Rock,5,staff,10,51,19.61
+148,Days Inn & Suites Castle Rock,6,bed,9,51,17.65
+148,Days Inn & Suites Castle Rock,7,didn't,9,51,17.65
+148,Days Inn & Suites Castle Rock,8,sheets,9,51,17.65
+148,Days Inn & Suites Castle Rock,9,smelled,9,51,17.65
+148,Days Inn & Suites Castle Rock,10,towels,9,51,17.65
+148,Days Inn & Suites Castle Rock,11,floor,8,51,15.69
+148,Days Inn & Suites Castle Rock,12,pool,8,51,15.69
+148,Days Inn & Suites Castle Rock,13,smoke,8,51,15.69
+148,Days Inn & Suites Castle Rock,14,beds,7,51,13.73
+148,Days Inn & Suites Castle Rock,15,booked,7,51,13.73
+148,Days Inn & Suites Castle Rock,16,days,7,51,13.73
+148,Days Inn & Suites Castle Rock,17,people,7,51,13.73
+148,Days Inn & Suites Castle Rock,18,toilet,7,51,13.73
+148,Days Inn & Suites Castle Rock,19,clean,6,51,11.76
+148,Days Inn & Suites Castle Rock,20,cleaned,6,51,11.76
+152,Days Inn Bowling Green,1,door,14,25,56.0
+152,Days Inn Bowling Green,2,dirty,9,25,36.0
+152,Days Inn Bowling Green,3,lock,7,25,28.0
+152,Days Inn Bowling Green,4,doors,6,25,24.0
+152,Days Inn Bowling Green,5,bathroom,5,25,20.0
+152,Days Inn Bowling Green,6,old,5,25,20.0
+152,Days Inn Bowling Green,7,walls,5,25,20.0
+152,Days Inn Bowling Green,8,air,4,25,16.0
+152,Days Inn Bowling Green,9,broken,4,25,16.0
+152,Days Inn Bowling Green,10,stains,4,25,16.0
+152,Days Inn Bowling Green,11,bed,3,25,12.0
+152,Days Inn Bowling Green,12,bowling,3,25,12.0
+152,Days Inn Bowling Green,13,bowling green,3,25,12.0
+152,Days Inn Bowling Green,14,carpet,3,25,12.0
+152,Days Inn Bowling Green,15,days,3,25,12.0
+152,Days Inn Bowling Green,16,desk,3,25,12.0
+152,Days Inn Bowling Green,17,didn't,3,25,12.0
+152,Days Inn Bowling Green,18,green,3,25,12.0
+152,Days Inn Bowling Green,19,holes,3,25,12.0
+152,Days Inn Bowling Green,20,hours,3,25,12.0
+154,Days Inn Brookings,1,construction,6,21,28.57
+154,Days Inn Brookings,2,bathroom,5,21,23.81
+154,Days Inn Brookings,3,beds,5,21,23.81
+154,Days Inn Brookings,4,dirty,5,21,23.81
+154,Days Inn Brookings,5,bed,4,21,19.05
+154,Days Inn Brookings,6,doors,4,21,19.05
+154,Days Inn Brookings,7,hallways,4,21,19.05
+154,Days Inn Brookings,8,area,3,21,14.29
+154,Days Inn Brookings,9,bad,3,21,14.29
+154,Days Inn Brookings,10,breakfast,3,21,14.29
+154,Days Inn Brookings,11,came,3,21,14.29
+154,Days Inn Brookings,12,car,3,21,14.29
+154,Days Inn Brookings,13,coffee,3,21,14.29
+154,Days Inn Brookings,14,desk,3,21,14.29
+154,Days Inn Brookings,15,didn't,3,21,14.29
+154,Days Inn Brookings,16,probably,3,21,14.29
+154,Days Inn Brookings,17,staff,3,21,14.29
+154,Days Inn Brookings,18,walk,3,21,14.29
+154,Days Inn Brookings,19,went,3,21,14.29
+155,Days Inn El Reno Ok,1,different,3,10,30.0
+156,Days Inn Fort Wayne,1,clean,6,23,26.09
+156,Days Inn Fort Wayne,2,didn't,5,23,21.74
+156,Days Inn Fort Wayne,3,dirty,5,23,21.74
+156,Days Inn Fort Wayne,4,air,4,23,17.39
+156,Days Inn Fort Wayne,5,ceiling,4,23,17.39
+156,Days Inn Fort Wayne,6,desk,4,23,17.39
+156,Days Inn Fort Wayne,7,floor,4,23,17.39
+156,Days Inn Fort Wayne,8,motel,4,23,17.39
+156,Days Inn Fort Wayne,9,old,4,23,17.39
+156,Days Inn Fort Wayne,10,people,4,23,17.39
+156,Days Inn Fort Wayne,11,rude,4,23,17.39
+156,Days Inn Fort Wayne,12,barely,3,23,13.04
+156,Days Inn Fort Wayne,13,bathroom,3,23,13.04
+156,Days Inn Fort Wayne,14,bed,3,23,13.04
+156,Days Inn Fort Wayne,15,called,3,23,13.04
+156,Days Inn Fort Wayne,16,couldn't,3,23,13.04
+156,Days Inn Fort Wayne,17,days,3,23,13.04
+156,Days Inn Fort Wayne,18,door,3,23,13.04
+156,Days Inn Fort Wayne,19,location,3,23,13.04
+156,Days Inn Fort Wayne,20,mold,3,23,13.04
+159,Days Inn Lanham Washington Dc,1,don't,4,18,22.22
+159,Days Inn Lanham Washington Dc,2,elevator,4,18,22.22
+159,Days Inn Lanham Washington Dc,3,service,4,18,22.22
+159,Days Inn Lanham Washington Dc,4,booked,3,18,16.67
+159,Days Inn Lanham Washington Dc,5,change,3,18,16.67
+159,Days Inn Lanham Washington Dc,6,elevators,3,18,16.67
+159,Days Inn Lanham Washington Dc,7,floor,3,18,16.67
+159,Days Inn Lanham Washington Dc,8,non,3,18,16.67
+159,Days Inn Lanham Washington Dc,9,smoke,3,18,16.67
+159,Days Inn Lanham Washington Dc,10,smoking,3,18,16.67
+159,Days Inn Lanham Washington Dc,11,wasn't,3,18,16.67
+160,Days Inn Lincolnton,1,clean,3,10,30.0
+160,Days Inn Lincolnton,2,door,3,10,30.0
+160,Days Inn Lincolnton,3,nice,3,10,30.0
+162,Days Inn North Columbia Ft. Jackson,1,bed,7,19,36.84
+162,Days Inn North Columbia Ft. Jackson,2,door,7,19,36.84
+162,Days Inn North Columbia Ft. Jackson,3,breakfast,6,19,31.58
+162,Days Inn North Columbia Ft. Jackson,4,left,5,19,26.32
+162,Days Inn North Columbia Ft. Jackson,5,staff,5,19,26.32
+162,Days Inn North Columbia Ft. Jackson,6,coffee,4,19,21.05
+162,Days Inn North Columbia Ft. Jackson,7,lot,4,19,21.05
+162,Days Inn North Columbia Ft. Jackson,8,nice,4,19,21.05
+162,Days Inn North Columbia Ft. Jackson,9,old,4,19,21.05
+162,Days Inn North Columbia Ft. Jackson,10,parking,4,19,21.05
+162,Days Inn North Columbia Ft. Jackson,11,second,4,19,21.05
+162,Days Inn North Columbia Ft. Jackson,12,asked,3,19,15.79
+162,Days Inn North Columbia Ft. Jackson,13,bad,3,19,15.79
+162,Days Inn North Columbia Ft. Jackson,14,booked,3,19,15.79
+162,Days Inn North Columbia Ft. Jackson,15,cheap,3,19,15.79
+162,Days Inn North Columbia Ft. Jackson,16,close,3,19,15.79
+162,Days Inn North Columbia Ft. Jackson,17,desk,3,19,15.79
+162,Days Inn North Columbia Ft. Jackson,18,didn't,3,19,15.79
+162,Days Inn North Columbia Ft. Jackson,19,dirty,3,19,15.79
+162,Days Inn North Columbia Ft. Jackson,20,feel,3,19,15.79
+163,Days Inn Ruther Glen Kings Dominion Area,1,dirty,12,27,44.44
+163,Days Inn Ruther Glen Kings Dominion Area,2,old,6,27,22.22
+163,Days Inn Ruther Glen Kings Dominion Area,3,check,5,27,18.52
+163,Days Inn Ruther Glen Kings Dominion Area,4,shower,5,27,18.52
+163,Days Inn Ruther Glen Kings Dominion Area,5,toilet,5,27,18.52
+163,Days Inn Ruther Glen Kings Dominion Area,6,tub,5,27,18.52
+163,Days Inn Ruther Glen Kings Dominion Area,7,ac,4,27,14.81
+163,Days Inn Ruther Glen Kings Dominion Area,8,bathroom,4,27,14.81
+163,Days Inn Ruther Glen Kings Dominion Area,9,bed,4,27,14.81
+163,Days Inn Ruther Glen Kings Dominion Area,10,carpet,4,27,14.81
+163,Days Inn Ruther Glen Kings Dominion Area,11,didn't,4,27,14.81
+163,Days Inn Ruther Glen Kings Dominion Area,12,door,4,27,14.81
+163,Days Inn Ruther Glen Kings Dominion Area,13,floor,4,27,14.81
+163,Days Inn Ruther Glen Kings Dominion Area,14,smoking,4,27,14.81
+163,Days Inn Ruther Glen Kings Dominion Area,15,staff,4,27,14.81
+163,Days Inn Ruther Glen Kings Dominion Area,16,work,4,27,14.81
+163,Days Inn Ruther Glen Kings Dominion Area,17,ac unit,3,27,11.11
+163,Days Inn Ruther Glen Kings Dominion Area,18,booked,3,27,11.11
+163,Days Inn Ruther Glen Kings Dominion Area,19,breakfast,3,27,11.11
+163,Days Inn Ruther Glen Kings Dominion Area,20,clean,3,27,11.11
+164,Days Inn Warren,1,desk,5,21,23.81
+164,Days Inn Warren,2,morning,5,21,23.81
+164,Days Inn Warren,3,nice,5,21,23.81
+164,Days Inn Warren,4,staff,5,21,23.81
+164,Days Inn Warren,5,breakfast,4,21,19.05
+164,Days Inn Warren,6,inn,4,21,19.05
+164,Days Inn Warren,7,paid,4,21,19.05
+164,Days Inn Warren,8,pool,4,21,19.05
+164,Days Inn Warren,9,bathroom,3,21,14.29
+164,Days Inn Warren,10,bed,3,21,14.29
+164,Days Inn Warren,11,carpets,3,21,14.29
+164,Days Inn Warren,12,door,3,21,14.29
+164,Days Inn Warren,13,holiday,3,21,14.29
+164,Days Inn Warren,14,i'll,3,21,14.29
+164,Days Inn Warren,15,late,3,21,14.29
+164,Days Inn Warren,16,sleep,3,21,14.29
+164,Days Inn Warren,17,smell,3,21,14.29
+164,Days Inn Warren,18,wall,3,21,14.29
+164,Days Inn Warren,19,warren,3,21,14.29
+165,Days Inn West Memphis,1,door,5,22,22.73
+165,Days Inn West Memphis,2,clean,4,22,18.18
+165,Days Inn West Memphis,3,bad,3,22,13.64
+165,Days Inn West Memphis,4,bed,3,22,13.64
+165,Days Inn West Memphis,5,card,3,22,13.64
+165,Days Inn West Memphis,6,check,3,22,13.64
+165,Days Inn West Memphis,7,desk,3,22,13.64
+165,Days Inn West Memphis,8,didn't,3,22,13.64
+165,Days Inn West Memphis,9,inn,3,22,13.64
+165,Days Inn West Memphis,10,way,3,22,13.64
+166,Days Inn and Suites Albany,1,dirty,20,79,25.32
+166,Days Inn and Suites Albany,2,bed,17,79,21.52
+166,Days Inn and Suites Albany,3,didn't,17,79,21.52
+166,Days Inn and Suites Albany,4,bathroom,16,79,20.25
+166,Days Inn and Suites Albany,5,breakfast,16,79,20.25
+166,Days Inn and Suites Albany,6,shower,16,79,20.25
+166,Days Inn and Suites Albany,7,broken,13,79,16.46
+166,Days Inn and Suites Albany,8,floor,13,79,16.46
+166,Days Inn and Suites Albany,9,door,12,79,15.19
+166,Days Inn and Suites Albany,10,walls,11,79,13.92
+166,Days Inn and Suites Albany,11,clean,10,79,12.66
+166,Days Inn and Suites Albany,12,pool,10,79,12.66
+166,Days Inn and Suites Albany,13,desk,9,79,11.39
+166,Days Inn and Suites Albany,14,hot,9,79,11.39
+166,Days Inn and Suites Albany,15,stained,9,79,11.39
+166,Days Inn and Suites Albany,16,stains,9,79,11.39
+166,Days Inn and Suites Albany,17,called,8,79,10.13
+166,Days Inn and Suites Albany,18,disgusting,8,79,10.13
+166,Days Inn and Suites Albany,19,filthy,8,79,10.13
+166,Days Inn and Suites Albany,20,motel,8,79,10.13
+170,Discovery Inn,1,didn't,8,39,20.51
+170,Discovery Inn,2,lot,7,39,17.95
+170,Discovery Inn,3,bathroom,6,39,15.38
+170,Discovery Inn,4,dirty,6,39,15.38
+170,Discovery Inn,5,people,6,39,15.38
+170,Discovery Inn,6,staff,6,39,15.38
+170,Discovery Inn,7,desk,5,39,12.82
+170,Discovery Inn,8,friendly,5,39,12.82
+170,Discovery Inn,9,parking,5,39,12.82
+170,Discovery Inn,10,parking lot,5,39,12.82
+170,Discovery Inn,11,bad,4,39,10.26
+170,Discovery Inn,12,bed,4,39,10.26
+170,Discovery Inn,13,feel,4,39,10.26
+170,Discovery Inn,14,horrible,4,39,10.26
+170,Discovery Inn,15,it's,4,39,10.26
+170,Discovery Inn,16,look,4,39,10.26
+170,Discovery Inn,17,smelled,4,39,10.26
+170,Discovery Inn,18,smoking,4,39,10.26
+170,Discovery Inn,19,terrible,4,39,10.26
+170,Discovery Inn,20,want,4,39,10.26
+171,Dockers Inn,1,breakfast,5,12,41.67
+171,Dockers Inn,2,clean,4,12,33.33
+171,Dockers Inn,3,bathroom,3,12,25.0
+171,Dockers Inn,4,gross,3,12,25.0
+171,Dockers Inn,5,terrible,3,12,25.0
+174,Doubletree By Hilton Hotel Bay City - Riverfront,1,asked,3,15,20.0
+174,Doubletree By Hilton Hotel Bay City - Riverfront,2,available,3,15,20.0
+174,Doubletree By Hilton Hotel Bay City - Riverfront,3,bed,3,15,20.0
+174,Doubletree By Hilton Hotel Bay City - Riverfront,4,beds,3,15,20.0
+174,Doubletree By Hilton Hotel Bay City - Riverfront,5,block,3,15,20.0
+174,Doubletree By Hilton Hotel Bay City - Riverfront,6,book,3,15,20.0
+174,Doubletree By Hilton Hotel Bay City - Riverfront,7,check,3,15,20.0
+174,Doubletree By Hilton Hotel Bay City - Riverfront,8,computer,3,15,20.0
+174,Doubletree By Hilton Hotel Bay City - Riverfront,9,different,3,15,20.0
+174,Doubletree By Hilton Hotel Bay City - Riverfront,10,doubletree,3,15,20.0
+174,Doubletree By Hilton Hotel Bay City - Riverfront,11,floor,3,15,20.0
+174,Doubletree By Hilton Hotel Bay City - Riverfront,12,guests,3,15,20.0
+174,Doubletree By Hilton Hotel Bay City - Riverfront,13,look,3,15,20.0
+174,Doubletree By Hilton Hotel Bay City - Riverfront,14,service,3,15,20.0
+174,Doubletree By Hilton Hotel Bay City - Riverfront,15,staff,3,15,20.0
+174,Doubletree By Hilton Hotel Bay City - Riverfront,16,view,3,15,20.0
+174,Doubletree By Hilton Hotel Bay City - Riverfront,17,wedding,3,15,20.0
+175,Doubletree By Hilton West Palm Beach Airport,1,staff,12,34,35.29
+175,Doubletree By Hilton West Palm Beach Airport,2,dirty,9,34,26.47
+175,Doubletree By Hilton West Palm Beach Airport,3,checked,8,34,23.53
+175,Doubletree By Hilton West Palm Beach Airport,4,bed,7,34,20.59
+175,Doubletree By Hilton West Palm Beach Airport,5,check,7,34,20.59
+175,Doubletree By Hilton West Palm Beach Airport,6,went,7,34,20.59
+175,Doubletree By Hilton West Palm Beach Airport,7,took,6,34,17.65
+175,Doubletree By Hilton West Palm Beach Airport,8,called,5,34,14.71
+175,Doubletree By Hilton West Palm Beach Airport,9,clean,5,34,14.71
+175,Doubletree By Hilton West Palm Beach Airport,10,desk,5,34,14.71
+175,Doubletree By Hilton West Palm Beach Airport,11,didn't,5,34,14.71
+175,Doubletree By Hilton West Palm Beach Airport,12,sleep,5,34,14.71
+175,Doubletree By Hilton West Palm Beach Airport,13,arrived,4,34,11.76
+175,Doubletree By Hilton West Palm Beach Airport,14,close,4,34,11.76
+175,Doubletree By Hilton West Palm Beach Airport,15,don't,4,34,11.76
+175,Doubletree By Hilton West Palm Beach Airport,16,door,4,34,11.76
+175,Doubletree By Hilton West Palm Beach Airport,17,nice,4,34,11.76
+175,Doubletree By Hilton West Palm Beach Airport,18,pillow,4,34,11.76
+175,Doubletree By Hilton West Palm Beach Airport,19,reservation,4,34,11.76
+175,Doubletree By Hilton West Palm Beach Airport,20,way,4,34,11.76
+178,Durango Travelodge,1,desk,8,30,26.67
+178,Durango Travelodge,2,coffee,5,30,16.67
+178,Durango Travelodge,3,dirty,5,30,16.67
+178,Durango Travelodge,4,bathroom,4,30,13.33
+178,Durango Travelodge,5,bed,4,30,13.33
+178,Durango Travelodge,6,clean,4,30,13.33
+178,Durango Travelodge,7,door,4,30,13.33
+178,Durango Travelodge,8,person,4,30,13.33
+178,Durango Travelodge,9,uncomfortable,4,30,13.33
+178,Durango Travelodge,10,beds,3,30,10.0
+178,Durango Travelodge,11,breakfast,3,30,10.0
+178,Durango Travelodge,12,cleaned,3,30,10.0
+178,Durango Travelodge,13,cleaning,3,30,10.0
+178,Durango Travelodge,14,didn't,3,30,10.0
+178,Durango Travelodge,15,extremely,3,30,10.0
+178,Durango Travelodge,16,help,3,30,10.0
+178,Durango Travelodge,17,high,3,30,10.0
+178,Durango Travelodge,18,lot,3,30,10.0
+178,Durango Travelodge,19,motel,3,30,10.0
+178,Durango Travelodge,20,new,3,30,10.0
+181,Econo Lodge,1,breakfast,3,12,25.0
+181,Econo Lodge,2,internet,3,12,25.0
+182,Econo Lodge Bellmawr,1,going,3,17,17.65
+182,Econo Lodge Bellmawr,2,hours,3,17,17.65
+182,Econo Lodge Bellmawr,3,old,3,17,17.65
+182,Econo Lodge Bellmawr,4,sheets,3,17,17.65
+182,Econo Lodge Bellmawr,5,smell,3,17,17.65
+182,Econo Lodge Bellmawr,6,went,3,17,17.65
+185,Economy Inn,1,bathroom,5,22,22.73
+185,Economy Inn,2,clean,5,22,22.73
+185,Economy Inn,3,price,5,22,22.73
+185,Economy Inn,4,bed,4,22,18.18
+185,Economy Inn,5,check,4,22,18.18
+185,Economy Inn,6,desk,4,22,18.18
+185,Economy Inn,7,floor,4,22,18.18
+185,Economy Inn,8,nasty,4,22,18.18
+185,Economy Inn,9,people,4,22,18.18
+185,Economy Inn,10,shower,4,22,18.18
+185,Economy Inn,11,bad,3,22,13.64
+185,Economy Inn,12,breakfast,3,22,13.64
+185,Economy Inn,13,called,3,22,13.64
+185,Economy Inn,14,credit,3,22,13.64
+185,Economy Inn,15,didn't,3,22,13.64
+185,Economy Inn,16,dirty,3,22,13.64
+185,Economy Inn,17,door,3,22,13.64
+185,Economy Inn,18,email,3,22,13.64
+185,Economy Inn,19,expedia,3,22,13.64
+185,Economy Inn,20,gave,3,22,13.64
+192,Elk Springs Resort,1,cabin,11,21,52.38
+192,Elk Springs Resort,2,elk,10,21,47.62
+192,Elk Springs Resort,3,elk springs,9,21,42.86
+192,Elk Springs Resort,4,springs,9,21,42.86
+192,Elk Springs Resort,5,cabins,8,21,38.1
+192,Elk Springs Resort,6,resort,7,21,33.33
+192,Elk Springs Resort,7,arrived,5,21,23.81
+192,Elk Springs Resort,8,disappointed,5,21,23.81
+192,Elk Springs Resort,9,rented,5,21,23.81
+192,Elk Springs Resort,10,springs resort,5,21,23.81
+192,Elk Springs Resort,11,arrival,4,21,19.05
+192,Elk Springs Resort,12,company,4,21,19.05
+192,Elk Springs Resort,13,don't,4,21,19.05
+192,Elk Springs Resort,14,mountain,4,21,19.05
+192,Elk Springs Resort,15,paid,4,21,19.05
+192,Elk Springs Resort,16,property,4,21,19.05
+192,Elk Springs Resort,17,vacation,4,21,19.05
+192,Elk Springs Resort,18,air,3,21,14.29
+192,Elk Springs Resort,19,cleaning,3,21,14.29
+192,Elk Springs Resort,20,customer,3,21,14.29
+198,Extended Stay America - Chicago - Westmont - Oak Brook,1,desk,9,28,32.14
+198,Extended Stay America - Chicago - Westmont - Oak Brook,2,dirty,7,28,25.0
+198,Extended Stay America - Chicago - Westmont - Oak Brook,3,bed,6,28,21.43
+198,Extended Stay America - Chicago - Westmont - Oak Brook,4,check,6,28,21.43
+198,Extended Stay America - Chicago - Westmont - Oak Brook,5,smoke,6,28,21.43
+198,Extended Stay America - Chicago - Westmont - Oak Brook,6,clean,5,28,17.86
+198,Extended Stay America - Chicago - Westmont - Oak Brook,7,service,5,28,17.86
+198,Extended Stay America - Chicago - Westmont - Oak Brook,8,staff,5,28,17.86
+198,Extended Stay America - Chicago - Westmont - Oak Brook,9,bathroom,4,28,14.29
+198,Extended Stay America - Chicago - Westmont - Oak Brook,10,floor,4,28,14.29
+198,Extended Stay America - Chicago - Westmont - Oak Brook,11,hair,4,28,14.29
+198,Extended Stay America - Chicago - Westmont - Oak Brook,12,kitchen,4,28,14.29
+198,Extended Stay America - Chicago - Westmont - Oak Brook,13,location,4,28,14.29
+198,Extended Stay America - Chicago - Westmont - Oak Brook,14,rude,4,28,14.29
+198,Extended Stay America - Chicago - Westmont - Oak Brook,15,water,4,28,14.29
+198,Extended Stay America - Chicago - Westmont - Oak Brook,16,working,4,28,14.29
+198,Extended Stay America - Chicago - Westmont - Oak Brook,17,booked,3,28,10.71
+198,Extended Stay America - Chicago - Westmont - Oak Brook,18,breakfast,3,28,10.71
+198,Extended Stay America - Chicago - Westmont - Oak Brook,19,carpet,3,28,10.71
+198,Extended Stay America - Chicago - Westmont - Oak Brook,20,checked,3,28,10.71
+199,Extended Stay America - Columbia - Northwest Harbison,1,breakfast,7,18,38.89
+199,Extended Stay America - Columbia - Northwest Harbison,2,desk,5,18,27.78
+199,Extended Stay America - Columbia - Northwest Harbison,3,com,4,18,22.22
+199,Extended Stay America - Columbia - Northwest Harbison,4,extended,4,18,22.22
+199,Extended Stay America - Columbia - Northwest Harbison,5,nights,4,18,22.22
+199,Extended Stay America - Columbia - Northwest Harbison,6,staff,4,18,22.22
+199,Extended Stay America - Columbia - Northwest Harbison,7,away,3,18,16.67
+199,Extended Stay America - Columbia - Northwest Harbison,8,booked,3,18,16.67
+199,Extended Stay America - Columbia - Northwest Harbison,9,late,3,18,16.67
+199,Extended Stay America - Columbia - Northwest Harbison,10,muffins,3,18,16.67
+199,Extended Stay America - Columbia - Northwest Harbison,11,nice,3,18,16.67
+199,Extended Stay America - Columbia - Northwest Harbison,12,reserved,3,18,16.67
+200,Extended Stay America - Fort Lauderdale - Davie,1,bed,8,26,30.77
+200,Extended Stay America - Fort Lauderdale - Davie,2,bathroom,5,26,19.23
+200,Extended Stay America - Fort Lauderdale - Davie,3,water,5,26,19.23
+200,Extended Stay America - Fort Lauderdale - Davie,4,cabinets,4,26,15.38
+200,Extended Stay America - Fort Lauderdale - Davie,5,dirty,4,26,15.38
+200,Extended Stay America - Fort Lauderdale - Davie,6,nice,4,26,15.38
+200,Extended Stay America - Fort Lauderdale - Davie,7,outside,4,26,15.38
+200,Extended Stay America - Fort Lauderdale - Davie,8,wifi,4,26,15.38
+200,Extended Stay America - Fort Lauderdale - Davie,9,bars,3,26,11.54
+200,Extended Stay America - Fort Lauderdale - Davie,10,breakfast,3,26,11.54
+200,Extended Stay America - Fort Lauderdale - Davie,11,carpet,3,26,11.54
+200,Extended Stay America - Fort Lauderdale - Davie,12,close,3,26,11.54
+200,Extended Stay America - Fort Lauderdale - Davie,13,coffee,3,26,11.54
+200,Extended Stay America - Fort Lauderdale - Davie,14,desk,3,26,11.54
+200,Extended Stay America - Fort Lauderdale - Davie,15,didn't,3,26,11.54
+200,Extended Stay America - Fort Lauderdale - Davie,16,extended,3,26,11.54
+200,Extended Stay America - Fort Lauderdale - Davie,17,inside,3,26,11.54
+200,Extended Stay America - Fort Lauderdale - Davie,18,kitchen,3,26,11.54
+200,Extended Stay America - Fort Lauderdale - Davie,19,long,3,26,11.54
+200,Extended Stay America - Fort Lauderdale - Davie,20,look,3,26,11.54
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,1,desk,12,22,54.55
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,2,booked,6,22,27.27
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,3,called,5,22,22.73
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,4,clean,5,22,22.73
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,5,extended,5,22,22.73
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,6,staff,5,22,22.73
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,7,asked,4,22,18.18
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,8,bad,4,22,18.18
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,9,breakfast,4,22,18.18
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,10,dirty,4,22,18.18
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,11,don't,4,22,18.18
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,12,minutes,4,22,18.18
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,13,aware,3,22,13.64
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,14,bed,3,22,13.64
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,15,called desk,3,22,13.64
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,16,change,3,22,13.64
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,17,check,3,22,13.64
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,18,checked,3,22,13.64
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,19,fully,3,22,13.64
+201,Extended Stay America - Orlando Theme Parks - Vineland Rd.,20,fully booked,3,22,13.64
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,1,staff,8,22,36.36
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,2,bed,6,22,27.27
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,3,arrived,5,22,22.73
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,4,bathroom,5,22,22.73
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,5,breakfast,5,22,22.73
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,6,desk,5,22,22.73
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,7,dishes,5,22,22.73
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,8,don't,5,22,22.73
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,9,paper,5,22,22.73
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,10,pool,5,22,22.73
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,11,shower,5,22,22.73
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,12,wasn't,5,22,22.73
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,13,available,4,22,18.18
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,14,check,4,22,18.18
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,15,clean,4,22,18.18
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,16,didn't,4,22,18.18
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,17,dirty,4,22,18.18
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,18,muffins,4,22,18.18
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,19,old,4,22,18.18
+202,Extended Stay America - Raleigh - Cary - Regency Parkway S,20,service,4,22,18.18
+203,Extended Stay America - Rockford - I-90,1,breakfast,9,23,39.13
+203,Extended Stay America - Rockford - I-90,2,coffee,8,23,34.78
+203,Extended Stay America - Rockford - I-90,3,desk,7,23,30.43
+203,Extended Stay America - Rockford - I-90,4,extended,6,23,26.09
+203,Extended Stay America - Rockford - I-90,5,comfortable,5,23,21.74
+203,Extended Stay America - Rockford - I-90,6,smoke,5,23,21.74
+203,Extended Stay America - Rockford - I-90,7,didn't,4,23,17.39
+203,Extended Stay America - Rockford - I-90,8,don't,4,23,17.39
+203,Extended Stay America - Rockford - I-90,9,muffins,4,23,17.39
+203,Extended Stay America - Rockford - I-90,10,shower,4,23,17.39
+203,Extended Stay America - Rockford - I-90,11,smelled,4,23,17.39
+203,Extended Stay America - Rockford - I-90,12,towels,4,23,17.39
+203,Extended Stay America - Rockford - I-90,13,america,3,23,13.04
+203,Extended Stay America - Rockford - I-90,14,bathroom,3,23,13.04
+203,Extended Stay America - Rockford - I-90,15,bed,3,23,13.04
+203,Extended Stay America - Rockford - I-90,16,cigarette,3,23,13.04
+203,Extended Stay America - Rockford - I-90,17,cigarette smoke,3,23,13.04
+203,Extended Stay America - Rockford - I-90,18,clean,3,23,13.04
+203,Extended Stay America - Rockford - I-90,19,consisted,3,23,13.04
+203,Extended Stay America - Rockford - I-90,20,cups,3,23,13.04
+205,Extended Stay America San Diego - Carlsbad Village By The Sea,1,checked,4,12,33.33
+205,Extended Stay America San Diego - Carlsbad Village By The Sea,2,clean,3,12,25.0
+205,Extended Stay America San Diego - Carlsbad Village By The Sea,3,price,3,12,25.0
+206,Fairbridge Inn,1,desk,9,40,22.5
+206,Fairbridge Inn,2,dirty,8,40,20.0
+206,Fairbridge Inn,3,bad,7,40,17.5
+206,Fairbridge Inn,4,old,7,40,17.5
+206,Fairbridge Inn,5,pool,7,40,17.5
+206,Fairbridge Inn,6,clean,6,40,15.0
+206,Fairbridge Inn,7,doors,6,40,15.0
+206,Fairbridge Inn,8,arrived,5,40,12.5
+206,Fairbridge Inn,9,bed,5,40,12.5
+206,Fairbridge Inn,10,breakfast,5,40,12.5
+206,Fairbridge Inn,11,check,5,40,12.5
+206,Fairbridge Inn,12,didn't,5,40,12.5
+206,Fairbridge Inn,13,hot,5,40,12.5
+206,Fairbridge Inn,14,new,5,40,12.5
+206,Fairbridge Inn,15,outside,5,40,12.5
+206,Fairbridge Inn,16,people,5,40,12.5
+206,Fairbridge Inn,17,restaurant,5,40,12.5
+206,Fairbridge Inn,18,sheets,5,40,12.5
+206,Fairbridge Inn,19,smelled,5,40,12.5
+206,Fairbridge Inn,20,staff,5,40,12.5
+207,Fairfield Inn & Suites Atlanta Perimeter Center,1,desk,7,16,43.75
+207,Fairfield Inn & Suites Atlanta Perimeter Center,2,didn't,5,16,31.25
+207,Fairfield Inn & Suites Atlanta Perimeter Center,3,available,3,16,18.75
+207,Fairfield Inn & Suites Atlanta Perimeter Center,4,bad,3,16,18.75
+207,Fairfield Inn & Suites Atlanta Perimeter Center,5,bed,3,16,18.75
+207,Fairfield Inn & Suites Atlanta Perimeter Center,6,beds,3,16,18.75
+207,Fairfield Inn & Suites Atlanta Perimeter Center,7,booked,3,16,18.75
+207,Fairfield Inn & Suites Atlanta Perimeter Center,8,breakfast,3,16,18.75
+207,Fairfield Inn & Suites Atlanta Perimeter Center,9,going,3,16,18.75
+207,Fairfield Inn & Suites Atlanta Perimeter Center,10,lobby,3,16,18.75
+207,Fairfield Inn & Suites Atlanta Perimeter Center,11,old,3,16,18.75
+207,Fairfield Inn & Suites Atlanta Perimeter Center,12,renovation,3,16,18.75
+207,Fairfield Inn & Suites Atlanta Perimeter Center,13,small,3,16,18.75
+219,Fiesta Inn and Suites,1,dirty,91,374,24.33
+219,Fiesta Inn and Suites,2,roaches,79,374,21.12
+219,Fiesta Inn and Suites,3,bed,73,374,19.52
+219,Fiesta Inn and Suites,4,door,63,374,16.84
+219,Fiesta Inn and Suites,5,towels,60,374,16.04
+219,Fiesta Inn and Suites,6,didn't,59,374,15.78
+219,Fiesta Inn and Suites,7,bad,58,374,15.51
+219,Fiesta Inn and Suites,8,clean,48,374,12.83
+219,Fiesta Inn and Suites,9,desk,48,374,12.83
+219,Fiesta Inn and Suites,10,old,48,374,12.83
+219,Fiesta Inn and Suites,11,bathroom,43,374,11.5
+219,Fiesta Inn and Suites,12,work,43,374,11.5
+219,Fiesta Inn and Suites,13,worst,43,374,11.5
+219,Fiesta Inn and Suites,14,broken,41,374,10.96
+219,Fiesta Inn and Suites,15,recommend,41,374,10.96
+219,Fiesta Inn and Suites,16,staff,38,374,10.16
+219,Fiesta Inn and Suites,17,went,38,374,10.16
+219,Fiesta Inn and Suites,18,beds,36,374,9.63
+219,Fiesta Inn and Suites,19,check,36,374,9.63
+219,Fiesta Inn and Suites,20,filthy,35,374,9.36
+220,Fireside Inn Santa Cruz,1,bathroom,6,14,42.86
+220,Fireside Inn Santa Cruz,2,dirty,5,14,35.71
+220,Fireside Inn Santa Cruz,3,boardwalk,4,14,28.57
+220,Fireside Inn Santa Cruz,4,old,4,14,28.57
+220,Fireside Inn Santa Cruz,5,price,4,14,28.57
+220,Fireside Inn Santa Cruz,6,bad,3,14,21.43
+220,Fireside Inn Santa Cruz,7,bed,3,14,21.43
+220,Fireside Inn Santa Cruz,8,clean,3,14,21.43
+220,Fireside Inn Santa Cruz,9,great,3,14,21.43
+220,Fireside Inn Santa Cruz,10,location,3,14,21.43
+220,Fireside Inn Santa Cruz,11,paid,3,14,21.43
+220,Fireside Inn Santa Cruz,12,paint,3,14,21.43
+220,Fireside Inn Santa Cruz,13,shower,3,14,21.43
+220,Fireside Inn Santa Cruz,14,walls,3,14,21.43
+230,Gardena Terrace Inn,1,smell,8,34,23.53
+230,Gardena Terrace Inn,2,breakfast,7,34,20.59
+230,Gardena Terrace Inn,3,smelled,7,34,20.59
+230,Gardena Terrace Inn,4,towels,7,34,20.59
+230,Gardena Terrace Inn,5,bad,6,34,17.65
+230,Gardena Terrace Inn,6,clean,6,34,17.65
+230,Gardena Terrace Inn,7,didn't,6,34,17.65
+230,Gardena Terrace Inn,8,door,5,34,14.71
+230,Gardena Terrace Inn,9,left,5,34,14.71
+230,Gardena Terrace Inn,10,sleep,5,34,14.71
+230,Gardena Terrace Inn,11,smoke,5,34,14.71
+230,Gardena Terrace Inn,12,staff,5,34,14.71
+230,Gardena Terrace Inn,13,window,5,34,14.71
+230,Gardena Terrace Inn,14,work,5,34,14.71
+230,Gardena Terrace Inn,15,area,4,34,11.76
+230,Gardena Terrace Inn,16,different,4,34,11.76
+230,Gardena Terrace Inn,17,dirty,4,34,11.76
+230,Gardena Terrace Inn,18,location,4,34,11.76
+230,Gardena Terrace Inn,19,price,4,34,11.76
+230,Gardena Terrace Inn,20,service,4,34,11.76
+232,Good Nite Inn Rohnert Park,1,bed,9,43,20.93
+232,Good Nite Inn Rohnert Park,2,noise,8,43,18.6
+232,Good Nite Inn Rohnert Park,3,morning,7,43,16.28
+232,Good Nite Inn Rohnert Park,4,shower,7,43,16.28
+232,Good Nite Inn Rohnert Park,5,water,7,43,16.28
+232,Good Nite Inn Rohnert Park,6,sleep,6,43,13.95
+232,Good Nite Inn Rohnert Park,7,amenities,5,43,11.63
+232,Good Nite Inn Rohnert Park,8,clean,5,43,11.63
+232,Good Nite Inn Rohnert Park,9,desk,5,43,11.63
+232,Good Nite Inn Rohnert Park,10,didn't,5,43,11.63
+232,Good Nite Inn Rohnert Park,11,hear,5,43,11.63
+232,Good Nite Inn Rohnert Park,12,queen,5,43,11.63
+232,Good Nite Inn Rohnert Park,13,smoke,5,43,11.63
+232,Good Nite Inn Rohnert Park,14,traffic,5,43,11.63
+232,Good Nite Inn Rohnert Park,15,breakfast,4,43,9.3
+232,Good Nite Inn Rohnert Park,16,don't,4,43,9.3
+232,Good Nite Inn Rohnert Park,17,door,4,43,9.3
+232,Good Nite Inn Rohnert Park,18,ear,4,43,9.3
+232,Good Nite Inn Rohnert Park,19,floor,4,43,9.3
+232,Good Nite Inn Rohnert Park,20,highway,4,43,9.3
+235,Grand Hotel Cadenabbia,1,location,6,11,54.55
+235,Grand Hotel Cadenabbia,2,staff,5,11,45.45
+235,Grand Hotel Cadenabbia,3,bad,4,11,36.36
+235,Grand Hotel Cadenabbia,4,old,4,11,36.36
+235,Grand Hotel Cadenabbia,5,view,4,11,36.36
+235,Grand Hotel Cadenabbia,6,dirty,3,11,27.27
+235,Grand Hotel Cadenabbia,7,needs,3,11,27.27
+240,Haltom Inn,1,light,5,15,33.33
+240,Haltom Inn,2,bed,4,15,26.67
+240,Haltom Inn,3,didn't,4,15,26.67
+240,Haltom Inn,4,dirty,4,15,26.67
+240,Haltom Inn,5,manager,4,15,26.67
+240,Haltom Inn,6,towels,4,15,26.67
+240,Haltom Inn,7,worst,4,15,26.67
+240,Haltom Inn,8,asked,3,15,20.0
+240,Haltom Inn,9,clean,3,15,20.0
+240,Haltom Inn,10,gave,3,15,20.0
+245,Hampton Inn Abilene,1,staff,5,15,33.33
+245,Hampton Inn Abilene,2,breakfast,4,15,26.67
+245,Hampton Inn Abilene,3,hot,4,15,26.67
+245,Hampton Inn Abilene,4,hot tub,4,15,26.67
+245,Hampton Inn Abilene,5,service,4,15,26.67
+245,Hampton Inn Abilene,6,tub,4,15,26.67
+245,Hampton Inn Abilene,7,bed,3,15,20.0
+245,Hampton Inn Abilene,8,bugs,3,15,20.0
+245,Hampton Inn Abilene,9,came,3,15,20.0
+245,Hampton Inn Abilene,10,going,3,15,20.0
+245,Hampton Inn Abilene,11,hampton,3,15,20.0
+245,Hampton Inn Abilene,12,left,3,15,20.0
+245,Hampton Inn Abilene,13,morning,3,15,20.0
+248,Hampton Inn Fayetteville Fort Bragg,1,desk,6,16,37.5
+248,Hampton Inn Fayetteville Fort Bragg,2,checked,4,16,25.0
+248,Hampton Inn Fayetteville Fort Bragg,3,clean,4,16,25.0
+248,Hampton Inn Fayetteville Fort Bragg,4,wasn't,4,16,25.0
+248,Hampton Inn Fayetteville Fort Bragg,5,com,3,16,18.75
+248,Hampton Inn Fayetteville Fort Bragg,6,shower,3,16,18.75
+248,Hampton Inn Fayetteville Fort Bragg,7,times,3,16,18.75
+248,Hampton Inn Fayetteville Fort Bragg,8,towels,3,16,18.75
+254,Hampton Inn Sarasota - I-75 Bee Ridge,1,desk,9,31,29.03
+254,Hampton Inn Sarasota - I-75 Bee Ridge,2,staff,9,31,29.03
+254,Hampton Inn Sarasota - I-75 Bee Ridge,3,bathroom,6,31,19.35
+254,Hampton Inn Sarasota - I-75 Bee Ridge,4,clean,5,31,16.13
+254,Hampton Inn Sarasota - I-75 Bee Ridge,5,dirty,5,31,16.13
+254,Hampton Inn Sarasota - I-75 Bee Ridge,6,days,4,31,12.9
+254,Hampton Inn Sarasota - I-75 Bee Ridge,7,desk staff,4,31,12.9
+254,Hampton Inn Sarasota - I-75 Bee Ridge,8,great,4,31,12.9
+254,Hampton Inn Sarasota - I-75 Bee Ridge,9,hilton,4,31,12.9
+254,Hampton Inn Sarasota - I-75 Bee Ridge,10,hot,4,31,12.9
+254,Hampton Inn Sarasota - I-75 Bee Ridge,11,house,4,31,12.9
+254,Hampton Inn Sarasota - I-75 Bee Ridge,12,morning,4,31,12.9
+254,Hampton Inn Sarasota - I-75 Bee Ridge,13,arrived,3,31,9.68
+254,Hampton Inn Sarasota - I-75 Bee Ridge,14,bed,3,31,9.68
+254,Hampton Inn Sarasota - I-75 Bee Ridge,15,breakfast,3,31,9.68
+254,Hampton Inn Sarasota - I-75 Bee Ridge,16,carpet,3,31,9.68
+254,Hampton Inn Sarasota - I-75 Bee Ridge,17,changed,3,31,9.68
+254,Hampton Inn Sarasota - I-75 Bee Ridge,18,checked,3,31,9.68
+254,Hampton Inn Sarasota - I-75 Bee Ridge,19,experience,3,31,9.68
+254,Hampton Inn Sarasota - I-75 Bee Ridge,20,going,3,31,9.68
+256,Hampton Inn Tucson-airport,1,clean,4,12,33.33
+256,Hampton Inn Tucson-airport,2,closet,3,12,25.0
+256,Hampton Inn Tucson-airport,3,desk,3,12,25.0
+256,Hampton Inn Tucson-airport,4,nice,3,12,25.0
+256,Hampton Inn Tucson-airport,5,staff,3,12,25.0
+257,Hampton Inn Virginia Beach Oceanfront North,1,clean,5,14,35.71
+257,Hampton Inn Virginia Beach Oceanfront North,2,beach,4,14,28.57
+257,Hampton Inn Virginia Beach Oceanfront North,3,morning,4,14,28.57
+257,Hampton Inn Virginia Beach Oceanfront North,4,bed,3,14,21.43
+257,Hampton Inn Virginia Beach Oceanfront North,5,desk,3,14,21.43
+257,Hampton Inn Virginia Beach Oceanfront North,6,didn't,3,14,21.43
+257,Hampton Inn Virginia Beach Oceanfront North,7,dirty,3,14,21.43
+257,Hampton Inn Virginia Beach Oceanfront North,8,great,3,14,21.43
+257,Hampton Inn Virginia Beach Oceanfront North,9,hampton,3,14,21.43
+257,Hampton Inn Virginia Beach Oceanfront North,10,hampton inn,3,14,21.43
+257,Hampton Inn Virginia Beach Oceanfront North,11,inn,3,14,21.43
+257,Hampton Inn Virginia Beach Oceanfront North,12,left,3,14,21.43
+257,Hampton Inn Virginia Beach Oceanfront North,13,people,3,14,21.43
+257,Hampton Inn Virginia Beach Oceanfront North,14,staff,3,14,21.43
+257,Hampton Inn Virginia Beach Oceanfront North,15,towels,3,14,21.43
+257,Hampton Inn Virginia Beach Oceanfront North,16,view,3,14,21.43
+258,Hampton Inn and Suites Annapolis,1,clean,9,34,26.47
+258,Hampton Inn and Suites Annapolis,2,staff,8,34,23.53
+258,Hampton Inn and Suites Annapolis,3,breakfast,7,34,20.59
+258,Hampton Inn and Suites Annapolis,4,hampton,7,34,20.59
+258,Hampton Inn and Suites Annapolis,5,inn,7,34,20.59
+258,Hampton Inn and Suites Annapolis,6,dirty,6,34,17.65
+258,Hampton Inn and Suites Annapolis,7,hampton inn,6,34,17.65
+258,Hampton Inn and Suites Annapolis,8,bathroom,5,34,14.71
+258,Hampton Inn and Suites Annapolis,9,check,5,34,14.71
+258,Hampton Inn and Suites Annapolis,10,desk,5,34,14.71
+258,Hampton Inn and Suites Annapolis,11,old,5,34,14.71
+258,Hampton Inn and Suites Annapolis,12,bad,4,34,11.76
+258,Hampton Inn and Suites Annapolis,13,felt,4,34,11.76
+258,Hampton Inn and Suites Annapolis,14,friendly,4,34,11.76
+258,Hampton Inn and Suites Annapolis,15,great,4,34,11.76
+258,Hampton Inn and Suites Annapolis,16,manager,4,34,11.76
+258,Hampton Inn and Suites Annapolis,17,small,4,34,11.76
+258,Hampton Inn and Suites Annapolis,18,staying,4,34,11.76
+258,Hampton Inn and Suites Annapolis,19,wasn't,4,34,11.76
+258,Hampton Inn and Suites Annapolis,20,annapolis,3,34,8.82
+259,Harrah's Laughlin Hotel and Casino,1,dirty,9,33,27.27
+259,Harrah's Laughlin Hotel and Casino,2,service,8,33,24.24
+259,Harrah's Laughlin Hotel and Casino,3,bathroom,7,33,21.21
+259,Harrah's Laughlin Hotel and Casino,4,elevators,7,33,21.21
+259,Harrah's Laughlin Hotel and Casino,5,beach,6,33,18.18
+259,Harrah's Laughlin Hotel and Casino,6,bed,5,33,15.15
+259,Harrah's Laughlin Hotel and Casino,7,check,5,33,15.15
+259,Harrah's Laughlin Hotel and Casino,8,desk,5,33,15.15
+259,Harrah's Laughlin Hotel and Casino,9,great,5,33,15.15
+259,Harrah's Laughlin Hotel and Casino,10,hot,5,33,15.15
+259,Harrah's Laughlin Hotel and Casino,11,shower,5,33,15.15
+259,Harrah's Laughlin Hotel and Casino,12,water,5,33,15.15
+259,Harrah's Laughlin Hotel and Casino,13,beds,4,33,12.12
+259,Harrah's Laughlin Hotel and Casino,14,called,4,33,12.12
+259,Harrah's Laughlin Hotel and Casino,15,came,4,33,12.12
+259,Harrah's Laughlin Hotel and Casino,16,floor,4,33,12.12
+259,Harrah's Laughlin Hotel and Casino,17,food,4,33,12.12
+259,Harrah's Laughlin Hotel and Casino,18,minutes,4,33,12.12
+259,Harrah's Laughlin Hotel and Casino,19,need,4,33,12.12
+259,Harrah's Laughlin Hotel and Casino,20,people,4,33,12.12
+260,Hawthorn Suites By Wyndham Livermore Wine Country,1,breakfast,4,13,30.77
+260,Hawthorn Suites By Wyndham Livermore Wine Country,2,sheets,4,13,30.77
+260,Hawthorn Suites By Wyndham Livermore Wine Country,3,didn't,3,13,23.08
+260,Hawthorn Suites By Wyndham Livermore Wine Country,4,nice,3,13,23.08
+260,Hawthorn Suites By Wyndham Livermore Wine Country,5,staff,3,13,23.08
+260,Hawthorn Suites By Wyndham Livermore Wine Country,6,way,3,13,23.08
+260,Hawthorn Suites By Wyndham Livermore Wine Country,7,wine,3,13,23.08
+261,Hawthorn Suites Dayton North,1,bed,16,36,44.44
+261,Hawthorn Suites Dayton North,2,carpet,12,36,33.33
+261,Hawthorn Suites Dayton North,3,staff,9,36,25.0
+261,Hawthorn Suites Dayton North,4,desk,8,36,22.22
+261,Hawthorn Suites Dayton North,5,dirty,7,36,19.44
+261,Hawthorn Suites Dayton North,6,water,7,36,19.44
+261,Hawthorn Suites Dayton North,7,filthy,6,36,16.67
+261,Hawthorn Suites Dayton North,8,looked,6,36,16.67
+261,Hawthorn Suites Dayton North,9,mattress,6,36,16.67
+261,Hawthorn Suites Dayton North,10,old,6,36,16.67
+261,Hawthorn Suites Dayton North,11,way,6,36,16.67
+261,Hawthorn Suites Dayton North,12,clean,5,36,13.89
+261,Hawthorn Suites Dayton North,13,days,5,36,13.89
+261,Hawthorn Suites Dayton North,14,gone,5,36,13.89
+261,Hawthorn Suites Dayton North,15,know,5,36,13.89
+261,Hawthorn Suites Dayton North,16,left,5,36,13.89
+261,Hawthorn Suites Dayton North,17,motel,5,36,13.89
+261,Hawthorn Suites Dayton North,18,needed,5,36,13.89
+261,Hawthorn Suites Dayton North,19,sofa,5,36,13.89
+261,Hawthorn Suites Dayton North,20,worn,5,36,13.89
+265,Hilton Garden Inn Austin Nw - Arboretum,1,desk,4,10,40.0
+265,Hilton Garden Inn Austin Nw - Arboretum,2,care,3,10,30.0
+265,Hilton Garden Inn Austin Nw - Arboretum,3,didn't,3,10,30.0
+265,Hilton Garden Inn Austin Nw - Arboretum,4,staff,3,10,30.0
+270,Hilton San Diego Airport/harbor Island,1,floor,4,15,26.67
+270,Hilton San Diego Airport/harbor Island,2,parking,4,15,26.67
+270,Hilton San Diego Airport/harbor Island,3,bathroom,3,15,20.0
+270,Hilton San Diego Airport/harbor Island,4,didn't,3,15,20.0
+270,Hilton San Diego Airport/harbor Island,5,dirty,3,15,20.0
+270,Hilton San Diego Airport/harbor Island,6,pool,3,15,20.0
+270,Hilton San Diego Airport/harbor Island,7,service,3,15,20.0
+270,Hilton San Diego Airport/harbor Island,8,sucks,3,15,20.0
+270,Hilton San Diego Airport/harbor Island,9,view,3,15,20.0
+270,Hilton San Diego Airport/harbor Island,10,way,3,15,20.0
+274,Holiday Inn Canyon De Chelly,1,don't,4,11,36.36
+274,Holiday Inn Canyon De Chelly,2,people,4,11,36.36
+274,Holiday Inn Canyon De Chelly,3,breakfast,3,11,27.27
+274,Holiday Inn Canyon De Chelly,4,card,3,11,27.27
+274,Holiday Inn Canyon De Chelly,5,didn't,3,11,27.27
+281,Holiday Inn Express & Suites West Monroe,1,breakfast,7,23,30.43
+281,Holiday Inn Express & Suites West Monroe,2,clean,7,23,30.43
+281,Holiday Inn Express & Suites West Monroe,3,desk,5,23,21.74
+281,Holiday Inn Express & Suites West Monroe,4,staff,5,23,21.74
+281,Holiday Inn Express & Suites West Monroe,5,booked,4,23,17.39
+281,Holiday Inn Express & Suites West Monroe,6,didn't,4,23,17.39
+281,Holiday Inn Express & Suites West Monroe,7,dirty,4,23,17.39
+281,Holiday Inn Express & Suites West Monroe,8,friendly,4,23,17.39
+281,Holiday Inn Express & Suites West Monroe,9,water,4,23,17.39
+281,Holiday Inn Express & Suites West Monroe,10,work,4,23,17.39
+281,Holiday Inn Express & Suites West Monroe,11,available,3,23,13.04
+281,Holiday Inn Express & Suites West Monroe,12,bad,3,23,13.04
+281,Holiday Inn Express & Suites West Monroe,13,bathroom,3,23,13.04
+281,Holiday Inn Express & Suites West Monroe,14,bed,3,23,13.04
+281,Holiday Inn Express & Suites West Monroe,15,com,3,23,13.04
+281,Holiday Inn Express & Suites West Monroe,16,dirty shower,3,23,13.04
+281,Holiday Inn Express & Suites West Monroe,17,elevator,3,23,13.04
+281,Holiday Inn Express & Suites West Monroe,18,holiday,3,23,13.04
+281,Holiday Inn Express & Suites West Monroe,19,holiday inn,3,23,13.04
+281,Holiday Inn Express & Suites West Monroe,20,inn,3,23,13.04
+283,Holiday Inn Express - Harrisburg East,1,dirty,6,24,25.0
+283,Holiday Inn Express - Harrisburg East,2,breakfast,5,24,20.83
+283,Holiday Inn Express - Harrisburg East,3,desk,5,24,20.83
+283,Holiday Inn Express - Harrisburg East,4,floor,5,24,20.83
+283,Holiday Inn Express - Harrisburg East,5,available,4,24,16.67
+283,Holiday Inn Express - Harrisburg East,6,bed,4,24,16.67
+283,Holiday Inn Express - Harrisburg East,7,beds,4,24,16.67
+283,Holiday Inn Express - Harrisburg East,8,door,4,24,16.67
+283,Holiday Inn Express - Harrisburg East,9,hershey,4,24,16.67
+283,Holiday Inn Express - Harrisburg East,10,musty,4,24,16.67
+283,Holiday Inn Express - Harrisburg East,11,area,3,24,12.5
+283,Holiday Inn Express - Harrisburg East,12,damp,3,24,12.5
+283,Holiday Inn Express - Harrisburg East,13,don't,3,24,12.5
+283,Holiday Inn Express - Harrisburg East,14,elevator,3,24,12.5
+283,Holiday Inn Express - Harrisburg East,15,hard,3,24,12.5
+283,Holiday Inn Express - Harrisburg East,16,holiday,3,24,12.5
+283,Holiday Inn Express - Harrisburg East,17,old,3,24,12.5
+283,Holiday Inn Express - Harrisburg East,18,paper,3,24,12.5
+283,Holiday Inn Express - Harrisburg East,19,shower,3,24,12.5
+283,Holiday Inn Express - Harrisburg East,20,small,3,24,12.5
+285,Holiday Inn Express Colton-riverside North,1,dirty,6,23,26.09
+285,Holiday Inn Express Colton-riverside North,2,clean,5,23,21.74
+285,Holiday Inn Express Colton-riverside North,3,elevator,5,23,21.74
+285,Holiday Inn Express Colton-riverside North,4,check,4,23,17.39
+285,Holiday Inn Express Colton-riverside North,5,desk,4,23,17.39
+285,Holiday Inn Express Colton-riverside North,6,holiday,4,23,17.39
+285,Holiday Inn Express Colton-riverside North,7,holiday inn,4,23,17.39
+285,Holiday Inn Express Colton-riverside North,8,inn,4,23,17.39
+285,Holiday Inn Express Colton-riverside North,9,old,4,23,17.39
+285,Holiday Inn Express Colton-riverside North,10,asked,3,23,13.04
+285,Holiday Inn Express Colton-riverside North,11,broken,3,23,13.04
+285,Holiday Inn Express Colton-riverside North,12,carpet,3,23,13.04
+285,Holiday Inn Express Colton-riverside North,13,entire,3,23,13.04
+285,Holiday Inn Express Colton-riverside North,14,floor,3,23,13.04
+285,Holiday Inn Express Colton-riverside North,15,guests,3,23,13.04
+285,Holiday Inn Express Colton-riverside North,16,needed,3,23,13.04
+285,Holiday Inn Express Colton-riverside North,17,nice,3,23,13.04
+285,Holiday Inn Express Colton-riverside North,18,pool,3,23,13.04
+285,Holiday Inn Express Colton-riverside North,19,refund,3,23,13.04
+285,Holiday Inn Express Colton-riverside North,20,rest,3,23,13.04
+286,Holiday Inn Express Dahlonega,1,holiday,5,17,29.41
+286,Holiday Inn Express Dahlonega,2,holiday inn,5,17,29.41
+286,Holiday Inn Express Dahlonega,3,inn,5,17,29.41
+286,Holiday Inn Express Dahlonega,4,booked,4,17,23.53
+286,Holiday Inn Express Dahlonega,5,breakfast,4,17,23.53
+286,Holiday Inn Express Dahlonega,6,charge,4,17,23.53
+286,Holiday Inn Express Dahlonega,7,desk,4,17,23.53
+286,Holiday Inn Express Dahlonega,8,express,4,17,23.53
+286,Holiday Inn Express Dahlonega,9,work,4,17,23.53
+286,Holiday Inn Express Dahlonega,10,family,3,17,17.65
+286,Holiday Inn Express Dahlonega,11,inn express,3,17,17.65
+286,Holiday Inn Express Dahlonega,12,phone,3,17,17.65
+286,Holiday Inn Express Dahlonega,13,walls,3,17,17.65
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,1,pool,6,20,30.0
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,2,bathroom,5,20,25.0
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,3,bed,4,20,20.0
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,4,big,4,20,20.0
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,5,desk,4,20,20.0
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,6,dirty,4,20,20.0
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,7,floor,4,20,20.0
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,8,holiday,4,20,20.0
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,9,holiday inn,4,20,20.0
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,10,inn,4,20,20.0
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,11,smelled,4,20,20.0
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,12,didn't,3,20,15.0
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,13,handicap,3,20,15.0
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,14,mold,3,20,15.0
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,15,old,3,20,15.0
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,16,people,3,20,15.0
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,17,say,3,20,15.0
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,18,shower,3,20,15.0
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,19,small,3,20,15.0
+292,Holiday Inn Express Hotel and Stes Port Clinton-catawba Island,20,wasn't,3,20,15.0
+293,Holiday Inn Express Hotel and Suites Cambridge,1,parking,7,21,33.33
+293,Holiday Inn Express Hotel and Suites Cambridge,2,staff,5,21,23.81
+293,Holiday Inn Express Hotel and Suites Cambridge,3,bad,4,21,19.05
+293,Holiday Inn Express Hotel and Suites Cambridge,4,breakfast,4,21,19.05
+293,Holiday Inn Express Hotel and Suites Cambridge,5,lot,4,21,19.05
+293,Holiday Inn Express Hotel and Suites Cambridge,6,overflow,4,21,19.05
+293,Holiday Inn Express Hotel and Suites Cambridge,7,rest,4,21,19.05
+293,Holiday Inn Express Hotel and Suites Cambridge,8,arrived,3,21,14.29
+293,Holiday Inn Express Hotel and Suites Cambridge,9,available,3,21,14.29
+293,Holiday Inn Express Hotel and Suites Cambridge,10,car,3,21,14.29
+293,Holiday Inn Express Hotel and Suites Cambridge,11,didn't,3,21,14.29
+293,Holiday Inn Express Hotel and Suites Cambridge,12,free,3,21,14.29
+293,Holiday Inn Express Hotel and Suites Cambridge,13,holiday,3,21,14.29
+293,Holiday Inn Express Hotel and Suites Cambridge,14,holiday inn,3,21,14.29
+293,Holiday Inn Express Hotel and Suites Cambridge,15,inn,3,21,14.29
+293,Holiday Inn Express Hotel and Suites Cambridge,16,location,3,21,14.29
+293,Holiday Inn Express Hotel and Suites Cambridge,17,need,3,21,14.29
+293,Holiday Inn Express Hotel and Suites Cambridge,18,ok,3,21,14.29
+293,Holiday Inn Express Hotel and Suites Cambridge,19,reservation,3,21,14.29
+293,Holiday Inn Express Hotel and Suites Cambridge,20,shower,3,21,14.29
+294,Holiday Inn Express Hotel and Suites Hesperia,1,desk,6,17,35.29
+294,Holiday Inn Express Hotel and Suites Hesperia,2,bed,4,17,23.53
+294,Holiday Inn Express Hotel and Suites Hesperia,3,i'm,4,17,23.53
+294,Holiday Inn Express Hotel and Suites Hesperia,4,wasn't,4,17,23.53
+294,Holiday Inn Express Hotel and Suites Hesperia,5,away,3,17,17.65
+294,Holiday Inn Express Hotel and Suites Hesperia,6,beds,3,17,17.65
+294,Holiday Inn Express Hotel and Suites Hesperia,7,booked,3,17,17.65
+294,Holiday Inn Express Hotel and Suites Hesperia,8,breakfast,3,17,17.65
+294,Holiday Inn Express Hotel and Suites Hesperia,9,hard,3,17,17.65
+294,Holiday Inn Express Hotel and Suites Hesperia,10,old,3,17,17.65
+294,Holiday Inn Express Hotel and Suites Hesperia,11,sorry,3,17,17.65
+294,Holiday Inn Express Hotel and Suites Hesperia,12,tell,3,17,17.65
+296,Holiday Inn Express Hotel and Suites Memphis Southwind,1,window,4,10,40.0
+296,Holiday Inn Express Hotel and Suites Memphis Southwind,2,breakfast,3,10,30.0
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,1,floor,6,18,33.33
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,2,towels,6,18,33.33
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,3,arrived,5,18,27.78
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,4,booked,5,18,27.78
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,5,door,5,18,27.78
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,6,desk,4,18,22.22
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,7,didn't,4,18,22.22
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,8,paid,4,18,22.22
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,9,ago,3,18,16.67
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,10,bathroom,3,18,16.67
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,11,check,3,18,16.67
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,12,coffee,3,18,16.67
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,13,fresh,3,18,16.67
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,14,service,3,18,16.67
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,15,tv,3,18,16.67
+298,Holiday Inn Express Hotel and Suites Va Beach Oceanfront,16,work,3,18,16.67
+300,Holiday Inn Express San Clemente,1,desk,6,11,54.55
+300,Holiday Inn Express San Clemente,2,called,5,11,45.45
+300,Holiday Inn Express San Clemente,3,people,5,11,45.45
+300,Holiday Inn Express San Clemente,4,breakfast,3,11,27.27
+300,Holiday Inn Express San Clemente,5,cleaned,3,11,27.27
+300,Holiday Inn Express San Clemente,6,finally,3,11,27.27
+303,Holiday Inn Fond Du Lac,1,bathroom,5,13,38.46
+303,Holiday Inn Fond Du Lac,2,late,4,13,30.77
+303,Holiday Inn Fond Du Lac,3,needed,4,13,30.77
+303,Holiday Inn Fond Du Lac,4,work,4,13,30.77
+303,Holiday Inn Fond Du Lac,5,bad,3,13,23.08
+303,Holiday Inn Fond Du Lac,6,bad bathroom,3,13,23.08
+303,Holiday Inn Fond Du Lac,7,bathroom run,3,13,23.08
+303,Holiday Inn Fond Du Lac,8,construction,3,13,23.08
+303,Holiday Inn Fond Du Lac,9,didn't,3,13,23.08
+303,Holiday Inn Fond Du Lac,10,expedia,3,13,23.08
+303,Holiday Inn Fond Du Lac,11,half,3,13,23.08
+303,Holiday Inn Fond Du Lac,12,it's,3,13,23.08
+303,Holiday Inn Fond Du Lac,13,it's worth,3,13,23.08
+303,Holiday Inn Fond Du Lac,14,needed work,3,13,23.08
+303,Holiday Inn Fond Du Lac,15,paid,3,13,23.08
+303,Holiday Inn Fond Du Lac,16,paid it's,3,13,23.08
+303,Holiday Inn Fond Du Lac,17,run,3,13,23.08
+303,Holiday Inn Fond Du Lac,18,run needed,3,13,23.08
+303,Holiday Inn Fond Du Lac,19,sleep,3,13,23.08
+303,Holiday Inn Fond Du Lac,20,smelt,3,13,23.08
+320,Hotel Deca - A Noble House Hotel,1,desk,13,42,30.95
+320,Hotel Deca - A Noble House Hotel,2,nice,8,42,19.05
+320,Hotel Deca - A Noble House Hotel,3,staff,8,42,19.05
+320,Hotel Deca - A Noble House Hotel,4,called,7,42,16.67
+320,Hotel Deca - A Noble House Hotel,5,arrived,6,42,14.29
+320,Hotel Deca - A Noble House Hotel,6,dirty,6,42,14.29
+320,Hotel Deca - A Noble House Hotel,7,service,6,42,14.29
+320,Hotel Deca - A Noble House Hotel,8,lobby,5,42,11.9
+320,Hotel Deca - A Noble House Hotel,9,pictures,5,42,11.9
+320,Hotel Deca - A Noble House Hotel,10,poor,5,42,11.9
+320,Hotel Deca - A Noble House Hotel,11,restaurant,5,42,11.9
+320,Hotel Deca - A Noble House Hotel,12,bathroom,4,42,9.52
+320,Hotel Deca - A Noble House Hotel,13,booked,4,42,9.52
+320,Hotel Deca - A Noble House Hotel,14,business,4,42,9.52
+320,Hotel Deca - A Noble House Hotel,15,came,4,42,9.52
+320,Hotel Deca - A Noble House Hotel,16,charged,4,42,9.52
+320,Hotel Deca - A Noble House Hotel,17,clean,4,42,9.52
+320,Hotel Deca - A Noble House Hotel,18,coffee,4,42,9.52
+320,Hotel Deca - A Noble House Hotel,19,deca,4,42,9.52
+320,Hotel Deca - A Noble House Hotel,20,didn't,4,42,9.52
+323,Hotel Lavonia,1,breakfast,6,18,33.33
+323,Hotel Lavonia,2,staff,6,18,33.33
+323,Hotel Lavonia,3,ac,4,18,22.22
+323,Hotel Lavonia,4,desk,4,18,22.22
+323,Hotel Lavonia,5,area,3,18,16.67
+323,Hotel Lavonia,6,beds,3,18,16.67
+323,Hotel Lavonia,7,booked,3,18,16.67
+323,Hotel Lavonia,8,dirty,3,18,16.67
+323,Hotel Lavonia,9,food,3,18,16.67
+323,Hotel Lavonia,10,nice,3,18,16.67
+323,Hotel Lavonia,11,paid,3,18,16.67
+323,Hotel Lavonia,12,pay,3,18,16.67
+323,Hotel Lavonia,13,pleasant,3,18,16.67
+323,Hotel Lavonia,14,probably,3,18,16.67
+323,Hotel Lavonia,15,shower,3,18,16.67
+323,Hotel Lavonia,16,towels,3,18,16.67
+323,Hotel Lavonia,17,walls,3,18,16.67
+323,Hotel Lavonia,18,wouldn't,3,18,16.67
+335,Hotel Valencia Santana Row,1,it's,4,13,30.77
+335,Hotel Valencia Santana Row,2,area,3,13,23.08
+335,Hotel Valencia Santana Row,3,service,3,13,23.08
+335,Hotel Valencia Santana Row,4,sleep,3,13,23.08
+335,Hotel Valencia Santana Row,5,times,3,13,23.08
+335,Hotel Valencia Santana Row,6,view,3,13,23.08
+339,Howard Johnson Inn - Newburgh,1,breakfast,61,252,24.21
+339,Howard Johnson Inn - Newburgh,2,bathroom,48,252,19.05
+339,Howard Johnson Inn - Newburgh,3,dirty,46,252,18.25
+339,Howard Johnson Inn - Newburgh,4,bed,41,252,16.27
+339,Howard Johnson Inn - Newburgh,5,old,41,252,16.27
+339,Howard Johnson Inn - Newburgh,6,desk,40,252,15.87
+339,Howard Johnson Inn - Newburgh,7,clean,38,252,15.08
+339,Howard Johnson Inn - Newburgh,8,staff,36,252,14.29
+339,Howard Johnson Inn - Newburgh,9,didn't,34,252,13.49
+339,Howard Johnson Inn - Newburgh,10,door,34,252,13.49
+339,Howard Johnson Inn - Newburgh,11,shower,33,252,13.1
+339,Howard Johnson Inn - Newburgh,12,floor,27,252,10.71
+339,Howard Johnson Inn - Newburgh,13,smelled,27,252,10.71
+339,Howard Johnson Inn - Newburgh,14,work,26,252,10.32
+339,Howard Johnson Inn - Newburgh,15,smell,25,252,9.92
+339,Howard Johnson Inn - Newburgh,16,water,24,252,9.52
+339,Howard Johnson Inn - Newburgh,17,bad,22,252,8.73
+339,Howard Johnson Inn - Newburgh,18,howard,22,252,8.73
+339,Howard Johnson Inn - Newburgh,19,price,21,252,8.33
+339,Howard Johnson Inn - Newburgh,20,tub,21,252,8.33
+340,Howard Johnson Inn Columbia,1,didn't,5,17,29.41
+340,Howard Johnson Inn Columbia,2,asked,4,17,23.53
+340,Howard Johnson Inn Columbia,3,bed,4,17,23.53
+340,Howard Johnson Inn Columbia,4,dirty,4,17,23.53
+340,Howard Johnson Inn Columbia,5,sleep,4,17,23.53
+340,Howard Johnson Inn Columbia,6,staff,4,17,23.53
+340,Howard Johnson Inn Columbia,7,went,4,17,23.53
+340,Howard Johnson Inn Columbia,8,hard,3,17,17.65
+340,Howard Johnson Inn Columbia,9,nice,3,17,17.65
+340,Howard Johnson Inn Columbia,10,say,3,17,17.65
+340,Howard Johnson Inn Columbia,11,sure,3,17,17.65
+340,Howard Johnson Inn Columbia,12,tv,3,17,17.65
+340,Howard Johnson Inn Columbia,13,work,3,17,17.65
+344,Hyatt Place Atlanta/alpharetta/north Point Mall,1,work,4,20,20.0
+344,Hyatt Place Atlanta/alpharetta/north Point Mall,2,bed,3,20,15.0
+344,Hyatt Place Atlanta/alpharetta/north Point Mall,3,desk,3,20,15.0
+344,Hyatt Place Atlanta/alpharetta/north Point Mall,4,people,3,20,15.0
+344,Hyatt Place Atlanta/alpharetta/north Point Mall,5,staff,3,20,15.0
+344,Hyatt Place Atlanta/alpharetta/north Point Mall,6,towels,3,20,15.0
+346,Hyatt Place San Antonio Airport - Quarry Market,1,didn't,4,23,17.39
+346,Hyatt Place San Antonio Airport - Quarry Market,2,desk,3,23,13.04
+346,Hyatt Place San Antonio Airport - Quarry Market,3,heard,3,23,13.04
+346,Hyatt Place San Antonio Airport - Quarry Market,4,horrible,3,23,13.04
+346,Hyatt Place San Antonio Airport - Quarry Market,5,location,3,23,13.04
+346,Hyatt Place San Antonio Airport - Quarry Market,6,shower,3,23,13.04
+346,Hyatt Place San Antonio Airport - Quarry Market,7,use,3,23,13.04
+346,Hyatt Place San Antonio Airport - Quarry Market,8,wanted,3,23,13.04
+347,Hyatt Place Utica,1,money,3,10,30.0
+353,Inn At Queen Anne,1,old,9,28,32.14
+353,Inn At Queen Anne,2,bathroom,7,28,25.0
+353,Inn At Queen Anne,3,location,7,28,25.0
+353,Inn At Queen Anne,4,bed,6,28,21.43
+353,Inn At Queen Anne,5,street,6,28,21.43
+353,Inn At Queen Anne,6,hot,5,28,17.86
+353,Inn At Queen Anne,7,parking,5,28,17.86
+353,Inn At Queen Anne,8,pay,5,28,17.86
+353,Inn At Queen Anne,9,shower,5,28,17.86
+353,Inn At Queen Anne,10,small,5,28,17.86
+353,Inn At Queen Anne,11,staff,5,28,17.86
+353,Inn At Queen Anne,12,water,5,28,17.86
+353,Inn At Queen Anne,13,able,4,28,14.29
+353,Inn At Queen Anne,14,checked,4,28,14.29
+353,Inn At Queen Anne,15,clean,4,28,14.29
+353,Inn At Queen Anne,16,don't,4,28,14.29
+353,Inn At Queen Anne,17,elevator,4,28,14.29
+353,Inn At Queen Anne,18,great,4,28,14.29
+353,Inn At Queen Anne,19,heater,4,28,14.29
+353,Inn At Queen Anne,20,little,4,28,14.29
+360,Ip Casino Resort Spa,1,smoking,12,47,25.53
+360,Ip Casino Resort Spa,2,casino,10,47,21.28
+360,Ip Casino Resort Spa,3,people,10,47,21.28
+360,Ip Casino Resort Spa,4,non,9,47,19.15
+360,Ip Casino Resort Spa,5,smoke,9,47,19.15
+360,Ip Casino Resort Spa,6,non smoking,8,47,17.02
+360,Ip Casino Resort Spa,7,staff,8,47,17.02
+360,Ip Casino Resort Spa,8,nice,7,47,14.89
+360,Ip Casino Resort Spa,9,pool,6,47,12.77
+360,Ip Casino Resort Spa,10,want,6,47,12.77
+360,Ip Casino Resort Spa,11,bed,5,47,10.64
+360,Ip Casino Resort Spa,12,check,5,47,10.64
+360,Ip Casino Resort Spa,13,desk,5,47,10.64
+360,Ip Casino Resort Spa,14,going,5,47,10.64
+360,Ip Casino Resort Spa,15,line,5,47,10.64
+360,Ip Casino Resort Spa,16,paid,5,47,10.64
+360,Ip Casino Resort Spa,17,resort,5,47,10.64
+360,Ip Casino Resort Spa,18,rude,5,47,10.64
+360,Ip Casino Resort Spa,19,wanted,5,47,10.64
+360,Ip Casino Resort Spa,20,best,4,47,8.51
+361,Jacksonville Plaza Hotel and Suites,1,airport,12,51,23.53
+361,Jacksonville Plaza Hotel and Suites,2,bed,11,51,21.57
+361,Jacksonville Plaza Hotel and Suites,3,small,10,51,19.61
+361,Jacksonville Plaza Hotel and Suites,4,booked,9,51,17.65
+361,Jacksonville Plaza Hotel and Suites,5,desk,9,51,17.65
+361,Jacksonville Plaza Hotel and Suites,6,clean,8,51,15.69
+361,Jacksonville Plaza Hotel and Suites,7,area,7,51,13.73
+361,Jacksonville Plaza Hotel and Suites,8,bathroom,7,51,13.73
+361,Jacksonville Plaza Hotel and Suites,9,shuttle,7,51,13.73
+361,Jacksonville Plaza Hotel and Suites,10,staff,7,51,13.73
+361,Jacksonville Plaza Hotel and Suites,11,walls,7,51,13.73
+361,Jacksonville Plaza Hotel and Suites,12,called,6,51,11.76
+361,Jacksonville Plaza Hotel and Suites,13,light,6,51,11.76
+361,Jacksonville Plaza Hotel and Suites,14,smelled,6,51,11.76
+361,Jacksonville Plaza Hotel and Suites,15,basic,5,51,9.8
+361,Jacksonville Plaza Hotel and Suites,16,cruise,5,51,9.8
+361,Jacksonville Plaza Hotel and Suites,17,didn't,5,51,9.8
+361,Jacksonville Plaza Hotel and Suites,18,money,5,51,9.8
+361,Jacksonville Plaza Hotel and Suites,19,morning,5,51,9.8
+361,Jacksonville Plaza Hotel and Suites,20,needed,5,51,9.8
+364,Jvd Hotels,1,bathroom,8,35,22.86
+364,Jvd Hotels,2,desk,7,35,20.0
+364,Jvd Hotels,3,dirty,7,35,20.0
+364,Jvd Hotels,4,floor,7,35,20.0
+364,Jvd Hotels,5,needs,7,35,20.0
+364,Jvd Hotels,6,bed,6,35,17.14
+364,Jvd Hotels,7,clean,6,35,17.14
+364,Jvd Hotels,8,towels,6,35,17.14
+364,Jvd Hotels,9,carpet,5,35,14.29
+364,Jvd Hotels,10,check,5,35,14.29
+364,Jvd Hotels,11,coffee,5,35,14.29
+364,Jvd Hotels,12,days,5,35,14.29
+364,Jvd Hotels,13,door,5,35,14.29
+364,Jvd Hotels,14,sleep,5,35,14.29
+364,Jvd Hotels,15,work,5,35,14.29
+364,Jvd Hotels,16,air,4,35,11.43
+364,Jvd Hotels,17,breakfast,4,35,11.43
+364,Jvd Hotels,18,broken,4,35,11.43
+364,Jvd Hotels,19,coming,4,35,11.43
+364,Jvd Hotels,20,didn't,4,35,11.43
+368,Knights Inn Aiken,1,motel,9,25,36.0
+368,Knights Inn Aiken,2,sleep,7,25,28.0
+368,Knights Inn Aiken,3,bed,6,25,24.0
+368,Knights Inn Aiken,4,booked,6,25,24.0
+368,Knights Inn Aiken,5,didn't,6,25,24.0
+368,Knights Inn Aiken,6,going,6,25,24.0
+368,Knights Inn Aiken,7,inn,6,25,24.0
+368,Knights Inn Aiken,8,pool,6,25,24.0
+368,Knights Inn Aiken,9,run,5,25,20.0
+368,Knights Inn Aiken,10,toilet,5,25,20.0
+368,Knights Inn Aiken,11,went,5,25,20.0
+368,Knights Inn Aiken,12,aiken,4,25,16.0
+368,Knights Inn Aiken,13,breakfast,4,25,16.0
+368,Knights Inn Aiken,14,bugs,4,25,16.0
+368,Knights Inn Aiken,15,clean,4,25,16.0
+368,Knights Inn Aiken,16,closed,4,25,16.0
+368,Knights Inn Aiken,17,desk,4,25,16.0
+368,Knights Inn Aiken,18,door,4,25,16.0
+368,Knights Inn Aiken,19,friendly,4,25,16.0
+368,Knights Inn Aiken,20,knights,4,25,16.0
+369,Knights Inn Amarillo Airport,1,available,5,19,26.32
+369,Knights Inn Amarillo Airport,2,desk,5,19,26.32
+369,Knights Inn Amarillo Airport,3,didn't,5,19,26.32
+369,Knights Inn Amarillo Airport,4,wouldn't,5,19,26.32
+369,Knights Inn Amarillo Airport,5,beds,4,19,21.05
+369,Knights Inn Amarillo Airport,6,booked,4,19,21.05
+369,Knights Inn Amarillo Airport,7,door,4,19,21.05
+369,Knights Inn Amarillo Airport,8,inn,4,19,21.05
+369,Knights Inn Amarillo Airport,9,money,4,19,21.05
+369,Knights Inn Amarillo Airport,10,people,4,19,21.05
+369,Knights Inn Amarillo Airport,11,recommend,4,19,21.05
+369,Knights Inn Amarillo Airport,12,windows,4,19,21.05
+369,Knights Inn Amarillo Airport,13,able,3,19,15.79
+369,Knights Inn Amarillo Airport,14,airport,3,19,15.79
+369,Knights Inn Amarillo Airport,15,amarillo,3,19,15.79
+369,Knights Inn Amarillo Airport,16,bad,3,19,15.79
+369,Knights Inn Amarillo Airport,17,bar,3,19,15.79
+369,Knights Inn Amarillo Airport,18,bathroom,3,19,15.79
+369,Knights Inn Amarillo Airport,19,bed,3,19,15.79
+369,Knights Inn Amarillo Airport,20,boarded,3,19,15.79
+370,Knights Inn Carmel Hill,1,breakfast,8,23,34.78
+370,Knights Inn Carmel Hill,2,bed,5,23,21.74
+370,Knights Inn Carmel Hill,3,shower,5,23,21.74
+370,Knights Inn Carmel Hill,4,bathroom,4,23,17.39
+370,Knights Inn Carmel Hill,5,clean,4,23,17.39
+370,Knights Inn Carmel Hill,6,didn't,4,23,17.39
+370,Knights Inn Carmel Hill,7,motel,4,23,17.39
+370,Knights Inn Carmel Hill,8,old,4,23,17.39
+370,Knights Inn Carmel Hill,9,sink,4,23,17.39
+370,Knights Inn Carmel Hill,10,small,4,23,17.39
+370,Knights Inn Carmel Hill,11,dirty,3,23,13.04
+370,Knights Inn Carmel Hill,12,door,3,23,13.04
+370,Knights Inn Carmel Hill,13,floor,3,23,13.04
+370,Knights Inn Carmel Hill,14,paid,3,23,13.04
+370,Knights Inn Carmel Hill,15,pool,3,23,13.04
+370,Knights Inn Carmel Hill,16,price,3,23,13.04
+370,Knights Inn Carmel Hill,17,terrible,3,23,13.04
+370,Knights Inn Carmel Hill,18,toilet,3,23,13.04
+370,Knights Inn Carmel Hill,19,tub,3,23,13.04
+370,Knights Inn Carmel Hill,20,worth,3,23,13.04
+371,Knights Inn Eau Claire,1,clean,8,16,50.0
+371,Knights Inn Eau Claire,2,desk,4,16,25.0
+371,Knights Inn Eau Claire,3,money,4,16,25.0
+371,Knights Inn Eau Claire,4,area,3,16,18.75
+371,Knights Inn Eau Claire,5,outside,3,16,18.75
+371,Knights Inn Eau Claire,6,terrible,3,16,18.75
+379,La Quinta Inn Auburn Worcester,1,desk,7,32,21.88
+379,La Quinta Inn Auburn Worcester,2,staff,7,32,21.88
+379,La Quinta Inn Auburn Worcester,3,clean,6,32,18.75
+379,La Quinta Inn Auburn Worcester,4,shower,6,32,18.75
+379,La Quinta Inn Auburn Worcester,5,booked,5,32,15.62
+379,La Quinta Inn Auburn Worcester,6,breakfast,5,32,15.62
+379,La Quinta Inn Auburn Worcester,7,cleaned,5,32,15.62
+379,La Quinta Inn Auburn Worcester,8,dirty,5,32,15.62
+379,La Quinta Inn Auburn Worcester,9,bad,4,32,12.5
+379,La Quinta Inn Auburn Worcester,10,bed,4,32,12.5
+379,La Quinta Inn Auburn Worcester,11,comfortable,4,32,12.5
+379,La Quinta Inn Auburn Worcester,12,don't,4,32,12.5
+379,La Quinta Inn Auburn Worcester,13,know,4,32,12.5
+379,La Quinta Inn Auburn Worcester,14,la,4,32,12.5
+379,La Quinta Inn Auburn Worcester,15,la quinta,4,32,12.5
+379,La Quinta Inn Auburn Worcester,16,morning,4,32,12.5
+379,La Quinta Inn Auburn Worcester,17,quinta,4,32,12.5
+379,La Quinta Inn Auburn Worcester,18,tub,4,32,12.5
+379,La Quinta Inn Auburn Worcester,19,wasn't,4,32,12.5
+379,La Quinta Inn Auburn Worcester,20,won't,4,32,12.5
+382,La Quinta Inn and Suites Meridian,1,dirty,9,29,31.03
+382,La Quinta Inn and Suites Meridian,2,bed,8,29,27.59
+382,La Quinta Inn and Suites Meridian,3,bathroom,6,29,20.69
+382,La Quinta Inn and Suites Meridian,4,clean,6,29,20.69
+382,La Quinta Inn and Suites Meridian,5,went,6,29,20.69
+382,La Quinta Inn and Suites Meridian,6,desk,4,29,13.79
+382,La Quinta Inn and Suites Meridian,7,floor,4,29,13.79
+382,La Quinta Inn and Suites Meridian,8,pool,4,29,13.79
+382,La Quinta Inn and Suites Meridian,9,sheets,4,29,13.79
+382,La Quinta Inn and Suites Meridian,10,want,4,29,13.79
+382,La Quinta Inn and Suites Meridian,11,wifi,4,29,13.79
+382,La Quinta Inn and Suites Meridian,12,worst,4,29,13.79
+382,La Quinta Inn and Suites Meridian,13,bad,3,29,10.34
+382,La Quinta Inn and Suites Meridian,14,bed towels,3,29,10.34
+382,La Quinta Inn and Suites Meridian,15,breakfast,3,29,10.34
+382,La Quinta Inn and Suites Meridian,16,carpet,3,29,10.34
+382,La Quinta Inn and Suites Meridian,17,changed,3,29,10.34
+382,La Quinta Inn and Suites Meridian,18,changed clean,3,29,10.34
+382,La Quinta Inn and Suites Meridian,19,clean bed,3,29,10.34
+382,La Quinta Inn and Suites Meridian,20,didn't,3,29,10.34
+383,La Quinta Inn and Suites Miami Cutler Bay,1,desk,5,12,41.67
+383,La Quinta Inn and Suites Miami Cutler Bay,2,it's,4,12,33.33
+383,La Quinta Inn and Suites Miami Cutler Bay,3,smell,4,12,33.33
+383,La Quinta Inn and Suites Miami Cutler Bay,4,smoke,4,12,33.33
+383,La Quinta Inn and Suites Miami Cutler Bay,5,smoking,4,12,33.33
+383,La Quinta Inn and Suites Miami Cutler Bay,6,bad,3,12,25.0
+383,La Quinta Inn and Suites Miami Cutler Bay,7,bed,3,12,25.0
+383,La Quinta Inn and Suites Miami Cutler Bay,8,breakfast,3,12,25.0
+383,La Quinta Inn and Suites Miami Cutler Bay,9,clean,3,12,25.0
+383,La Quinta Inn and Suites Miami Cutler Bay,10,non,3,12,25.0
+383,La Quinta Inn and Suites Miami Cutler Bay,11,non smoking,3,12,25.0
+383,La Quinta Inn and Suites Miami Cutler Bay,12,small,3,12,25.0
+384,La Quinta Inn and Suites Nashville Franklin,1,breakfast,10,31,32.26
+384,La Quinta Inn and Suites Nashville Franklin,2,area,7,31,22.58
+384,La Quinta Inn and Suites Nashville Franklin,3,dirty,7,31,22.58
+384,La Quinta Inn and Suites Nashville Franklin,4,people,6,31,19.35
+384,La Quinta Inn and Suites Nashville Franklin,5,bed,5,31,16.13
+384,La Quinta Inn and Suites Nashville Franklin,6,better,5,31,16.13
+384,La Quinta Inn and Suites Nashville Franklin,7,friendly,5,31,16.13
+384,La Quinta Inn and Suites Nashville Franklin,8,nice,5,31,16.13
+384,La Quinta Inn and Suites Nashville Franklin,9,staff,5,31,16.13
+384,La Quinta Inn and Suites Nashville Franklin,10,tub,5,31,16.13
+384,La Quinta Inn and Suites Nashville Franklin,11,bad,4,31,12.9
+384,La Quinta Inn and Suites Nashville Franklin,12,beds,4,31,12.9
+384,La Quinta Inn and Suites Nashville Franklin,13,booked,4,31,12.9
+384,La Quinta Inn and Suites Nashville Franklin,14,carpet,4,31,12.9
+384,La Quinta Inn and Suites Nashville Franklin,15,clean,4,31,12.9
+384,La Quinta Inn and Suites Nashville Franklin,16,door,4,31,12.9
+384,La Quinta Inn and Suites Nashville Franklin,17,location,4,31,12.9
+384,La Quinta Inn and Suites Nashville Franklin,18,pets,4,31,12.9
+384,La Quinta Inn and Suites Nashville Franklin,19,smelled,4,31,12.9
+384,La Quinta Inn and Suites Nashville Franklin,20,way,4,31,12.9
+385,La Quinta Inn and Suites Sunrise,1,desk,7,31,22.58
+385,La Quinta Inn and Suites Sunrise,2,dirty,6,31,19.35
+385,La Quinta Inn and Suites Sunrise,3,floor,6,31,19.35
+385,La Quinta Inn and Suites Sunrise,4,la,6,31,19.35
+385,La Quinta Inn and Suites Sunrise,5,carpets,5,31,16.13
+385,La Quinta Inn and Suites Sunrise,6,clean,5,31,16.13
+385,La Quinta Inn and Suites Sunrise,7,air,4,31,12.9
+385,La Quinta Inn and Suites Sunrise,8,area,4,31,12.9
+385,La Quinta Inn and Suites Sunrise,9,booked,4,31,12.9
+385,La Quinta Inn and Suites Sunrise,10,breakfast,4,31,12.9
+385,La Quinta Inn and Suites Sunrise,11,check,4,31,12.9
+385,La Quinta Inn and Suites Sunrise,12,checked,4,31,12.9
+385,La Quinta Inn and Suites Sunrise,13,cleaned,4,31,12.9
+385,La Quinta Inn and Suites Sunrise,14,days,4,31,12.9
+385,La Quinta Inn and Suites Sunrise,15,la quinta,4,31,12.9
+385,La Quinta Inn and Suites Sunrise,16,old,4,31,12.9
+385,La Quinta Inn and Suites Sunrise,17,quinta,4,31,12.9
+385,La Quinta Inn and Suites Sunrise,18,staff,4,31,12.9
+385,La Quinta Inn and Suites Sunrise,19,air conditioning,3,31,9.68
+385,La Quinta Inn and Suites Sunrise,20,ants,3,31,9.68
+386,La Quinta Inn and Suites Tucson - Reid Park,1,breakfast,6,15,40.0
+386,La Quinta Inn and Suites Tucson - Reid Park,2,beds,4,15,26.67
+386,La Quinta Inn and Suites Tucson - Reid Park,3,clean,4,15,26.67
+386,La Quinta Inn and Suites Tucson - Reid Park,4,smelled,4,15,26.67
+386,La Quinta Inn and Suites Tucson - Reid Park,5,ac,3,15,20.0
+386,La Quinta Inn and Suites Tucson - Reid Park,6,air,3,15,20.0
+386,La Quinta Inn and Suites Tucson - Reid Park,7,area,3,15,20.0
+386,La Quinta Inn and Suites Tucson - Reid Park,8,bathroom,3,15,20.0
+386,La Quinta Inn and Suites Tucson - Reid Park,9,bed,3,15,20.0
+386,La Quinta Inn and Suites Tucson - Reid Park,10,best,3,15,20.0
+386,La Quinta Inn and Suites Tucson - Reid Park,11,better,3,15,20.0
+386,La Quinta Inn and Suites Tucson - Reid Park,12,desk,3,15,20.0
+386,La Quinta Inn and Suites Tucson - Reid Park,13,dirty,3,15,20.0
+386,La Quinta Inn and Suites Tucson - Reid Park,14,eggs,3,15,20.0
+386,La Quinta Inn and Suites Tucson - Reid Park,15,make,3,15,20.0
+386,La Quinta Inn and Suites Tucson - Reid Park,16,paid,3,15,20.0
+386,La Quinta Inn and Suites Tucson - Reid Park,17,sheets,3,15,20.0
+386,La Quinta Inn and Suites Tucson - Reid Park,18,water,3,15,20.0
+390,Lakeway Resort & Spa,1,pool,4,10,40.0
+390,Lakeway Resort & Spa,2,balcony,3,10,30.0
+390,Lakeway Resort & Spa,3,disappointed,3,10,30.0
+390,Lakeway Resort & Spa,4,it's,3,10,30.0
+390,Lakeway Resort & Spa,5,lot,3,10,30.0
+390,Lakeway Resort & Spa,6,people,3,10,30.0
+391,Lamothe House,1,bed,3,10,30.0
+391,Lamothe House,2,building,3,10,30.0
+391,Lamothe House,3,dirty,3,10,30.0
+391,Lamothe House,4,shower,3,10,30.0
+391,Lamothe House,5,street,3,10,30.0
+408,Mccamly Plaza Hotel,1,staff,8,25,32.0
+408,Mccamly Plaza Hotel,2,sleep,6,25,24.0
+408,Mccamly Plaza Hotel,3,terrible,6,25,24.0
+408,Mccamly Plaza Hotel,4,water,6,25,24.0
+408,Mccamly Plaza Hotel,5,breakfast,5,25,20.0
+408,Mccamly Plaza Hotel,6,desk,5,25,20.0
+408,Mccamly Plaza Hotel,7,food,5,25,20.0
+408,Mccamly Plaza Hotel,8,horrible,5,25,20.0
+408,Mccamly Plaza Hotel,9,door,4,25,16.0
+408,Mccamly Plaza Hotel,10,floor,4,25,16.0
+408,Mccamly Plaza Hotel,11,free,4,25,16.0
+408,Mccamly Plaza Hotel,12,great,4,25,16.0
+408,Mccamly Plaza Hotel,13,hour,4,25,16.0
+408,Mccamly Plaza Hotel,14,morning,4,25,16.0
+408,Mccamly Plaza Hotel,15,park,4,25,16.0
+408,Mccamly Plaza Hotel,16,restaurant,4,25,16.0
+408,Mccamly Plaza Hotel,17,valet,4,25,16.0
+408,Mccamly Plaza Hotel,18,arrived,3,25,12.0
+408,Mccamly Plaza Hotel,19,bad,3,25,12.0
+408,Mccamly Plaza Hotel,20,bed,3,25,12.0
+415,Microtel Inn By Wyndham Knoxville,1,clean,8,38,21.05
+415,Microtel Inn By Wyndham Knoxville,2,desk,8,38,21.05
+415,Microtel Inn By Wyndham Knoxville,3,staff,8,38,21.05
+415,Microtel Inn By Wyndham Knoxville,4,breakfast,7,38,18.42
+415,Microtel Inn By Wyndham Knoxville,5,small,7,38,18.42
+415,Microtel Inn By Wyndham Knoxville,6,booked,6,38,15.79
+415,Microtel Inn By Wyndham Knoxville,7,checked,6,38,15.79
+415,Microtel Inn By Wyndham Knoxville,8,door,6,38,15.79
+415,Microtel Inn By Wyndham Knoxville,9,bed,5,38,13.16
+415,Microtel Inn By Wyndham Knoxville,10,dirty,5,38,13.16
+415,Microtel Inn By Wyndham Knoxville,11,floor,5,38,13.16
+415,Microtel Inn By Wyndham Knoxville,12,money,5,38,13.16
+415,Microtel Inn By Wyndham Knoxville,13,use,5,38,13.16
+415,Microtel Inn By Wyndham Knoxville,14,went,5,38,13.16
+415,Microtel Inn By Wyndham Knoxville,15,bathroom,4,38,10.53
+415,Microtel Inn By Wyndham Knoxville,16,couldn't,4,38,10.53
+415,Microtel Inn By Wyndham Knoxville,17,didn't,4,38,10.53
+415,Microtel Inn By Wyndham Knoxville,18,don't,4,38,10.53
+415,Microtel Inn By Wyndham Knoxville,19,left,4,38,10.53
+415,Microtel Inn By Wyndham Knoxville,20,needed,4,38,10.53
+418,Microtel Inn and Suites By Wyndham Burlington,1,desk,7,21,33.33
+418,Microtel Inn and Suites By Wyndham Burlington,2,bed,5,21,23.81
+418,Microtel Inn and Suites By Wyndham Burlington,3,clean,5,21,23.81
+418,Microtel Inn and Suites By Wyndham Burlington,4,bathroom,4,21,19.05
+418,Microtel Inn and Suites By Wyndham Burlington,5,dirty,4,21,19.05
+418,Microtel Inn and Suites By Wyndham Burlington,6,rude,4,21,19.05
+418,Microtel Inn and Suites By Wyndham Burlington,7,staff,4,21,19.05
+418,Microtel Inn and Suites By Wyndham Burlington,8,stains,4,21,19.05
+418,Microtel Inn and Suites By Wyndham Burlington,9,arrived,3,21,14.29
+418,Microtel Inn and Suites By Wyndham Burlington,10,booked,3,21,14.29
+418,Microtel Inn and Suites By Wyndham Burlington,11,breakfast,3,21,14.29
+418,Microtel Inn and Suites By Wyndham Burlington,12,experience,3,21,14.29
+418,Microtel Inn and Suites By Wyndham Burlington,13,gentleman,3,21,14.29
+418,Microtel Inn and Suites By Wyndham Burlington,14,looked,3,21,14.29
+418,Microtel Inn and Suites By Wyndham Burlington,15,make,3,21,14.29
+418,Microtel Inn and Suites By Wyndham Burlington,16,service,3,21,14.29
+418,Microtel Inn and Suites By Wyndham Burlington,17,sheets,3,21,14.29
+418,Microtel Inn and Suites By Wyndham Burlington,18,small,3,21,14.29
+418,Microtel Inn and Suites By Wyndham Burlington,19,terrible,3,21,14.29
+421,Monarch Inn,1,breakfast,8,18,44.44
+421,Monarch Inn,2,staff,8,18,44.44
+421,Monarch Inn,3,didn't,6,18,33.33
+421,Monarch Inn,4,dirty,5,18,27.78
+421,Monarch Inn,5,bathroom,4,18,22.22
+421,Monarch Inn,6,service,4,18,22.22
+421,Monarch Inn,7,terrible,4,18,22.22
+421,Monarch Inn,8,tv,4,18,22.22
+421,Monarch Inn,9,went,4,18,22.22
+421,Monarch Inn,10,window,4,18,22.22
+421,Monarch Inn,11,work,4,18,22.22
+421,Monarch Inn,12,bad,3,18,16.67
+421,Monarch Inn,13,bed,3,18,16.67
+421,Monarch Inn,14,better,3,18,16.67
+421,Monarch Inn,15,choices,3,18,16.67
+421,Monarch Inn,16,clean,3,18,16.67
+421,Monarch Inn,17,desk,3,18,16.67
+421,Monarch Inn,18,experience,3,18,16.67
+421,Monarch Inn,19,felt,3,18,16.67
+421,Monarch Inn,20,friendly,3,18,16.67
+423,Monterey Beach Dunes Inn,1,bed,9,32,28.12
+423,Monterey Beach Dunes Inn,2,price,8,32,25.0
+423,Monterey Beach Dunes Inn,3,quality,8,32,25.0
+423,Monterey Beach Dunes Inn,4,dirty,7,32,21.88
+423,Monterey Beach Dunes Inn,5,breakfast,6,32,18.75
+423,Monterey Beach Dunes Inn,6,clean,6,32,18.75
+423,Monterey Beach Dunes Inn,7,pay,6,32,18.75
+423,Monterey Beach Dunes Inn,8,small,6,32,18.75
+423,Monterey Beach Dunes Inn,9,morning,5,32,15.62
+423,Monterey Beach Dunes Inn,10,old,5,32,15.62
+423,Monterey Beach Dunes Inn,11,shower,5,32,15.62
+423,Monterey Beach Dunes Inn,12,staff,5,32,15.62
+423,Monterey Beach Dunes Inn,13,beds,4,32,12.5
+423,Monterey Beach Dunes Inn,14,better,4,32,12.5
+423,Monterey Beach Dunes Inn,15,check,4,32,12.5
+423,Monterey Beach Dunes Inn,16,guest,4,32,12.5
+423,Monterey Beach Dunes Inn,17,inn,4,32,12.5
+423,Monterey Beach Dunes Inn,18,left,4,32,12.5
+423,Monterey Beach Dunes Inn,19,office,4,32,12.5
+423,Monterey Beach Dunes Inn,20,outside,4,32,12.5
+427,Mountain Lodge At Telluride - A Noble House Resort,1,bed,5,13,38.46
+427,Mountain Lodge At Telluride - A Noble House Resort,2,staff,5,13,38.46
+427,Mountain Lodge At Telluride - A Noble House Resort,3,lodge,4,13,30.77
+427,Mountain Lodge At Telluride - A Noble House Resort,4,nice,4,13,30.77
+427,Mountain Lodge At Telluride - A Noble House Resort,5,went,3,13,23.08
+431,New York Marriott Marquis,1,floor,18,55,32.73
+431,New York Marriott Marquis,2,square,15,55,27.27
+431,New York Marriott Marquis,3,times,13,55,23.64
+431,New York Marriott Marquis,4,times square,12,55,21.82
+431,New York Marriott Marquis,5,view,10,55,18.18
+431,New York Marriott Marquis,6,bar,9,55,16.36
+431,New York Marriott Marquis,7,elevators,8,55,14.55
+431,New York Marriott Marquis,8,bathroom,7,55,12.73
+431,New York Marriott Marquis,9,don't,6,55,10.91
+431,New York Marriott Marquis,10,great,6,55,10.91
+431,New York Marriott Marquis,11,lobby,6,55,10.91
+431,New York Marriott Marquis,12,way,6,55,10.91
+431,New York Marriott Marquis,13,elevator,5,55,9.09
+431,New York Marriott Marquis,14,glass,5,55,9.09
+431,New York Marriott Marquis,15,marriott,5,55,9.09
+431,New York Marriott Marquis,16,need,5,55,9.09
+431,New York Marriott Marquis,17,service,5,55,9.09
+431,New York Marriott Marquis,18,bad,4,55,7.27
+431,New York Marriott Marquis,19,decor,4,55,7.27
+431,New York Marriott Marquis,20,food,4,55,7.27
+434,Norwood Inn and Suites,1,towels,23,56,41.07
+434,Norwood Inn and Suites,2,bed,19,56,33.93
+434,Norwood Inn and Suites,3,door,12,56,21.43
+434,Norwood Inn and Suites,4,went,12,56,21.43
+434,Norwood Inn and Suites,5,work,12,56,21.43
+434,Norwood Inn and Suites,6,didn't,11,56,19.64
+434,Norwood Inn and Suites,7,shower,11,56,19.64
+434,Norwood Inn and Suites,8,tv,11,56,19.64
+434,Norwood Inn and Suites,9,floor,10,56,17.86
+434,Norwood Inn and Suites,10,desk,9,56,16.07
+434,Norwood Inn and Suites,11,dirty,9,56,16.07
+434,Norwood Inn and Suites,12,bathroom,8,56,14.29
+434,Norwood Inn and Suites,13,checked,8,56,14.29
+434,Norwood Inn and Suites,14,horrible,8,56,14.29
+434,Norwood Inn and Suites,15,terrible,8,56,14.29
+434,Norwood Inn and Suites,16,toilet,8,56,14.29
+434,Norwood Inn and Suites,17,towel,8,56,14.29
+434,Norwood Inn and Suites,18,asked,7,56,12.5
+434,Norwood Inn and Suites,19,right,7,56,12.5
+434,Norwood Inn and Suites,20,sheets,7,56,12.5
+440,Palm Suites,1,doing,5,25,20.0
+440,Palm Suites,2,elevator,5,25,20.0
+440,Palm Suites,3,unit,5,25,20.0
+440,Palm Suites,4,bathroom,4,25,16.0
+440,Palm Suites,5,beach,4,25,16.0
+440,Palm Suites,6,black,4,25,16.0
+440,Palm Suites,7,dirty,4,25,16.0
+440,Palm Suites,8,accessible,3,25,12.0
+440,Palm Suites,9,accessible lobby,3,25,12.0
+440,Palm Suites,10,area,3,25,12.0
+440,Palm Suites,11,area accessible,3,25,12.0
+440,Palm Suites,12,asked,3,25,12.0
+440,Palm Suites,13,bed,3,25,12.0
+440,Palm Suites,14,breakfast,3,25,12.0
+440,Palm Suites,15,carpet,3,25,12.0
+440,Palm Suites,16,checked,3,25,12.0
+440,Palm Suites,17,clean,3,25,12.0
+440,Palm Suites,18,closet,3,25,12.0
+440,Palm Suites,19,disappointed,3,25,12.0
+440,Palm Suites,20,doing renovations,3,25,12.0
+443,Parkside Inn At Incline,1,terrible,4,10,40.0
+443,Parkside Inn At Incline,2,beach,3,10,30.0
+443,Parkside Inn At Incline,3,floors,3,10,30.0
+443,Parkside Inn At Incline,4,motel,3,10,30.0
+443,Parkside Inn At Incline,5,nice,3,10,30.0
+443,Parkside Inn At Incline,6,old,3,10,30.0
+443,Parkside Inn At Incline,7,pool,3,10,30.0
+453,Plaza Hotel and Casino - Las Vegas,1,desk,22,90,24.44
+453,Plaza Hotel and Casino - Las Vegas,2,didn't,17,90,18.89
+453,Plaza Hotel and Casino - Las Vegas,3,bad,15,90,16.67
+453,Plaza Hotel and Casino - Las Vegas,4,dirty,15,90,16.67
+453,Plaza Hotel and Casino - Las Vegas,5,check,14,90,15.56
+453,Plaza Hotel and Casino - Las Vegas,6,service,14,90,15.56
+453,Plaza Hotel and Casino - Las Vegas,7,door,13,90,14.44
+453,Plaza Hotel and Casino - Las Vegas,8,parking,13,90,14.44
+453,Plaza Hotel and Casino - Las Vegas,9,asked,12,90,13.33
+453,Plaza Hotel and Casino - Las Vegas,10,bathroom,12,90,13.33
+453,Plaza Hotel and Casino - Las Vegas,11,bed,12,90,13.33
+453,Plaza Hotel and Casino - Las Vegas,12,people,12,90,13.33
+453,Plaza Hotel and Casino - Las Vegas,13,horrible,11,90,12.22
+453,Plaza Hotel and Casino - Las Vegas,14,called,10,90,11.11
+453,Plaza Hotel and Casino - Las Vegas,15,clean,10,90,11.11
+453,Plaza Hotel and Casino - Las Vegas,16,old,10,90,11.11
+453,Plaza Hotel and Casino - Las Vegas,17,rude,10,90,11.11
+453,Plaza Hotel and Casino - Las Vegas,18,took,10,90,11.11
+453,Plaza Hotel and Casino - Las Vegas,19,booked,9,90,10.0
+453,Plaza Hotel and Casino - Las Vegas,20,experience,9,90,10.0
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,1,minutes,6,18,33.33
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,2,food,5,18,27.78
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,3,pools,5,18,27.78
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,4,resort,5,18,27.78
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,5,service,5,18,27.78
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,6,big,4,18,22.22
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,7,don't,4,18,22.22
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,8,hours,4,18,22.22
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,9,people,4,18,22.22
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,10,property,4,18,22.22
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,11,staff,4,18,22.22
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,12,wasn't,4,18,22.22
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,13,went,4,18,22.22
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,14,bad,3,18,16.67
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,15,beautiful,3,18,16.67
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,16,called,3,18,16.67
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,17,came,3,18,16.67
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,18,cart,3,18,16.67
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,19,charges,3,18,16.67
+458,Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive,20,didn't,3,18,16.67
+460,Quality Inn,1,clean,10,41,24.39
+460,Quality Inn,2,staff,10,41,24.39
+460,Quality Inn,3,bed,7,41,17.07
+460,Quality Inn,4,desk,7,41,17.07
+460,Quality Inn,5,work,7,41,17.07
+460,Quality Inn,6,breakfast,6,41,14.63
+460,Quality Inn,7,quality,6,41,14.63
+460,Quality Inn,8,dirty,5,41,12.2
+460,Quality Inn,9,inn,5,41,12.2
+460,Quality Inn,10,quality inn,5,41,12.2
+460,Quality Inn,11,worn,5,41,12.2
+460,Quality Inn,12,air,4,41,9.76
+460,Quality Inn,13,broken,4,41,9.76
+460,Quality Inn,14,check,4,41,9.76
+460,Quality Inn,15,didn't,4,41,9.76
+460,Quality Inn,16,floor,4,41,9.76
+460,Quality Inn,17,fresh,4,41,9.76
+460,Quality Inn,18,guest,4,41,9.76
+460,Quality Inn,19,hallways,4,41,9.76
+460,Quality Inn,20,hot,4,41,9.76
+461,Quality Inn & Suites,1,went,7,20,35.0
+461,Quality Inn & Suites,2,called,6,20,30.0
+461,Quality Inn & Suites,3,area,5,20,25.0
+461,Quality Inn & Suites,4,bed,5,20,25.0
+461,Quality Inn & Suites,5,better,5,20,25.0
+461,Quality Inn & Suites,6,asked,4,20,20.0
+461,Quality Inn & Suites,7,booked,4,20,20.0
+461,Quality Inn & Suites,8,desk,4,20,20.0
+461,Quality Inn & Suites,9,dirty,4,20,20.0
+461,Quality Inn & Suites,10,floor,4,20,20.0
+461,Quality Inn & Suites,11,manager,4,20,20.0
+461,Quality Inn & Suites,12,staff,4,20,20.0
+461,Quality Inn & Suites,13,tub,4,20,20.0
+461,Quality Inn & Suites,14,bathroom,3,20,15.0
+461,Quality Inn & Suites,15,called desk,3,20,15.0
+461,Quality Inn & Suites,16,carpets,3,20,15.0
+461,Quality Inn & Suites,17,didn't,3,20,15.0
+461,Quality Inn & Suites,18,door,3,20,15.0
+461,Quality Inn & Suites,19,felt,3,20,15.0
+461,Quality Inn & Suites,20,filthy,3,20,15.0
+463,Quality Inn Gulfport,1,carpet,6,20,30.0
+463,Quality Inn Gulfport,2,beds,4,20,20.0
+463,Quality Inn Gulfport,3,clean,4,20,20.0
+463,Quality Inn Gulfport,4,air,3,20,15.0
+463,Quality Inn Gulfport,5,bathroom,3,20,15.0
+463,Quality Inn Gulfport,6,bed,3,20,15.0
+463,Quality Inn Gulfport,7,breakfast,3,20,15.0
+463,Quality Inn Gulfport,8,didn't,3,20,15.0
+463,Quality Inn Gulfport,9,dirty,3,20,15.0
+463,Quality Inn Gulfport,10,door,3,20,15.0
+463,Quality Inn Gulfport,11,mold,3,20,15.0
+463,Quality Inn Gulfport,12,people,3,20,15.0
+463,Quality Inn Gulfport,13,phone,3,20,15.0
+463,Quality Inn Gulfport,14,sleep,3,20,15.0
+463,Quality Inn Gulfport,15,staff,3,20,15.0
+463,Quality Inn Gulfport,16,stained,3,20,15.0
+463,Quality Inn Gulfport,17,tub,3,20,15.0
+464,Quality Inn Johnson City,1,area,4,15,26.67
+464,Quality Inn Johnson City,2,desk,4,15,26.67
+464,Quality Inn Johnson City,3,location,4,15,26.67
+464,Quality Inn Johnson City,4,tv,4,15,26.67
+464,Quality Inn Johnson City,5,beds,3,15,20.0
+464,Quality Inn Johnson City,6,breakfast,3,15,20.0
+464,Quality Inn Johnson City,7,carpet,3,15,20.0
+464,Quality Inn Johnson City,8,towels,3,15,20.0
+465,Quality Inn Long Beach Airport,1,dirty,9,39,23.08
+465,Quality Inn Long Beach Airport,2,bed,8,39,20.51
+465,Quality Inn Long Beach Airport,3,didn't,8,39,20.51
+465,Quality Inn Long Beach Airport,4,door,8,39,20.51
+465,Quality Inn Long Beach Airport,5,parking,7,39,17.95
+465,Quality Inn Long Beach Airport,6,staff,7,39,17.95
+465,Quality Inn Long Beach Airport,7,area,6,39,15.38
+465,Quality Inn Long Beach Airport,8,broken,6,39,15.38
+465,Quality Inn Long Beach Airport,9,desk,6,39,15.38
+465,Quality Inn Long Beach Airport,10,ants,5,39,12.82
+465,Quality Inn Long Beach Airport,11,bad,5,39,12.82
+465,Quality Inn Long Beach Airport,12,clean,5,39,12.82
+465,Quality Inn Long Beach Airport,13,great,5,39,12.82
+465,Quality Inn Long Beach Airport,14,old,5,39,12.82
+465,Quality Inn Long Beach Airport,15,property,5,39,12.82
+465,Quality Inn Long Beach Airport,16,sheets,5,39,12.82
+465,Quality Inn Long Beach Airport,17,breakfast,4,39,10.26
+465,Quality Inn Long Beach Airport,18,cleaned,4,39,10.26
+465,Quality Inn Long Beach Airport,19,comfortable,4,39,10.26
+465,Quality Inn Long Beach Airport,20,friendly,4,39,10.26
+468,Quality Inn and Suites,1,breakfast,12,58,20.69
+468,Quality Inn and Suites,2,elevators,10,58,17.24
+468,Quality Inn and Suites,3,bad,9,58,15.52
+468,Quality Inn and Suites,4,dirty,9,58,15.52
+468,Quality Inn and Suites,5,elevator,9,58,15.52
+468,Quality Inn and Suites,6,staff,9,58,15.52
+468,Quality Inn and Suites,7,desk,8,58,13.79
+468,Quality Inn and Suites,8,old,8,58,13.79
+468,Quality Inn and Suites,9,work,8,58,13.79
+468,Quality Inn and Suites,10,didn't,7,58,12.07
+468,Quality Inn and Suites,11,floor,7,58,12.07
+468,Quality Inn and Suites,12,needs,7,58,12.07
+468,Quality Inn and Suites,13,area,6,58,10.34
+468,Quality Inn and Suites,14,bathroom,6,58,10.34
+468,Quality Inn and Suites,15,bed,6,58,10.34
+468,Quality Inn and Suites,16,clean,6,58,10.34
+468,Quality Inn and Suites,17,filthy,6,58,10.34
+468,Quality Inn and Suites,18,location,6,58,10.34
+468,Quality Inn and Suites,19,nice,6,58,10.34
+468,Quality Inn and Suites,20,shower,6,58,10.34
+469,Quality Inn and Suites Big Rapids,1,door,6,11,54.55
+469,Quality Inn and Suites Big Rapids,2,clean,4,11,36.36
+469,Quality Inn and Suites Big Rapids,3,cleaned,4,11,36.36
+469,Quality Inn and Suites Big Rapids,4,bathroom,3,11,27.27
+469,Quality Inn and Suites Big Rapids,5,outside,3,11,27.27
+471,Quality Inn and Suites Irvine Spectrum,1,staff,8,33,24.24
+471,Quality Inn and Suites Irvine Spectrum,2,breakfast,6,33,18.18
+471,Quality Inn and Suites Irvine Spectrum,3,desk,6,33,18.18
+471,Quality Inn and Suites Irvine Spectrum,4,old,6,33,18.18
+471,Quality Inn and Suites Irvine Spectrum,5,inn,5,33,15.15
+471,Quality Inn and Suites Irvine Spectrum,6,rude,5,33,15.15
+471,Quality Inn and Suites Irvine Spectrum,7,shower,5,33,15.15
+471,Quality Inn and Suites Irvine Spectrum,8,arrived,4,33,12.12
+471,Quality Inn and Suites Irvine Spectrum,9,didn't,4,33,12.12
+471,Quality Inn and Suites Irvine Spectrum,10,floor,4,33,12.12
+471,Quality Inn and Suites Irvine Spectrum,11,hot,4,33,12.12
+471,Quality Inn and Suites Irvine Spectrum,12,new,4,33,12.12
+471,Quality Inn and Suites Irvine Spectrum,13,quality,4,33,12.12
+471,Quality Inn and Suites Irvine Spectrum,14,quality inn,4,33,12.12
+471,Quality Inn and Suites Irvine Spectrum,15,working,4,33,12.12
+471,Quality Inn and Suites Irvine Spectrum,16,asked,3,33,9.09
+471,Quality Inn and Suites Irvine Spectrum,17,bad,3,33,9.09
+471,Quality Inn and Suites Irvine Spectrum,18,bathroom,3,33,9.09
+471,Quality Inn and Suites Irvine Spectrum,19,called,3,33,9.09
+471,Quality Inn and Suites Irvine Spectrum,20,check,3,33,9.09
+472,Quality Suites Intercontinental Airport West,1,desk,4,11,36.36
+472,Quality Suites Intercontinental Airport West,2,didn't,4,11,36.36
+472,Quality Suites Intercontinental Airport West,3,bed,3,11,27.27
+472,Quality Suites Intercontinental Airport West,4,dirty,3,11,27.27
+472,Quality Suites Intercontinental Airport West,5,left,3,11,27.27
+472,Quality Suites Intercontinental Airport West,6,pleasant,3,11,27.27
+472,Quality Suites Intercontinental Airport West,7,service,3,11,27.27
+472,Quality Suites Intercontinental Airport West,8,staff,3,11,27.27
+472,Quality Suites Intercontinental Airport West,9,towels,3,11,27.27
+472,Quality Suites Intercontinental Airport West,10,went,3,11,27.27
+477,Ramada,1,desk,3,11,27.27
+477,Ramada,2,didn't,3,11,27.27
+477,Ramada,3,nice,3,11,27.27
+479,Ramada Vandalia,1,desk,4,14,28.57
+479,Ramada Vandalia,2,ramada,4,14,28.57
+479,Ramada Vandalia,3,bad,3,14,21.43
+479,Ramada Vandalia,4,clean,3,14,21.43
+479,Ramada Vandalia,5,family,3,14,21.43
+479,Ramada Vandalia,6,going,3,14,21.43
+479,Ramada Vandalia,7,nice,3,14,21.43
+479,Ramada Vandalia,8,reservation,3,14,21.43
+479,Ramada Vandalia,9,staff,3,14,21.43
+479,Ramada Vandalia,10,vandalia,3,14,21.43
+486,Red Rest Inn,1,breakfast,5,17,29.41
+486,Red Rest Inn,2,dirty,5,17,29.41
+486,Red Rest Inn,3,staff,5,17,29.41
+486,Red Rest Inn,4,bed,4,17,23.53
+486,Red Rest Inn,5,clean,4,17,23.53
+486,Red Rest Inn,6,coffee,4,17,23.53
+486,Red Rest Inn,7,money,4,17,23.53
+486,Red Rest Inn,8,red,4,17,23.53
+486,Red Rest Inn,9,red roof,4,17,23.53
+486,Red Rest Inn,10,roof,4,17,23.53
+486,Red Rest Inn,11,wasn't,4,17,23.53
+486,Red Rest Inn,12,broken,3,17,17.65
+486,Red Rest Inn,13,bugs,3,17,17.65
+486,Red Rest Inn,14,burn,3,17,17.65
+486,Red Rest Inn,15,carpet,3,17,17.65
+486,Red Rest Inn,16,cereal,3,17,17.65
+486,Red Rest Inn,17,comforter,3,17,17.65
+486,Red Rest Inn,18,floor,3,17,17.65
+486,Red Rest Inn,19,friendly,3,17,17.65
+486,Red Rest Inn,20,recommend,3,17,17.65
+488,Red Roof Inn Cedar Rapids,1,clean,13,64,20.31
+488,Red Roof Inn Cedar Rapids,2,desk,13,64,20.31
+488,Red Roof Inn Cedar Rapids,3,dirty,12,64,18.75
+488,Red Roof Inn Cedar Rapids,4,staff,11,64,17.19
+488,Red Roof Inn Cedar Rapids,5,breakfast,10,64,15.62
+488,Red Roof Inn Cedar Rapids,6,elevator,9,64,14.06
+488,Red Roof Inn Cedar Rapids,7,bed,8,64,12.5
+488,Red Roof Inn Cedar Rapids,8,door,8,64,12.5
+488,Red Roof Inn Cedar Rapids,9,red,8,64,12.5
+488,Red Roof Inn Cedar Rapids,10,red roof,8,64,12.5
+488,Red Roof Inn Cedar Rapids,11,roof,8,64,12.5
+488,Red Roof Inn Cedar Rapids,12,floor,7,64,10.94
+488,Red Roof Inn Cedar Rapids,13,hallways,7,64,10.94
+488,Red Roof Inn Cedar Rapids,14,need,7,64,10.94
+488,Red Roof Inn Cedar Rapids,15,outside,7,64,10.94
+488,Red Roof Inn Cedar Rapids,16,work,7,64,10.94
+488,Red Roof Inn Cedar Rapids,17,area,6,64,9.38
+488,Red Roof Inn Cedar Rapids,18,bathroom,6,64,9.38
+488,Red Roof Inn Cedar Rapids,19,didn't,6,64,9.38
+488,Red Roof Inn Cedar Rapids,20,dump,6,64,9.38
+489,Red Roof Inn Erie,1,highway,6,19,31.58
+489,Red Roof Inn Erie,2,clean,4,19,21.05
+489,Red Roof Inn Erie,3,desk,4,19,21.05
+489,Red Roof Inn Erie,4,door,4,19,21.05
+489,Red Roof Inn Erie,5,small,4,19,21.05
+489,Red Roof Inn Erie,6,bed,3,19,15.79
+489,Red Roof Inn Erie,7,booked,3,19,15.79
+489,Red Roof Inn Erie,8,breakfast,3,19,15.79
+489,Red Roof Inn Erie,9,close,3,19,15.79
+489,Red Roof Inn Erie,10,hear,3,19,15.79
+489,Red Roof Inn Erie,11,inn,3,19,15.79
+489,Red Roof Inn Erie,12,nights,3,19,15.79
+489,Red Roof Inn Erie,13,red,3,19,15.79
+489,Red Roof Inn Erie,14,red roof,3,19,15.79
+489,Red Roof Inn Erie,15,right,3,19,15.79
+489,Red Roof Inn Erie,16,roof,3,19,15.79
+489,Red Roof Inn Erie,17,traffic,3,19,15.79
+490,Red Roof Inn St Louis - Troy,1,bed,4,10,40.0
+490,Red Roof Inn St Louis - Troy,2,clean,4,10,40.0
+493,Residence Inn By Marriott Deptford,1,beds,5,12,41.67
+493,Residence Inn By Marriott Deptford,2,great,4,12,33.33
+493,Residence Inn By Marriott Deptford,3,service,4,12,33.33
+493,Residence Inn By Marriott Deptford,4,staff,4,12,33.33
+493,Residence Inn By Marriott Deptford,5,bathroom,3,12,25.0
+493,Residence Inn By Marriott Deptford,6,beds horrible,3,12,25.0
+493,Residence Inn By Marriott Deptford,7,better,3,12,25.0
+493,Residence Inn By Marriott Deptford,8,better days,3,12,25.0
+493,Residence Inn By Marriott Deptford,9,breakfast,3,12,25.0
+493,Residence Inn By Marriott Deptford,10,days,3,12,25.0
+493,Residence Inn By Marriott Deptford,11,days staff,3,12,25.0
+493,Residence Inn By Marriott Deptford,12,desk,3,12,25.0
+493,Residence Inn By Marriott Deptford,13,desperate,3,12,25.0
+493,Residence Inn By Marriott Deptford,14,desperate need,3,12,25.0
+493,Residence Inn By Marriott Deptford,15,disappointment,3,12,25.0
+493,Residence Inn By Marriott Deptford,16,disappointment desperate,3,12,25.0
+493,Residence Inn By Marriott Deptford,17,great huge,3,12,25.0
+493,Residence Inn By Marriott Deptford,18,horrible,3,12,25.0
+493,Residence Inn By Marriott Deptford,19,horrible old,3,12,25.0
+493,Residence Inn By Marriott Deptford,20,huge,3,12,25.0
+494,Residence Inn By Marriott Fort Lauderdale Weston,1,checked,4,10,40.0
+494,Residence Inn By Marriott Fort Lauderdale Weston,2,bad,3,10,30.0
+494,Residence Inn By Marriott Fort Lauderdale Weston,3,mold,3,10,30.0
+499,Rodeway Inn,1,area,4,13,30.77
+499,Rodeway Inn,2,floor,4,13,30.77
+499,Rodeway Inn,3,bad,3,13,23.08
+499,Rodeway Inn,4,inn,3,13,23.08
+499,Rodeway Inn,5,pool,3,13,23.08
+499,Rodeway Inn,6,staff,3,13,23.08
+518,Sleep Inn At Harbour View,1,cleaned,3,15,20.0
+518,Sleep Inn At Harbour View,2,desk,3,15,20.0
+518,Sleep Inn At Harbour View,3,dirty,3,15,20.0
+518,Sleep Inn At Harbour View,4,hot,3,15,20.0
+518,Sleep Inn At Harbour View,5,recommend,3,15,20.0
+519,Sleep Inn Slidell,1,shower,7,10,70.0
+519,Sleep Inn Slidell,2,breakfast,4,10,40.0
+519,Sleep Inn Slidell,3,door,3,10,30.0
+519,Sleep Inn Slidell,4,floor,3,10,30.0
+519,Sleep Inn Slidell,5,hall,3,10,30.0
+519,Sleep Inn Slidell,6,left,3,10,30.0
+519,Sleep Inn Slidell,7,water,3,10,30.0
+520,Solstice,1,breakfast,15,53,28.3
+520,Solstice,2,staff,15,53,28.3
+520,Solstice,3,country,11,53,20.75
+520,Solstice,4,solstice,11,53,20.75
+520,Solstice,5,country inn,9,53,16.98
+520,Solstice,6,didn't,9,53,16.98
+520,Solstice,7,dirty,9,53,16.98
+520,Solstice,8,inn,9,53,16.98
+520,Solstice,9,pool,9,53,16.98
+520,Solstice,10,suites,9,53,16.98
+520,Solstice,11,work,9,53,16.98
+520,Solstice,12,bed,8,53,15.09
+520,Solstice,13,booked,8,53,15.09
+520,Solstice,14,clean,7,53,13.21
+520,Solstice,15,desk,7,53,13.21
+520,Solstice,16,inn suites,7,53,13.21
+520,Solstice,17,nice,7,53,13.21
+520,Solstice,18,construction,6,53,11.32
+520,Solstice,19,hot,6,53,11.32
+520,Solstice,20,make,6,53,11.32
+521,Sombrero Resort and Marina,1,bed,9,49,18.37
+521,Sombrero Resort and Marina,2,pool,9,49,18.37
+521,Sombrero Resort and Marina,3,dirty,8,49,16.33
+521,Sombrero Resort and Marina,4,door,8,49,16.33
+521,Sombrero Resort and Marina,5,staff,8,49,16.33
+521,Sombrero Resort and Marina,6,bad,7,49,14.29
+521,Sombrero Resort and Marina,7,desk,7,49,14.29
+521,Sombrero Resort and Marina,8,didn't,7,49,14.29
+521,Sombrero Resort and Marina,9,felt,7,49,14.29
+521,Sombrero Resort and Marina,10,nice,7,49,14.29
+521,Sombrero Resort and Marina,11,resort,7,49,14.29
+521,Sombrero Resort and Marina,12,beds,6,49,12.24
+521,Sombrero Resort and Marina,13,blinds,6,49,12.24
+521,Sombrero Resort and Marina,14,booked,6,49,12.24
+521,Sombrero Resort and Marina,15,clean,6,49,12.24
+521,Sombrero Resort and Marina,16,falling,6,49,12.24
+521,Sombrero Resort and Marina,17,it's,6,49,12.24
+521,Sombrero Resort and Marina,18,thought,6,49,12.24
+521,Sombrero Resort and Marina,19,water,6,49,12.24
+521,Sombrero Resort and Marina,20,air,5,49,10.2
+526,Sportsmen's Lodge,1,pool,11,41,26.83
+526,Sportsmen's Lodge,2,desk,7,41,17.07
+526,Sportsmen's Lodge,3,loud,7,41,17.07
+526,Sportsmen's Lodge,4,old,7,41,17.07
+526,Sportsmen's Lodge,5,bathroom,6,41,14.63
+526,Sportsmen's Lodge,6,carpet,6,41,14.63
+526,Sportsmen's Lodge,7,don't,6,41,14.63
+526,Sportsmen's Lodge,8,great,6,41,14.63
+526,Sportsmen's Lodge,9,noisy,6,41,14.63
+526,Sportsmen's Lodge,10,service,6,41,14.63
+526,Sportsmen's Lodge,11,walls,6,41,14.63
+526,Sportsmen's Lodge,12,way,6,41,14.63
+526,Sportsmen's Lodge,13,beds,5,41,12.2
+526,Sportsmen's Lodge,14,called,5,41,12.2
+526,Sportsmen's Lodge,15,days,5,41,12.2
+526,Sportsmen's Lodge,16,dirty,5,41,12.2
+526,Sportsmen's Lodge,17,doors,5,41,12.2
+526,Sportsmen's Lodge,18,lot,5,41,12.2
+526,Sportsmen's Lodge,19,nice,5,41,12.2
+526,Sportsmen's Lodge,20,shower,5,41,12.2
+535,Suburban Extended Stay of Memphis Bartlett,1,work,6,13,46.15
+535,Suburban Extended Stay of Memphis Bartlett,2,tv,5,13,38.46
+535,Suburban Extended Stay of Memphis Bartlett,3,dirty,4,13,30.77
+535,Suburban Extended Stay of Memphis Bartlett,4,roaches,4,13,30.77
+535,Suburban Extended Stay of Memphis Bartlett,5,worst,4,13,30.77
+535,Suburban Extended Stay of Memphis Bartlett,6,didn't,3,13,23.08
+535,Suburban Extended Stay of Memphis Bartlett,7,feel,3,13,23.08
+535,Suburban Extended Stay of Memphis Bartlett,8,old,3,13,23.08
+535,Suburban Extended Stay of Memphis Bartlett,9,properly,3,13,23.08
+535,Suburban Extended Stay of Memphis Bartlett,10,recommend,3,13,23.08
+535,Suburban Extended Stay of Memphis Bartlett,11,spent,3,13,23.08
+535,Suburban Extended Stay of Memphis Bartlett,12,tv work,3,13,23.08
+535,Suburban Extended Stay of Memphis Bartlett,13,work properly,3,13,23.08
+539,Super 8,1,dirty,3,10,30.0
+539,Super 8,2,times,3,10,30.0
+541,Super 8 - Upland,1,broken,9,43,20.93
+541,Super 8 - Upland,2,desk,9,43,20.93
+541,Super 8 - Upland,3,dirty,8,43,18.6
+541,Super 8 - Upland,4,bathroom,7,43,16.28
+541,Super 8 - Upland,5,bed,7,43,16.28
+541,Super 8 - Upland,6,shower,7,43,16.28
+541,Super 8 - Upland,7,tv,7,43,16.28
+541,Super 8 - Upland,8,working,7,43,16.28
+541,Super 8 - Upland,9,area,6,43,13.95
+541,Super 8 - Upland,10,going,6,43,13.95
+541,Super 8 - Upland,11,left,6,43,13.95
+541,Super 8 - Upland,12,outside,6,43,13.95
+541,Super 8 - Upland,13,people,6,43,13.95
+541,Super 8 - Upland,14,sleep,6,43,13.95
+541,Super 8 - Upland,15,smoke,6,43,13.95
+541,Super 8 - Upland,16,wall,6,43,13.95
+541,Super 8 - Upland,17,work,6,43,13.95
+541,Super 8 - Upland,18,air,5,43,11.63
+541,Super 8 - Upland,19,bath,5,43,11.63
+541,Super 8 - Upland,20,booked,5,43,11.63
+543,Super 8 Batesville Ar,1,bed,8,23,34.78
+543,Super 8 Batesville Ar,2,smoke,7,23,30.43
+543,Super 8 Batesville Ar,3,smoking,7,23,30.43
+543,Super 8 Batesville Ar,4,breakfast,5,23,21.74
+543,Super 8 Batesville Ar,5,non-smoking,5,23,21.74
+543,Super 8 Batesville Ar,6,smelled,5,23,21.74
+543,Super 8 Batesville Ar,7,cigarette,4,23,17.39
+543,Super 8 Batesville Ar,8,left,4,23,17.39
+543,Super 8 Batesville Ar,9,non,4,23,17.39
+543,Super 8 Batesville Ar,10,non smoking,4,23,17.39
+543,Super 8 Batesville Ar,11,area,3,23,13.04
+543,Super 8 Batesville Ar,12,bugs,3,23,13.04
+543,Super 8 Batesville Ar,13,chair,3,23,13.04
+543,Super 8 Batesville Ar,14,didn't,3,23,13.04
+543,Super 8 Batesville Ar,15,door,3,23,13.04
+543,Super 8 Batesville Ar,16,experience,3,23,13.04
+543,Super 8 Batesville Ar,17,floor,3,23,13.04
+543,Super 8 Batesville Ar,18,know,3,23,13.04
+543,Super 8 Batesville Ar,19,little,3,23,13.04
+543,Super 8 Batesville Ar,20,lobby,3,23,13.04
+544,Super 8 Belle Fourche,1,clean,6,30,20.0
+544,Super 8 Belle Fourche,2,dirty,6,30,20.0
+544,Super 8 Belle Fourche,3,door,6,30,20.0
+544,Super 8 Belle Fourche,4,bad,5,30,16.67
+544,Super 8 Belle Fourche,5,cleanliness,5,30,16.67
+544,Super 8 Belle Fourche,6,desk,5,30,16.67
+544,Super 8 Belle Fourche,7,smelled,5,30,16.67
+544,Super 8 Belle Fourche,8,air,4,30,13.33
+544,Super 8 Belle Fourche,9,air conditioner,4,30,13.33
+544,Super 8 Belle Fourche,10,arrived,4,30,13.33
+544,Super 8 Belle Fourche,11,bathroom,4,30,13.33
+544,Super 8 Belle Fourche,12,best,4,30,13.33
+544,Super 8 Belle Fourche,13,conditioner,4,30,13.33
+544,Super 8 Belle Fourche,14,musty,4,30,13.33
+544,Super 8 Belle Fourche,15,people,4,30,13.33
+544,Super 8 Belle Fourche,16,recommend,4,30,13.33
+544,Super 8 Belle Fourche,17,stained,4,30,13.33
+544,Super 8 Belle Fourche,18,staying,4,30,13.33
+544,Super 8 Belle Fourche,19,towels,4,30,13.33
+544,Super 8 Belle Fourche,20,wouldn't,4,30,13.33
+545,Super 8 Big Cabin Vinita Ok,1,clean,4,19,21.05
+545,Super 8 Big Cabin Vinita Ok,2,dirty,4,19,21.05
+545,Super 8 Big Cabin Vinita Ok,3,door,4,19,21.05
+545,Super 8 Big Cabin Vinita Ok,4,way,4,19,21.05
+545,Super 8 Big Cabin Vinita Ok,5,bathroom,3,19,15.79
+545,Super 8 Big Cabin Vinita Ok,6,bed,3,19,15.79
+545,Super 8 Big Cabin Vinita Ok,7,booked,3,19,15.79
+545,Super 8 Big Cabin Vinita Ok,8,ceiling,3,19,15.79
+545,Super 8 Big Cabin Vinita Ok,9,desk,3,19,15.79
+545,Super 8 Big Cabin Vinita Ok,10,filthy,3,19,15.79
+545,Super 8 Big Cabin Vinita Ok,11,floor,3,19,15.79
+545,Super 8 Big Cabin Vinita Ok,12,musty,3,19,15.79
+545,Super 8 Big Cabin Vinita Ok,13,smelled,3,19,15.79
+545,Super 8 Big Cabin Vinita Ok,14,staff,3,19,15.79
+545,Super 8 Big Cabin Vinita Ok,15,went,3,19,15.79
+546,Super 8 Blackwell Ok,1,bed,4,12,33.33
+546,Super 8 Blackwell Ok,2,bites,3,12,25.0
+546,Super 8 Blackwell Ok,3,clean,3,12,25.0
+546,Super 8 Blackwell Ok,4,experience,3,12,25.0
+547,Super 8 Bradenton Sarasota Area,1,bathroom,11,23,47.83
+547,Super 8 Bradenton Sarasota Area,2,dirty,10,23,43.48
+547,Super 8 Bradenton Sarasota Area,3,didn't,5,23,21.74
+547,Super 8 Bradenton Sarasota Area,4,area,4,23,17.39
+547,Super 8 Bradenton Sarasota Area,5,bathroom dirty,4,23,17.39
+547,Super 8 Bradenton Sarasota Area,6,bed,4,23,17.39
+547,Super 8 Bradenton Sarasota Area,7,breakfast,4,23,17.39
+547,Super 8 Bradenton Sarasota Area,8,left,4,23,17.39
+547,Super 8 Bradenton Sarasota Area,9,motel,4,23,17.39
+547,Super 8 Bradenton Sarasota Area,10,shower,4,23,17.39
+547,Super 8 Bradenton Sarasota Area,11,smell,4,23,17.39
+547,Super 8 Bradenton Sarasota Area,12,smelled,4,23,17.39
+547,Super 8 Bradenton Sarasota Area,13,towels,4,23,17.39
+547,Super 8 Bradenton Sarasota Area,14,work,4,23,17.39
+547,Super 8 Bradenton Sarasota Area,15,bad,3,23,13.04
+547,Super 8 Bradenton Sarasota Area,16,booked,3,23,13.04
+547,Super 8 Bradenton Sarasota Area,17,clean,3,23,13.04
+547,Super 8 Bradenton Sarasota Area,18,door,3,23,13.04
+547,Super 8 Bradenton Sarasota Area,19,manager,3,23,13.04
+547,Super 8 Bradenton Sarasota Area,20,pool,3,23,13.04
+550,Super 8 Columbia Dwntwn Sc,1,booked,4,14,28.57
+550,Super 8 Columbia Dwntwn Sc,2,dirty,3,14,21.43
+550,Super 8 Columbia Dwntwn Sc,3,motel,3,14,21.43
+550,Super 8 Columbia Dwntwn Sc,4,wanted,3,14,21.43
+552,Super 8 Crete Ne,1,care,3,10,30.0
+552,Super 8 Crete Ne,2,manager,3,10,30.0
+552,Super 8 Crete Ne,3,money,3,10,30.0
+552,Super 8 Crete Ne,4,pillows,3,10,30.0
+552,Super 8 Crete Ne,5,sheets,3,10,30.0
+552,Super 8 Crete Ne,6,stained,3,10,30.0
+552,Super 8 Crete Ne,7,went,3,10,30.0
+553,Super 8 Dallas South,1,breakfast,8,25,32.0
+553,Super 8 Dallas South,2,toilet,6,25,24.0
+553,Super 8 Dallas South,3,desk,5,25,20.0
+553,Super 8 Dallas South,4,air,4,25,16.0
+553,Super 8 Dallas South,5,air conditioner,4,25,16.0
+553,Super 8 Dallas South,6,available,4,25,16.0
+553,Super 8 Dallas South,7,available replenish,4,25,16.0
+553,Super 8 Dallas South,8,breakfast limited,4,25,16.0
+553,Super 8 Dallas South,9,conditioner,4,25,16.0
+553,Super 8 Dallas South,10,door,4,25,16.0
+553,Super 8 Dallas South,11,limited,4,25,16.0
+553,Super 8 Dallas South,12,limited breakfast,4,25,16.0
+553,Super 8 Dallas South,13,limited variety,4,25,16.0
+553,Super 8 Dallas South,14,replenish,4,25,16.0
+553,Super 8 Dallas South,15,replenish toileteries,4,25,16.0
+553,Super 8 Dallas South,16,soap,4,25,16.0
+553,Super 8 Dallas South,17,staff,4,25,16.0
+553,Super 8 Dallas South,18,toileteries,4,25,16.0
+553,Super 8 Dallas South,19,toileteries washing,4,25,16.0
+553,Super 8 Dallas South,20,variety,4,25,16.0
+554,Super 8 Elko Nv,1,desk,5,20,25.0
+554,Super 8 Elko Nv,2,bad,4,20,20.0
+554,Super 8 Elko Nv,3,breakfast,4,20,20.0
+554,Super 8 Elko Nv,4,checked,4,20,20.0
+554,Super 8 Elko Nv,5,super,4,20,20.0
+554,Super 8 Elko Nv,6,beds,3,20,15.0
+554,Super 8 Elko Nv,7,came,3,20,15.0
+554,Super 8 Elko Nv,8,carpet,3,20,15.0
+554,Super 8 Elko Nv,9,check,3,20,15.0
+554,Super 8 Elko Nv,10,clean,3,20,15.0
+554,Super 8 Elko Nv,11,clerk,3,20,15.0
+554,Super 8 Elko Nv,12,condition,3,20,15.0
+554,Super 8 Elko Nv,13,dirty,3,20,15.0
+554,Super 8 Elko Nv,14,door,3,20,15.0
+554,Super 8 Elko Nv,15,elko,3,20,15.0
+554,Super 8 Elko Nv,16,great,3,20,15.0
+554,Super 8 Elko Nv,17,helpful,3,20,15.0
+554,Super 8 Elko Nv,18,location,3,20,15.0
+554,Super 8 Elko Nv,19,motel,3,20,15.0
+554,Super 8 Elko Nv,20,service,3,20,15.0
+555,Super 8 Fort Collins,1,desk,6,22,27.27
+555,Super 8 Fort Collins,2,asked,5,22,22.73
+555,Super 8 Fort Collins,3,dirty,4,22,18.18
+555,Super 8 Fort Collins,4,morning,4,22,18.18
+555,Super 8 Fort Collins,5,outside,4,22,18.18
+555,Super 8 Fort Collins,6,area,3,22,13.64
+555,Super 8 Fort Collins,7,bed,3,22,13.64
+555,Super 8 Fort Collins,8,breakfast,3,22,13.64
+555,Super 8 Fort Collins,9,business,3,22,13.64
+555,Super 8 Fort Collins,10,clean,3,22,13.64
+555,Super 8 Fort Collins,11,comfortable,3,22,13.64
+555,Super 8 Fort Collins,12,days,3,22,13.64
+555,Super 8 Fort Collins,13,deposit,3,22,13.64
+555,Super 8 Fort Collins,14,difficult,3,22,13.64
+555,Super 8 Fort Collins,15,door,3,22,13.64
+555,Super 8 Fort Collins,16,hot,3,22,13.64
+555,Super 8 Fort Collins,17,money,3,22,13.64
+555,Super 8 Fort Collins,18,say,3,22,13.64
+555,Super 8 Fort Collins,19,sleep,3,22,13.64
+555,Super 8 Fort Collins,20,smell,3,22,13.64
+557,Super 8 Indianapolis,1,clean,4,13,30.77
+557,Super 8 Indianapolis,2,didn't,3,13,23.08
+558,Super 8 Ithaca,1,desk,9,18,50.0
+558,Super 8 Ithaca,2,bathroom,6,18,33.33
+558,Super 8 Ithaca,3,bed,6,18,33.33
+558,Super 8 Ithaca,4,water,6,18,33.33
+558,Super 8 Ithaca,5,clean,5,18,27.78
+558,Super 8 Ithaca,6,cleaned,5,18,27.78
+558,Super 8 Ithaca,7,didn't,5,18,27.78
+558,Super 8 Ithaca,8,morning,5,18,27.78
+558,Super 8 Ithaca,9,staff,5,18,27.78
+558,Super 8 Ithaca,10,breakfast,4,18,22.22
+558,Super 8 Ithaca,11,called,4,18,22.22
+558,Super 8 Ithaca,12,nice,4,18,22.22
+558,Super 8 Ithaca,13,shower,4,18,22.22
+558,Super 8 Ithaca,14,toilet,4,18,22.22
+558,Super 8 Ithaca,15,went,4,18,22.22
+558,Super 8 Ithaca,16,beds,3,18,16.67
+558,Super 8 Ithaca,17,checked,3,18,16.67
+558,Super 8 Ithaca,18,cleaning,3,18,16.67
+558,Super 8 Ithaca,19,comfortable,3,18,16.67
+558,Super 8 Ithaca,20,days,3,18,16.67
+559,Super 8 Kansas City Airport,1,breakfast,8,36,22.22
+559,Super 8 Kansas City Airport,2,construction,8,36,22.22
+559,Super 8 Kansas City Airport,3,dirty,8,36,22.22
+559,Super 8 Kansas City Airport,4,old,7,36,19.44
+559,Super 8 Kansas City Airport,5,free,6,36,16.67
+559,Super 8 Kansas City Airport,6,staff,6,36,16.67
+559,Super 8 Kansas City Airport,7,bad,5,36,13.89
+559,Super 8 Kansas City Airport,8,check,5,36,13.89
+559,Super 8 Kansas City Airport,9,desk,5,36,13.89
+559,Super 8 Kansas City Airport,10,door,5,36,13.89
+559,Super 8 Kansas City Airport,11,bathroom,4,36,11.11
+559,Super 8 Kansas City Airport,12,called,4,36,11.11
+559,Super 8 Kansas City Airport,13,didn't,4,36,11.11
+559,Super 8 Kansas City Airport,14,juice,4,36,11.11
+559,Super 8 Kansas City Airport,15,looked,4,36,11.11
+559,Super 8 Kansas City Airport,16,milk,4,36,11.11
+559,Super 8 Kansas City Airport,17,outside,4,36,11.11
+559,Super 8 Kansas City Airport,18,parking,4,36,11.11
+559,Super 8 Kansas City Airport,19,sheets,4,36,11.11
+559,Super 8 Kansas City Airport,20,smelled,4,36,11.11
+560,Super 8 Kingston,1,bed,4,15,26.67
+560,Super 8 Kingston,2,don't,4,15,26.67
+560,Super 8 Kingston,3,bathroom,3,15,20.0
+560,Super 8 Kingston,4,bugs,3,15,20.0
+561,Super 8 Longmont / Del Camino,1,clean,3,10,30.0
+563,Super 8 Manhattan Ks,1,bed,5,17,29.41
+563,Super 8 Manhattan Ks,2,super,5,17,29.41
+563,Super 8 Manhattan Ks,3,staff,4,17,23.53
+563,Super 8 Manhattan Ks,4,wasn't,4,17,23.53
+563,Super 8 Manhattan Ks,5,bad,3,17,17.65
+563,Super 8 Manhattan Ks,6,bathroom,3,17,17.65
+563,Super 8 Manhattan Ks,7,left,3,17,17.65
+563,Super 8 Manhattan Ks,8,nice,3,17,17.65
+563,Super 8 Manhattan Ks,9,recommend,3,17,17.65
+563,Super 8 Manhattan Ks,10,shower,3,17,17.65
+563,Super 8 Manhattan Ks,11,smelled,3,17,17.65
+563,Super 8 Manhattan Ks,12,toilet,3,17,17.65
+563,Super 8 Manhattan Ks,13,towels,3,17,17.65
+564,Super 8 Metropolis,1,breakfast,7,25,28.0
+564,Super 8 Metropolis,2,desk,7,25,28.0
+564,Super 8 Metropolis,3,super,6,25,24.0
+564,Super 8 Metropolis,4,arrived,4,25,16.0
+564,Super 8 Metropolis,5,asked,4,25,16.0
+564,Super 8 Metropolis,6,bed,4,25,16.0
+564,Super 8 Metropolis,7,free,4,25,16.0
+564,Super 8 Metropolis,8,make,4,25,16.0
+564,Super 8 Metropolis,9,smell,4,25,16.0
+564,Super 8 Metropolis,10,smoke,4,25,16.0
+564,Super 8 Metropolis,11,staying,4,25,16.0
+564,Super 8 Metropolis,12,way,4,25,16.0
+564,Super 8 Metropolis,13,bathroom,3,25,12.0
+564,Super 8 Metropolis,14,broken,3,25,12.0
+564,Super 8 Metropolis,15,called,3,25,12.0
+564,Super 8 Metropolis,16,clean,3,25,12.0
+564,Super 8 Metropolis,17,cleaned,3,25,12.0
+564,Super 8 Metropolis,18,clerk,3,25,12.0
+564,Super 8 Metropolis,19,cold,3,25,12.0
+564,Super 8 Metropolis,20,continental,3,25,12.0
+567,Super 8 Pittsburgh/monroeville,1,bed,5,22,22.73
+567,Super 8 Pittsburgh/monroeville,2,non-smoking,5,22,22.73
+567,Super 8 Pittsburgh/monroeville,3,broken,4,22,18.18
+567,Super 8 Pittsburgh/monroeville,4,door,4,22,18.18
+567,Super 8 Pittsburgh/monroeville,5,smoking,4,22,18.18
+567,Super 8 Pittsburgh/monroeville,6,area,3,22,13.64
+567,Super 8 Pittsburgh/monroeville,7,beds,3,22,13.64
+567,Super 8 Pittsburgh/monroeville,8,booked,3,22,13.64
+567,Super 8 Pittsburgh/monroeville,9,breakfast,3,22,13.64
+567,Super 8 Pittsburgh/monroeville,10,com,3,22,13.64
+567,Super 8 Pittsburgh/monroeville,11,didn't,3,22,13.64
+567,Super 8 Pittsburgh/monroeville,12,family,3,22,13.64
+567,Super 8 Pittsburgh/monroeville,13,going,3,22,13.64
+567,Super 8 Pittsburgh/monroeville,14,low,3,22,13.64
+567,Super 8 Pittsburgh/monroeville,15,queen,3,22,13.64
+567,Super 8 Pittsburgh/monroeville,16,reserved,3,22,13.64
+567,Super 8 Pittsburgh/monroeville,17,shower,3,22,13.64
+567,Super 8 Pittsburgh/monroeville,18,smelled,3,22,13.64
+568,Super 8 Schenect/albany Area,1,small,8,20,40.0
+568,Super 8 Schenect/albany Area,2,bed,5,20,25.0
+568,Super 8 Schenect/albany Area,3,breakfast,4,20,20.0
+568,Super 8 Schenect/albany Area,4,air,3,20,15.0
+568,Super 8 Schenect/albany Area,5,bug,3,20,15.0
+568,Super 8 Schenect/albany Area,6,desk,3,20,15.0
+568,Super 8 Schenect/albany Area,7,people,3,20,15.0
+568,Super 8 Schenect/albany Area,8,person,3,20,15.0
+568,Super 8 Schenect/albany Area,9,smelled,3,20,15.0
+568,Super 8 Schenect/albany Area,10,smoking,3,20,15.0
+568,Super 8 Schenect/albany Area,11,water,3,20,15.0
+568,Super 8 Schenect/albany Area,12,way,3,20,15.0
+568,Super 8 Schenect/albany Area,13,working,3,20,15.0
+569,Super 8 Worthington Minnesota,1,super,9,26,34.62
+569,Super 8 Worthington Minnesota,2,person,7,26,26.92
+569,Super 8 Worthington Minnesota,3,breakfast,6,26,23.08
+569,Super 8 Worthington Minnesota,4,work,6,26,23.08
+569,Super 8 Worthington Minnesota,5,desk,5,26,19.23
+569,Super 8 Worthington Minnesota,6,bad,4,26,15.38
+569,Super 8 Worthington Minnesota,7,clerk,4,26,15.38
+569,Super 8 Worthington Minnesota,8,pay,4,26,15.38
+569,Super 8 Worthington Minnesota,9,smoke,4,26,15.38
+569,Super 8 Worthington Minnesota,10,trip,4,26,15.38
+569,Super 8 Worthington Minnesota,11,air,3,26,11.54
+569,Super 8 Worthington Minnesota,12,book,3,26,11.54
+569,Super 8 Worthington Minnesota,13,boyfriend,3,26,11.54
+569,Super 8 Worthington Minnesota,14,came,3,26,11.54
+569,Super 8 Worthington Minnesota,15,coffee,3,26,11.54
+569,Super 8 Worthington Minnesota,16,days,3,26,11.54
+569,Super 8 Worthington Minnesota,17,didn't,3,26,11.54
+569,Super 8 Worthington Minnesota,18,didn't work,3,26,11.54
+569,Super 8 Worthington Minnesota,19,dirty,3,26,11.54
+569,Super 8 Worthington Minnesota,20,extra,3,26,11.54
+572,"The Alexandrian, Autograph Collection",1,desk,17,66,25.76
+572,"The Alexandrian, Autograph Collection",2,staff,17,66,25.76
+572,"The Alexandrian, Autograph Collection",3,service,15,66,22.73
+572,"The Alexandrian, Autograph Collection",4,morning,13,66,19.7
+572,"The Alexandrian, Autograph Collection",5,bed,11,66,16.67
+572,"The Alexandrian, Autograph Collection",6,booked,11,66,16.67
+572,"The Alexandrian, Autograph Collection",7,door,11,66,16.67
+572,"The Alexandrian, Autograph Collection",8,great,11,66,16.67
+572,"The Alexandrian, Autograph Collection",9,asked,10,66,15.15
+572,"The Alexandrian, Autograph Collection",10,left,10,66,15.15
+572,"The Alexandrian, Autograph Collection",11,parking,10,66,15.15
+572,"The Alexandrian, Autograph Collection",12,took,10,66,15.15
+572,"The Alexandrian, Autograph Collection",13,didn't,9,66,13.64
+572,"The Alexandrian, Autograph Collection",14,nice,9,66,13.64
+572,"The Alexandrian, Autograph Collection",15,paid,9,66,13.64
+572,"The Alexandrian, Autograph Collection",16,called,8,66,12.12
+572,"The Alexandrian, Autograph Collection",17,check,8,66,12.12
+572,"The Alexandrian, Autograph Collection",18,days,8,66,12.12
+572,"The Alexandrian, Autograph Collection",19,location,8,66,12.12
+572,"The Alexandrian, Autograph Collection",20,loud,8,66,12.12
+584,The Jayakarta Bali,1,bed,4,10,40.0
+584,The Jayakarta Bali,2,beds,3,10,30.0
+584,The Jayakarta Bali,3,breakfast,3,10,30.0
+584,The Jayakarta Bali,4,cleaned,3,10,30.0
+584,The Jayakarta Bali,5,didn't,3,10,30.0
+584,The Jayakarta Bali,6,nice,3,10,30.0
+584,The Jayakarta Bali,7,request,3,10,30.0
+584,The Jayakarta Bali,8,single,3,10,30.0
+584,The Jayakarta Bali,9,single beds,3,10,30.0
+584,The Jayakarta Bali,10,towels,3,10,30.0
+588,The National Conference Center,1,tunnels,5,18,27.78
+588,The National Conference Center,2,food,4,18,22.22
+588,The National Conference Center,3,ac,3,18,16.67
+588,The National Conference Center,4,ac shuts,3,18,16.67
+588,The National Conference Center,5,activating,3,18,16.67
+588,The National Conference Center,6,activating motion,3,18,16.67
+588,The National Conference Center,7,cafeteria,3,18,16.67
+588,The National Conference Center,8,cafeteria style,3,18,16.67
+588,The National Conference Center,9,city,3,18,16.67
+588,The National Conference Center,10,creepy,3,18,16.67
+588,The National Conference Center,11,creepy weird,3,18,16.67
+588,The National Conference Center,12,food pretty,3,18,16.67
+588,The National Conference Center,13,goodies,3,18,16.67
+588,The National Conference Center,14,grab,3,18,16.67
+588,The National Conference Center,15,grab goodies,3,18,16.67
+588,The National Conference Center,16,motion,3,18,16.67
+588,The National Conference Center,17,motion sensors,3,18,16.67
+588,The National Conference Center,18,pretty,3,18,16.67
+588,The National Conference Center,19,pretty grab,3,18,16.67
+588,The National Conference Center,20,raccoon,3,18,16.67
+594,Tidewater Inn,1,old,9,38,23.68
+594,Tidewater Inn,2,staff,9,38,23.68
+594,Tidewater Inn,3,bed,8,38,21.05
+594,Tidewater Inn,4,smell,8,38,21.05
+594,Tidewater Inn,5,arrived,6,38,15.79
+594,Tidewater Inn,6,bathroom,6,38,15.79
+594,Tidewater Inn,7,cape,6,38,15.79
+594,Tidewater Inn,8,didn't,6,38,15.79
+594,Tidewater Inn,9,great,6,38,15.79
+594,Tidewater Inn,10,check,5,38,13.16
+594,Tidewater Inn,11,checked,5,38,13.16
+594,Tidewater Inn,12,desk,5,38,13.16
+594,Tidewater Inn,13,dirty,5,38,13.16
+594,Tidewater Inn,14,door,5,38,13.16
+594,Tidewater Inn,15,hours,5,38,13.16
+594,Tidewater Inn,16,mattress,5,38,13.16
+594,Tidewater Inn,17,motel,5,38,13.16
+594,Tidewater Inn,18,musty,5,38,13.16
+594,Tidewater Inn,19,nights,5,38,13.16
+594,Tidewater Inn,20,pool,5,38,13.16
+596,Towneplace Suites Albany University Area,1,clean,3,13,23.08
+598,Travelodge Anaheim Convention Center,1,breakfast,15,54,27.78
+598,Travelodge Anaheim Convention Center,2,shower,12,54,22.22
+598,Travelodge Anaheim Convention Center,3,desk,11,54,20.37
+598,Travelodge Anaheim Convention Center,4,pool,11,54,20.37
+598,Travelodge Anaheim Convention Center,5,old,10,54,18.52
+598,Travelodge Anaheim Convention Center,6,parking,10,54,18.52
+598,Travelodge Anaheim Convention Center,7,bed,9,54,16.67
+598,Travelodge Anaheim Convention Center,8,door,8,54,14.81
+598,Travelodge Anaheim Convention Center,9,water,8,54,14.81
+598,Travelodge Anaheim Convention Center,10,dirty,7,54,12.96
+598,Travelodge Anaheim Convention Center,11,staff,7,54,12.96
+598,Travelodge Anaheim Convention Center,12,bad,6,54,11.11
+598,Travelodge Anaheim Convention Center,13,clean,6,54,11.11
+598,Travelodge Anaheim Convention Center,14,didn't,6,54,11.11
+598,Travelodge Anaheim Convention Center,15,don't,6,54,11.11
+598,Travelodge Anaheim Convention Center,16,hot,6,54,11.11
+598,Travelodge Anaheim Convention Center,17,ok,6,54,11.11
+598,Travelodge Anaheim Convention Center,18,working,6,54,11.11
+598,Travelodge Anaheim Convention Center,19,car,5,54,9.26
+598,Travelodge Anaheim Convention Center,20,closed,5,54,9.26
+615,Vista Hotel On Lake Tarpon,1,dirty,5,17,29.41
+615,Vista Hotel On Lake Tarpon,2,nice,5,17,29.41
+615,Vista Hotel On Lake Tarpon,3,old,5,17,29.41
+615,Vista Hotel On Lake Tarpon,4,staff,5,17,29.41
+615,Vista Hotel On Lake Tarpon,5,awful,4,17,23.53
+615,Vista Hotel On Lake Tarpon,6,bad,4,17,23.53
+615,Vista Hotel On Lake Tarpon,7,friendly,4,17,23.53
+615,Vista Hotel On Lake Tarpon,8,smelled,4,17,23.53
+615,Vista Hotel On Lake Tarpon,9,balcony,3,17,17.65
+615,Vista Hotel On Lake Tarpon,10,bathroom,3,17,17.65
+615,Vista Hotel On Lake Tarpon,11,bed,3,17,17.65
+615,Vista Hotel On Lake Tarpon,12,best,3,17,17.65
+615,Vista Hotel On Lake Tarpon,13,breakfast,3,17,17.65
+615,Vista Hotel On Lake Tarpon,14,carpet,3,17,17.65
+615,Vista Hotel On Lake Tarpon,15,clean,3,17,17.65
+615,Vista Hotel On Lake Tarpon,16,furniture,3,17,17.65
+615,Vista Hotel On Lake Tarpon,17,great,3,17,17.65
+615,Vista Hotel On Lake Tarpon,18,large,3,17,17.65
+615,Vista Hotel On Lake Tarpon,19,paid,3,17,17.65
+615,Vista Hotel On Lake Tarpon,20,recommend,3,17,17.65
+616,Warwick Denver,1,staff,5,15,33.33
+616,Warwick Denver,2,balcony,3,15,20.0
+616,Warwick Denver,3,called,3,15,20.0
+616,Warwick Denver,4,floor,3,15,20.0
+616,Warwick Denver,5,star,3,15,20.0
+618,Western Inn-glacier Park,1,breakfast,7,20,35.0
+618,Western Inn-glacier Park,2,shower,5,20,25.0
+618,Western Inn-glacier Park,3,water,5,20,25.0
+618,Western Inn-glacier Park,4,close,4,20,20.0
+618,Western Inn-glacier Park,5,hot,4,20,20.0
+618,Western Inn-glacier Park,6,little,4,20,20.0
+618,Western Inn-glacier Park,7,need,4,20,20.0
+618,Western Inn-glacier Park,8,nice,4,20,20.0
+618,Western Inn-glacier Park,9,small,4,20,20.0
+618,Western Inn-glacier Park,10,window,4,20,20.0
+618,Western Inn-glacier Park,11,basic,3,20,15.0
+618,Western Inn-glacier Park,12,beds,3,20,15.0
+618,Western Inn-glacier Park,13,don't,3,20,15.0
+618,Western Inn-glacier Park,14,family,3,20,15.0
+618,Western Inn-glacier Park,15,glacier,3,20,15.0
+618,Western Inn-glacier Park,16,nights,3,20,15.0
+618,Western Inn-glacier Park,17,paper,3,20,15.0
+618,Western Inn-glacier Park,18,park,3,20,15.0
+618,Western Inn-glacier Park,19,suite,3,20,15.0
+618,Western Inn-glacier Park,20,terrible,3,20,15.0
+622,Wine Valley Lodge,1,shower,3,14,21.43
+622,Wine Valley Lodge,2,walls,3,14,21.43
+625,Wingate By Wyndham Pueblo,1,bed,4,11,36.36
